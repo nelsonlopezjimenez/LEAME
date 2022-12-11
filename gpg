@@ -1,0 +1,8 @@
+# 12.11.2022
+
+## GPG
+
+1. gpg --symmetric --cipher-algo TWOFISH input.file
+1. gpg --decrypt input.file.gpg
+1. gpg --symmetric --cipher-algo TWOFISH --armor input.file
+1. gpg --decript input.file.asc
