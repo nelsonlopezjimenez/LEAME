@@ -14,8 +14,11 @@ This repository is for basic commands and procedures
 
 ## Github Instruction to add private key
 1. $ ssh-keygen -t ed25519 -C "your_email@example.com"
-1. # start the ssh-agent in the background
+1. start the ssh-agent in the background
 1. $ eval "$(ssh-agent -s)"
 1. > Agent pid 59566
 1. $ ssh-add ~/.ssh/id_ed25519
-1. 
+1. output:$ ssh-add ~/.ssh/github_ed25519_gammastudent_table_counter
+1. Identity added: /c/Users/gammastudent/.ssh/github_ed25519_gammastudent_table_counter 
+
+
