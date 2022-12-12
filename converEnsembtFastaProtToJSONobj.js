@@ -1,4 +1,4 @@
-//  readFileExample using the readFile abort example modified
+//  readFileExample using the readFile abort example modified 12.12.2022
 
 const { writeFile } = require('fs');
 
@@ -11,8 +11,6 @@ let fileName = 'out20.txt';
 fileName = './gbpri1.fsa_aa';
 
 fullPath += dirName + fileName;
-
-// fileName = '../../homo-sapiens-gr38/Homo_sapiens.GRCh38.pep.all.txt'; // JSON.stringigy(fastaOjbArray) invalid string length
 
 const readContentFile = async fileName => {
   try {
@@ -29,19 +27,15 @@ const readContentFile = async fileName => {
 // readContentFile(fileName);
 readContentFile(fullPath).then(item => {  // type of item : string
   let line = 0;
-  let buildString = "This is ";
   let counterGreaterThan = 0;
   let counterNewLine = 0;
   let fastaObjArray = [];
 
   let arraySplitNewLines = item.split('\n');
 
-  let previousRecord = "";
-  let currentRecord = "";
   let myObj = {};
   let prevObj = {};
-  let message = "this is else for new lines presence";
-  let lastGreaterThan;
+
   let lastGreaterThanLine;
   
   for (let i = 0; i < arraySplitNewLines.length - 1; i++) {
@@ -51,18 +45,16 @@ readContentFile(fullPath).then(item => {  // type of item : string
       lastGreaterThanLine = i + 1;
       counterGreaterThan++;
       // prevObj = Object.assign({}, myObj); // as in linked list, copy to prev and reinitialize for current
-      /**the head 300 file with 123 ">" gives 299 by using this method. Try map */
       // prevObj = myObj.map(i => i); // testing map function
       prevObj = {...myObj};
 
       myObj = {label: undefined, seq : ""}; // to fix the seq = undefinedMMEDE....
+
       myObj.label = arraySplitNewLines[i];
       /**This if is to solve the first item problem  it push only if prevObj is not undefined*/
       if (prevObj.label !== undefined ){
         fastaObjArray.push(prevObj);
       }
-
-
     } else {
       myObj.seq += arraySplitNewLines[i];
       /**this if is to solve lastitem problem IT DID NOT SOLVE it added ">" chars from 123 to 299 */
@@ -77,14 +69,6 @@ readContentFile(fullPath).then(item => {  // type of item : string
       }
     }
   }  //end for loop
-  
-  
-  // console.log("fastaObjArray second to last object: ");
-  // console.log(fastaObjArray[fastaObjArray.length-2]);
-  // console.log("fastaObjArray last object:");
-  // console.log(fastaObjArray[fastaObjArray.length-1]); // ***** consolelog
-  // console.log("==========================");
-  // console.log(`lastGreaterThan && arraySplitNewLines.length: ${lastGreaterThanLine} && ${arraySplitNewLines.length}`)
 
   for (let i=arraySplitNewLines.length-6; i<arraySplitNewLines.length; i++){  // last six lines from array
     console.log(`arraySplitNewLines ${arraySplitNewLines[i]}`)
@@ -94,8 +78,6 @@ readContentFile(fullPath).then(item => {  // type of item : string
                total lines: ${arraySplitNewLines.length} lastGreaterLine: ${lastGreaterThanLine}
                fastaObjArray.length: ${fastaObjArray.length}`)
 
-              //  Homo_sapiens.GRCh38.pep.all
-  // writeFile('gbpri1.fsa_aa.label-seq.out.json', JSON.stringify(fastaObjArray), (error) => {
   writeFile(fullPath + '.label-seq.out.json', JSON.stringify(fastaObjArray), (error) => {
     if (error) console.log(error);
     else console.log('success')
@@ -107,37 +89,34 @@ readContentFile(fullPath).then(item => {  // type of item : string
   })
 });
 
-// Problem 9.18.2022 Object { label: "...", seq: "undefinedMGPGLLHWMALCLLGTGHGDAMVIQNPRYQVTQFGKPVTLSCSQTLNHN...."}
 
-//   writeFile('out420.txt', (arraySplitNewLines), (error) =>{  // it is an array, not a TypedArray or Buffer or DataView
-//     if (error) console.log(error);
-//     else console.log('success')
-//   })
-// })
 
 /*
+* 12.12.2022
+* 1) ALGORiTHM:
+    a) Read content of file using promises
+    b) promise.then(process the content);
+    c) process the content: it is a string
+    d) string to array using split(newLine char);
+    e) declare currentObj and prevObj (a la linked list);
+    f) for loop
+    g) if first char is '>' copy to prev what is current
+    h) reinitialize current: label and seq to undefined and "" (not undefined)
+    i) assing to current.label the current line
+    j) push prevObj to the array of object
+    k) if first char is not '>' ie reading the sequence
+    l) add the current line to current.seq
+    m) continue if not the end of the array of separatedbynewlines
+    n) if it is last current then output 'last line looping'
+    o) finish looping
+    q) write a file with the json array and as flat file which is the same as original (no need in the future);
+    
  *1) 9.18.2022
  OUTPUT LOOKS CORRECT BUT ONE > IS MISSING!!!
 
  gammastudent@DESKTOP-7B54NT4 MINGW64 ~/Documents/2022-FALL/javascript/change-source (master)
 $ node readFileExample.js
 {
-  label: '>ENSP00000399781.1 pep chromosome:GRCh38:1:26442836:26471294:1 gene:ENSG00000117682.18 transcript:ENST00000431933.5 gene_biotype:protein_coding transcript_biotype:protein_coding gene_symbol:DHDDS description:dehydrodolichyl diphosphate synthase subunit [Source:HGNC Symbol;Acc:HGNC:20603]',
-  seq: 'undefinedLARQKFSRLMEEKEKLQKHGVCIRVLGDLHLLPLDLQELIAQAVQATKNYNNDISESLLDKCLYTNRSPHPDILIRTSGEVRLSDFLLWQQKARDMYAEERKRQQLERDQATVTEQLLREGLQASGDAQLRRTRLHKLSARREERVQGFLQALELKRADWLARLGTASA'
-}
-fastaObjArray.label at zero >ENSP00000488240.1 pep chromosome:GRCh38:CHR_HSCHR7_2_CTG6:142847306:142847317:1 gene:ENSG00000282253.1 transcript:ENST00000631435.1 gene_biotype:TR_D_gene transcript_biotype:TR_D_gene gene_symbol:TRBD1 description:T cell receptor beta diversity 1 [Source:HGNC Symbol;Acc:HGNC:12158]
-arraySplitNewLines GLQASGDAQLRRTRLHKLSARREERVQGFLQALELKRADWLARLGTASA
-arraySplitNewLines >ENSP00000393961.1 pep chromosome:GRCh38:1:26446364:26467527:1 gene:ENSG00000117682.18 transcript:ENST00000416052.1 gene_biotype:protein_coding transcript_biotype:protein_coding gene_symbol:DHDDS description:dehydrodolichyl diphosphate synthase subunit [Source:HGNC Symbol;Acc:HGNC:20603]
-arraySplitNewLines XHLLPLDLQELIAQAVQATKNYNKCFLNVCFAYTSRHEISNAVREMAWGVEQGLLDPSDI
-arraySplitNewLines SESLLDKCLYTNRSPHPDILIRTSGEVRLSDFLLWQTSHSCLVFQPVLWPEYTFWNLFEA
-arraySplitNewLines ILQFQMNHSVLQHPGSLLTKAWKKPFQQDGELYGNCSSPKSS
-arraySplitNewLines
-messages, counterGreate: 120712 and counterNewLines 0
-               total lines: 969270 lastGreaterLine: 969266
-               fastaObjArray.length: 120712
-success
-success
-
 
  *2) item is a string of the whole content with newLine chars at the right positions
  *2a) I tried to process as string: read char-by-char and establish the boundaries using > and \n
@@ -153,30 +132,4 @@ success
  * 3c) push prevObj to arrayof objects
  * 
  * 
- * 
- * THE  CUURENT PROBLEM 
- * {
-  label: '>ENSP00000488551.1 pep chromosome:GRCh38:CHR_HSCHR7_2_CTG6:142634764:142635309:1 gene:ENSG00000282497.1 
-  transcript:ENST00000631835.1 gene_biotype:TR_V_gene transcript_biotype:TR_V_gene gene_symbol:TRBV15 
-  description:T cell receptor beta variable 15 [Source:HGNC Symbol;Acc:HGNC:12190]',  
-  seq: 'undefinedMGPGLLHWMALCLLGTGHGDAMVIQNPRYQVTQFGKPVTLSCSQTLNHNVMYWYQQKSSQAPKLLFHYYDKDFNNEADTPDNFQSRRPNTSFCFLDIR
-  SPGLGDAAMYLCATSR'
-}
-   ********
-   ********
->ENSP00000488551.1 pep chromosome:GRCh38:CHR_HSCHR7_2_CTG6:142634764:142635309:1 gene:ENSG00000282497.1 transcript:ENST00000631835.1 gene_biotype:TR_V_gene transcript_biotype:TR_V_gene gene_symbol:TRBV15 description:T cell receptor beta variable 15 [Source:HGNC Symbol;Acc:HGNC:12190]
-MGPGLLHWMALCLLGTGHGDAMVIQNPRYQVTQFGKPVTLSCSQTLNHNVMYWYQQKSSQ
-APKLLFHYYDKDFNNEADTPDNFQSRRPNTSFCFLDIRSPGLGDAAMYLCATSR
-
-
- * 
- * readContentFile based on readFile with signal abort from VS Code
- * It reads whole file into memory as a promise
- * The promise is fulfilled and then the object is a string. Apply all string methods
- * in for (i of fileContent) if i === '\n' true, show line number if i === '>' show it as implicit index in
- * the string.
- * NOW: build the line while reading the file: no way to keep in memory before or after current index i
- * for loop executes current character only
-  [...,{"label":">ENSP00000488551.1 pep chromosome:GRCh38:CHR_HSCHR7_2_CTG6:142634764:142635309:1 gene:ENSG00000282497.1 transcript:ENST00000631835.1 gene_biotype:TR_V_gene transcript_biotype:TR_V_gene gene_symbol:TRBV15 description:T cell receptor beta variable 15 [Source:HGNC Symbol;Acc:HGNC:12190]"},{"seq":"undefinedMGPGLLHWMALCLLGTGHGDAMVIQNPRYQVTQFGKPVTLSCSQTLNHNVMYWYQQKSSQ"},{"seq":"undefinedAPKLLFHYYDKDFNNEADTPDNFQSRRPNTSFCFLDIRSPGLGDAAMYLCATSR"},{"label":">ENSP00000451578.1 pep chromosome:GRCh38:14:22422371:22423042:1 gene:ENSG00000211821.2 transcript:ENST00000390469.2 gene_biotype:TR_V_gene transcript_biotype:TR_V_gene gene_symbol:TRDV2 description:T cell receptor delta variable 2 [Source:HGNC Symbol;Acc:HGNC:12263]"},{"seq":"undefinedMQRISSLIHLSLFWAGVMSAIELVPEHQTVPVSIGVPATLRCSMKGEAIGNYYINWYRKT"}]
-
 */
