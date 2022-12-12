@@ -21,4 +21,9 @@ This repository is for basic commands and procedures
 1. output:$ ssh-add ~/.ssh/github_ed25519_gammastudent_table_counter
 1. Identity added: /c/Users/gammastudent/.ssh/github_ed25519_gammastudent_table_counter 
 
+## GPG syntax 
+1. gpg --symmetric --cipher-algo TWOFISH --armor (or not) passwords
+1. gpg --decrypt passwords.gpg or passwords.asc
+1. in android  used OpenKeychain
+
 
