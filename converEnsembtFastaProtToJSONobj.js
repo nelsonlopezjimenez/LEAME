@@ -4,19 +4,13 @@ const { writeFile } = require('fs');
 
 const { readFile } = require('fs').promises;
 
-let dirName = './DATA/'
+let fullPath = "C:/Users/gammastudent/Documents/2022-FALL/javascript/change-source/"
+
+let dirName = 'DATA/'
 let fileName = 'out20.txt';
-fileName = '../../homo-sapiens-gr38/Homo_sapiens.GRCh38.pep.all.2.txt'; // head -300 Homo_sapiens.GRCh38.pep.all.txt >
-fileName = './fasta-like-sequence.txt'; // to test why after converting to array from string.spli('\n') then to 
-                              // object the "seq" property has an "undefined" at the beginning
-
-fileName = 'Homo_sapiens.GRCh38.pep.all.2.txt';
-fileName = 'HHomo_sapiens.GRCh38.pep.all.2.txt'; //labels made shorter without adding carriage returns
-fileName = '../../homo-sapiens-gr38/Homo_sapiens.GRCh38.pep.all.2.txt'; // head -300 Homo_sapiens.GRCh38.pep.all.txt >
-fileName = '../../homo-sapiens-gr38/Homo_sapiens.GRCh38.pep.all.txt'; // pep.all
 fileName = './gbpri1.fsa_aa';
-fileName = 'Homo_sapiens.GRCh38.pep.all.txt'; // pep.all
 
+fullPath += dirName + fileName;
 
 // fileName = '../../homo-sapiens-gr38/Homo_sapiens.GRCh38.pep.all.txt'; // JSON.stringigy(fastaOjbArray) invalid string length
 
@@ -33,7 +27,7 @@ const readContentFile = async fileName => {
 };
 // readContentFile(fileName).then( i => console.log(i));
 // readContentFile(fileName);
-readContentFile(fileName).then(item => {  // type of item : string
+readContentFile(fullPath).then(item => {  // type of item : string
   let line = 0;
   let buildString = "This is ";
   let counterGreaterThan = 0;
@@ -61,7 +55,7 @@ readContentFile(fileName).then(item => {  // type of item : string
       // prevObj = myObj.map(i => i); // testing map function
       prevObj = {...myObj};
 
-      myObj = {};
+      myObj = {label: undefined, seq : ""}; // to fix the seq = undefinedMMEDE....
       myObj.label = arraySplitNewLines[i];
       /**This if is to solve the first item problem  it push only if prevObj is not undefined*/
       if (prevObj.label !== undefined ){
@@ -102,12 +96,12 @@ readContentFile(fileName).then(item => {  // type of item : string
 
               //  Homo_sapiens.GRCh38.pep.all
   // writeFile('gbpri1.fsa_aa.label-seq.out.json', JSON.stringify(fastaObjArray), (error) => {
-  writeFile(dirName + fileName + '.label-seq.out.json', JSON.stringify(fastaObjArray), (error) => {
+  writeFile(fullPath + '.label-seq.out.json', JSON.stringify(fastaObjArray), (error) => {
     if (error) console.log(error);
     else console.log('success')
   })
 
-  writeFile(dirName + fileName + '.out.label-seq.flat', (item), (error) => {
+  writeFile(fullPath + '.out.label-seq.flat', (item), (error) => {
     if (error) console.log(error);
     else console.log('success')
   })
