@@ -26,4 +26,9 @@ This repository is for basic commands and procedures
 1. gpg --decrypt passwords.gpg or passwords.asc
 1. in android  used OpenKeychain
 
+## Github Instructions when rep is newly created on the web and first still sit in the computer
+1. git remote add origin get@github.com:xxxx/repname
+2. git branch -M main
+3. git push origin main
+4. 
 
