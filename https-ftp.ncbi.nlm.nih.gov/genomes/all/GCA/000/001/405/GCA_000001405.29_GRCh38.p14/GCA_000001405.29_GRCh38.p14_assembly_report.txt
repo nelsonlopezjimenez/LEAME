@@ -1,0 +1,771 @@
+# Assembly name:  GRCh38.p14
+# Description:    Genome Reference Consortium Human Build 38 patch release 14 (GRCh38.p14)
+# Organism name:  Homo sapiens (human)
+# Taxid:          9606
+# BioProject:     PRJNA31257
+# Submitter:      Genome Reference Consortium
+# Date:           2022-02-03
+# Synonyms:       hg38	
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# RefSeq category: Reference Genome
+# GenBank assembly accession: GCA_000001405.29
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.2		Primary Assembly
+## GCA_000005045.27		PATCHES
+## GCA_000001315.2		ALT_REF_LOCI_1
+## GCA_000001325.2		ALT_REF_LOCI_2
+## GCA_000001335.2		ALT_REF_LOCI_3
+## GCA_000001345.2		ALT_REF_LOCI_4
+## GCA_000001355.2		ALT_REF_LOCI_5
+## GCA_000001365.2		ALT_REF_LOCI_6
+## GCA_000001375.2		ALT_REF_LOCI_7
+## GCA_000510225.1		ALT_REF_LOCI_8
+## GCA_000510235.1		ALT_REF_LOCI_9
+## GCA_000509915.1		ALT_REF_LOCI_10
+## GCA_000509925.1		ALT_REF_LOCI_11
+## GCA_000509935.1		ALT_REF_LOCI_12
+## GCA_000509945.1		ALT_REF_LOCI_13
+## GCA_000509955.1		ALT_REF_LOCI_14
+## GCA_000509965.1		ALT_REF_LOCI_15
+## GCA_000509975.1		ALT_REF_LOCI_16
+## GCA_000509985.1		ALT_REF_LOCI_17
+## GCA_000509995.1		ALT_REF_LOCI_18
+## GCA_000510005.1		ALT_REF_LOCI_19
+## GCA_000510015.1		ALT_REF_LOCI_20
+## GCA_000510025.1		ALT_REF_LOCI_21
+## GCA_000510035.1		ALT_REF_LOCI_22
+## GCA_000510045.1		ALT_REF_LOCI_23
+## GCA_000510055.1		ALT_REF_LOCI_24
+## GCA_000510065.1		ALT_REF_LOCI_25
+## GCA_000510075.1		ALT_REF_LOCI_26
+## GCA_000510085.1		ALT_REF_LOCI_27
+## GCA_000510095.1		ALT_REF_LOCI_28
+## GCA_000510105.1		ALT_REF_LOCI_29
+## GCA_000510125.1		ALT_REF_LOCI_30
+## GCA_000510135.1		ALT_REF_LOCI_31
+## GCA_000510145.1		ALT_REF_LOCI_32
+## GCA_000510155.1		ALT_REF_LOCI_33
+## GCA_000510165.1		ALT_REF_LOCI_34
+## GCA_000510175.1		ALT_REF_LOCI_35
+## GCA_000006015.1		non-nuclear
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+1	assembled-molecule	1	Chromosome	CM000663.2	<>	na	Primary Assembly	248956422	chr1
+2	assembled-molecule	2	Chromosome	CM000664.2	<>	na	Primary Assembly	242193529	chr2
+3	assembled-molecule	3	Chromosome	CM000665.2	<>	na	Primary Assembly	198295559	chr3
+4	assembled-molecule	4	Chromosome	CM000666.2	<>	na	Primary Assembly	190214555	chr4
+5	assembled-molecule	5	Chromosome	CM000667.2	<>	na	Primary Assembly	181538259	chr5
+6	assembled-molecule	6	Chromosome	CM000668.2	<>	na	Primary Assembly	170805979	chr6
+7	assembled-molecule	7	Chromosome	CM000669.2	<>	na	Primary Assembly	159345973	chr7
+8	assembled-molecule	8	Chromosome	CM000670.2	<>	na	Primary Assembly	145138636	chr8
+9	assembled-molecule	9	Chromosome	CM000671.2	<>	na	Primary Assembly	138394717	chr9
+10	assembled-molecule	10	Chromosome	CM000672.2	<>	na	Primary Assembly	133797422	chr10
+11	assembled-molecule	11	Chromosome	CM000673.2	<>	na	Primary Assembly	135086622	chr11
+12	assembled-molecule	12	Chromosome	CM000674.2	<>	na	Primary Assembly	133275309	chr12
+13	assembled-molecule	13	Chromosome	CM000675.2	<>	na	Primary Assembly	114364328	chr13
+14	assembled-molecule	14	Chromosome	CM000676.2	<>	na	Primary Assembly	107043718	chr14
+15	assembled-molecule	15	Chromosome	CM000677.2	<>	na	Primary Assembly	101991189	chr15
+16	assembled-molecule	16	Chromosome	CM000678.2	<>	na	Primary Assembly	90338345	chr16
+17	assembled-molecule	17	Chromosome	CM000679.2	<>	na	Primary Assembly	83257441	chr17
+18	assembled-molecule	18	Chromosome	CM000680.2	<>	na	Primary Assembly	80373285	chr18
+19	assembled-molecule	19	Chromosome	CM000681.2	<>	na	Primary Assembly	58617616	chr19
+20	assembled-molecule	20	Chromosome	CM000682.2	<>	na	Primary Assembly	64444167	chr20
+21	assembled-molecule	21	Chromosome	CM000683.2	<>	na	Primary Assembly	46709983	chr21
+22	assembled-molecule	22	Chromosome	CM000684.2	<>	na	Primary Assembly	50818468	chr22
+X	assembled-molecule	X	Chromosome	CM000685.2	<>	na	Primary Assembly	156040895	chrX
+Y	assembled-molecule	Y	Chromosome	CM000686.2	<>	na	Primary Assembly	57227415	chrY
+HSCHR1_CTG1_UNLOCALIZED	unlocalized-scaffold	1	Chromosome	KI270706.1	<>	na	Primary Assembly	175055	chr1_KI270706v1_random
+HSCHR1_CTG2_UNLOCALIZED	unlocalized-scaffold	1	Chromosome	KI270707.1	<>	na	Primary Assembly	32032	chr1_KI270707v1_random
+HSCHR1_CTG3_UNLOCALIZED	unlocalized-scaffold	1	Chromosome	KI270708.1	<>	na	Primary Assembly	127682	chr1_KI270708v1_random
+HSCHR1_CTG4_UNLOCALIZED	unlocalized-scaffold	1	Chromosome	KI270709.1	<>	na	Primary Assembly	66860	chr1_KI270709v1_random
+HSCHR1_CTG5_UNLOCALIZED	unlocalized-scaffold	1	Chromosome	KI270710.1	<>	na	Primary Assembly	40176	chr1_KI270710v1_random
+HSCHR1_CTG6_UNLOCALIZED	unlocalized-scaffold	1	Chromosome	KI270711.1	<>	na	Primary Assembly	42210	chr1_KI270711v1_random
+HSCHR1_CTG7_UNLOCALIZED	unlocalized-scaffold	1	Chromosome	KI270712.1	<>	na	Primary Assembly	176043	chr1_KI270712v1_random
+HSCHR1_CTG8_UNLOCALIZED	unlocalized-scaffold	1	Chromosome	KI270713.1	<>	na	Primary Assembly	40745	chr1_KI270713v1_random
+HSCHR1_CTG9_UNLOCALIZED	unlocalized-scaffold	1	Chromosome	KI270714.1	<>	na	Primary Assembly	41717	chr1_KI270714v1_random
+HSCHR2_RANDOM_CTG1	unlocalized-scaffold	2	Chromosome	KI270715.1	<>	na	Primary Assembly	161471	chr2_KI270715v1_random
+HSCHR2_RANDOM_CTG2	unlocalized-scaffold	2	Chromosome	KI270716.1	<>	na	Primary Assembly	153799	chr2_KI270716v1_random
+HSCHR3UN_CTG2	unlocalized-scaffold	3	Chromosome	GL000221.1	<>	na	Primary Assembly	155397	chr3_GL000221v1_random
+HSCHR4_RANDOM_CTG4	unlocalized-scaffold	4	Chromosome	GL000008.2	<>	na	Primary Assembly	209709	chr4_GL000008v2_random
+HSCHR5_RANDOM_CTG1	unlocalized-scaffold	5	Chromosome	GL000208.1	<>	na	Primary Assembly	92689	chr5_GL000208v1_random
+HSCHR9_UNLOCALIZED_CTG1	unlocalized-scaffold	9	Chromosome	KI270717.1	<>	na	Primary Assembly	40062	chr9_KI270717v1_random
+HSCHR9_UNLOCALIZED_CTG2	unlocalized-scaffold	9	Chromosome	KI270718.1	<>	na	Primary Assembly	38054	chr9_KI270718v1_random
+HSCHR9_UNLOCALIZED_CTG3	unlocalized-scaffold	9	Chromosome	KI270719.1	<>	na	Primary Assembly	176845	chr9_KI270719v1_random
+HSCHR9_UNLOCALIZED_CTG4	unlocalized-scaffold	9	Chromosome	KI270720.1	<>	na	Primary Assembly	39050	chr9_KI270720v1_random
+HSCHR11_CTG1_UNLOCALIZED	unlocalized-scaffold	11	Chromosome	KI270721.1	<>	na	Primary Assembly	100316	chr11_KI270721v1_random
+HSCHR14_CTG1_UNLOCALIZED	unlocalized-scaffold	14	Chromosome	GL000009.2	<>	na	Primary Assembly	201709	chr14_GL000009v2_random
+HSCHR14_CTG4_UNLOCALIZED	unlocalized-scaffold	14	Chromosome	GL000194.1	<>	na	Primary Assembly	191469	chr14_GL000194v1_random
+HSCHR14_CTG2_UNLOCALIZED	unlocalized-scaffold	14	Chromosome	GL000225.1	<>	na	Primary Assembly	211173	chr14_GL000225v1_random
+HSCHR14_CTG3_UNLOCALIZED	unlocalized-scaffold	14	Chromosome	KI270722.1	<>	na	Primary Assembly	194050	chr14_KI270722v1_random
+HSCHR14_CTG5_UNLOCALIZED	unlocalized-scaffold	14	Chromosome	KI270723.1	<>	na	Primary Assembly	38115	chr14_KI270723v1_random
+HSCHR14_CTG6_UNLOCALIZED	unlocalized-scaffold	14	Chromosome	KI270724.1	<>	na	Primary Assembly	39555	chr14_KI270724v1_random
+HSCHR14_CTG7_UNLOCALIZED	unlocalized-scaffold	14	Chromosome	KI270725.1	<>	na	Primary Assembly	172810	chr14_KI270725v1_random
+HSCHR14_CTG8_UNLOCALIZED	unlocalized-scaffold	14	Chromosome	KI270726.1	<>	na	Primary Assembly	43739	chr14_KI270726v1_random
+HSCHR15_RANDOM_CTG1	unlocalized-scaffold	15	Chromosome	KI270727.1	<>	na	Primary Assembly	448248	chr15_KI270727v1_random
+HSCHR16_RANDOM_CTG1	unlocalized-scaffold	16	Chromosome	KI270728.1	<>	na	Primary Assembly	1872759	chr16_KI270728v1_random
+HSCHR17_RANDOM_CTG3	unlocalized-scaffold	17	Chromosome	GL000205.2	<>	na	Primary Assembly	185591	chr17_GL000205v2_random
+HSCHR17_RANDOM_CTG4	unlocalized-scaffold	17	Chromosome	KI270729.1	<>	na	Primary Assembly	280839	chr17_KI270729v1_random
+HSCHR17_RANDOM_CTG5	unlocalized-scaffold	17	Chromosome	KI270730.1	<>	na	Primary Assembly	112551	chr17_KI270730v1_random
+HSCHR22_UNLOCALIZED_CTG1	unlocalized-scaffold	22	Chromosome	KI270731.1	<>	na	Primary Assembly	150754	chr22_KI270731v1_random
+HSCHR22_UNLOCALIZED_CTG2	unlocalized-scaffold	22	Chromosome	KI270732.1	<>	na	Primary Assembly	41543	chr22_KI270732v1_random
+HSCHR22_UNLOCALIZED_CTG3	unlocalized-scaffold	22	Chromosome	KI270733.1	<>	na	Primary Assembly	179772	chr22_KI270733v1_random
+HSCHR22_UNLOCALIZED_CTG4	unlocalized-scaffold	22	Chromosome	KI270734.1	<>	na	Primary Assembly	165050	chr22_KI270734v1_random
+HSCHR22_UNLOCALIZED_CTG5	unlocalized-scaffold	22	Chromosome	KI270735.1	<>	na	Primary Assembly	42811	chr22_KI270735v1_random
+HSCHR22_UNLOCALIZED_CTG6	unlocalized-scaffold	22	Chromosome	KI270736.1	<>	na	Primary Assembly	181920	chr22_KI270736v1_random
+HSCHR22_UNLOCALIZED_CTG7	unlocalized-scaffold	22	Chromosome	KI270737.1	<>	na	Primary Assembly	103838	chr22_KI270737v1_random
+HSCHR22_UNLOCALIZED_CTG8	unlocalized-scaffold	22	Chromosome	KI270738.1	<>	na	Primary Assembly	99375	chr22_KI270738v1_random
+HSCHR22_UNLOCALIZED_CTG9	unlocalized-scaffold	22	Chromosome	KI270739.1	<>	na	Primary Assembly	73985	chr22_KI270739v1_random
+HSCHRY_RANDOM_CTG1	unlocalized-scaffold	Y	Chromosome	KI270740.1	<>	na	Primary Assembly	37240	chrY_KI270740v1_random
+HSCHRUN_RANDOM_CTG1	unplaced-scaffold	na	na	GL000195.1	<>	na	Primary Assembly	182896	chrUn_GL000195v1
+HSCHRUN_RANDOM_CTG2	unplaced-scaffold	na	na	GL000213.1	<>	na	Primary Assembly	164239	chrUn_GL000213v1
+HSCHRUN_RANDOM_CTG4	unplaced-scaffold	na	na	GL000214.1	<>	na	Primary Assembly	137718	chrUn_GL000214v1
+HSCHRUN_RANDOM_CTG6	unplaced-scaffold	na	na	GL000216.2	<>	na	Primary Assembly	176608	chrUn_GL000216v2
+HSCHRUN_RANDOM_CTG9	unplaced-scaffold	na	na	GL000218.1	<>	na	Primary Assembly	161147	chrUn_GL000218v1
+HSCHRUN_RANDOM_CTG10	unplaced-scaffold	na	na	GL000219.1	<>	na	Primary Assembly	179198	chrUn_GL000219v1
+HSCHRUN_RANDOM_CTG11	unplaced-scaffold	na	na	GL000220.1	<>	na	Primary Assembly	161802	chrUn_GL000220v1
+HSCHRUN_RANDOM_CTG16	unplaced-scaffold	na	na	GL000224.1	<>	na	Primary Assembly	179693	chrUn_GL000224v1
+HSCHRUN_RANDOM_CTG19	unplaced-scaffold	na	na	GL000226.1	<>	na	Primary Assembly	15008	chrUn_GL000226v1
+HSCHRUN_RANDOM_100	unplaced-scaffold	na	na	KI270302.1	<>	na	Primary Assembly	2274	chrUn_KI270302v1
+HSCHRUN_RANDOM_102	unplaced-scaffold	na	na	KI270303.1	<>	na	Primary Assembly	1942	chrUn_KI270303v1
+HSCHRUN_RANDOM_101	unplaced-scaffold	na	na	KI270304.1	<>	na	Primary Assembly	2165	chrUn_KI270304v1
+HSCHRUN_RANDOM_103	unplaced-scaffold	na	na	KI270305.1	<>	na	Primary Assembly	1472	chrUn_KI270305v1
+HSCHRUN_RANDOM_106	unplaced-scaffold	na	na	KI270310.1	<>	na	Primary Assembly	1201	chrUn_KI270310v1
+HSCHRUN_RANDOM_110	unplaced-scaffold	na	na	KI270311.1	<>	na	Primary Assembly	12399	chrUn_KI270311v1
+HSCHRUN_RANDOM_109	unplaced-scaffold	na	na	KI270312.1	<>	na	Primary Assembly	998	chrUn_KI270312v1
+HSCHRUN_RANDOM_108	unplaced-scaffold	na	na	KI270315.1	<>	na	Primary Assembly	2276	chrUn_KI270315v1
+HSCHRUN_RANDOM_107	unplaced-scaffold	na	na	KI270316.1	<>	na	Primary Assembly	1444	chrUn_KI270316v1
+HSCHRUN_RANDOM_111	unplaced-scaffold	na	na	KI270317.1	<>	na	Primary Assembly	37690	chrUn_KI270317v1
+HSCHRUN_RANDOM_105	unplaced-scaffold	na	na	KI270320.1	<>	na	Primary Assembly	4416	chrUn_KI270320v1
+HSCHRUN_RANDOM_104	unplaced-scaffold	na	na	KI270322.1	<>	na	Primary Assembly	21476	chrUn_KI270322v1
+HSCHRUN_RANDOM_167	unplaced-scaffold	na	na	KI270329.1	<>	na	Primary Assembly	1040	chrUn_KI270329v1
+HSCHRUN_RANDOM_166	unplaced-scaffold	na	na	KI270330.1	<>	na	Primary Assembly	1652	chrUn_KI270330v1
+HSCHRUN_RANDOM_169	unplaced-scaffold	na	na	KI270333.1	<>	na	Primary Assembly	2699	chrUn_KI270333v1
+HSCHRUN_RANDOM_168	unplaced-scaffold	na	na	KI270334.1	<>	na	Primary Assembly	1368	chrUn_KI270334v1
+HSCHRUN_RANDOM_170	unplaced-scaffold	na	na	KI270335.1	<>	na	Primary Assembly	1048	chrUn_KI270335v1
+HSCHRUN_RANDOM_173	unplaced-scaffold	na	na	KI270336.1	<>	na	Primary Assembly	1026	chrUn_KI270336v1
+HSCHRUN_RANDOM_174	unplaced-scaffold	na	na	KI270337.1	<>	na	Primary Assembly	1121	chrUn_KI270337v1
+HSCHRUN_RANDOM_171	unplaced-scaffold	na	na	KI270338.1	<>	na	Primary Assembly	1428	chrUn_KI270338v1
+HSCHRUN_RANDOM_172	unplaced-scaffold	na	na	KI270340.1	<>	na	Primary Assembly	1428	chrUn_KI270340v1
+HSCHRUN_RANDOM_177	unplaced-scaffold	na	na	KI270362.1	<>	na	Primary Assembly	3530	chrUn_KI270362v1
+HSCHRUN_RANDOM_175	unplaced-scaffold	na	na	KI270363.1	<>	na	Primary Assembly	1803	chrUn_KI270363v1
+HSCHRUN_RANDOM_176	unplaced-scaffold	na	na	KI270364.1	<>	na	Primary Assembly	2855	chrUn_KI270364v1
+HSCHRUN_RANDOM_178	unplaced-scaffold	na	na	KI270366.1	<>	na	Primary Assembly	8320	chrUn_KI270366v1
+HSCHRUN_RANDOM_202	unplaced-scaffold	na	na	KI270371.1	<>	na	Primary Assembly	2805	chrUn_KI270371v1
+HSCHRUN_RANDOM_199	unplaced-scaffold	na	na	KI270372.1	<>	na	Primary Assembly	1650	chrUn_KI270372v1
+HSCHRUN_RANDOM_200	unplaced-scaffold	na	na	KI270373.1	<>	na	Primary Assembly	1451	chrUn_KI270373v1
+HSCHRUN_RANDOM_198	unplaced-scaffold	na	na	KI270374.1	<>	na	Primary Assembly	2656	chrUn_KI270374v1
+HSCHRUN_RANDOM_201	unplaced-scaffold	na	na	KI270375.1	<>	na	Primary Assembly	2378	chrUn_KI270375v1
+HSCHRUN_RANDOM_197	unplaced-scaffold	na	na	KI270376.1	<>	na	Primary Assembly	1136	chrUn_KI270376v1
+HSCHRUN_RANDOM_179	unplaced-scaffold	na	na	KI270378.1	<>	na	Primary Assembly	1048	chrUn_KI270378v1
+HSCHRUN_RANDOM_180	unplaced-scaffold	na	na	KI270379.1	<>	na	Primary Assembly	1045	chrUn_KI270379v1
+HSCHRUN_RANDOM_194	unplaced-scaffold	na	na	KI270381.1	<>	na	Primary Assembly	1930	chrUn_KI270381v1
+HSCHRUN_RANDOM_196	unplaced-scaffold	na	na	KI270382.1	<>	na	Primary Assembly	4215	chrUn_KI270382v1
+HSCHRUN_RANDOM_190	unplaced-scaffold	na	na	KI270383.1	<>	na	Primary Assembly	1750	chrUn_KI270383v1
+HSCHRUN_RANDOM_192	unplaced-scaffold	na	na	KI270384.1	<>	na	Primary Assembly	1658	chrUn_KI270384v1
+HSCHRUN_RANDOM_195	unplaced-scaffold	na	na	KI270385.1	<>	na	Primary Assembly	990	chrUn_KI270385v1
+HSCHRUN_RANDOM_188	unplaced-scaffold	na	na	KI270386.1	<>	na	Primary Assembly	1788	chrUn_KI270386v1
+HSCHRUN_RANDOM_183	unplaced-scaffold	na	na	KI270387.1	<>	na	Primary Assembly	1537	chrUn_KI270387v1
+HSCHRUN_RANDOM_186	unplaced-scaffold	na	na	KI270388.1	<>	na	Primary Assembly	1216	chrUn_KI270388v1
+HSCHRUN_RANDOM_181	unplaced-scaffold	na	na	KI270389.1	<>	na	Primary Assembly	1298	chrUn_KI270389v1
+HSCHRUN_RANDOM_182	unplaced-scaffold	na	na	KI270390.1	<>	na	Primary Assembly	2387	chrUn_KI270390v1
+HSCHRUN_RANDOM_189	unplaced-scaffold	na	na	KI270391.1	<>	na	Primary Assembly	1484	chrUn_KI270391v1
+HSCHRUN_RANDOM_193	unplaced-scaffold	na	na	KI270392.1	<>	na	Primary Assembly	971	chrUn_KI270392v1
+HSCHRUN_RANDOM_191	unplaced-scaffold	na	na	KI270393.1	<>	na	Primary Assembly	1308	chrUn_KI270393v1
+HSCHRUN_RANDOM_187	unplaced-scaffold	na	na	KI270394.1	<>	na	Primary Assembly	970	chrUn_KI270394v1
+HSCHRUN_RANDOM_184	unplaced-scaffold	na	na	KI270395.1	<>	na	Primary Assembly	1143	chrUn_KI270395v1
+HSCHRUN_RANDOM_185	unplaced-scaffold	na	na	KI270396.1	<>	na	Primary Assembly	1880	chrUn_KI270396v1
+HSCHRUN_RANDOM_113	unplaced-scaffold	na	na	KI270411.1	<>	na	Primary Assembly	2646	chrUn_KI270411v1
+HSCHRUN_RANDOM_112	unplaced-scaffold	na	na	KI270412.1	<>	na	Primary Assembly	1179	chrUn_KI270412v1
+HSCHRUN_RANDOM_114	unplaced-scaffold	na	na	KI270414.1	<>	na	Primary Assembly	2489	chrUn_KI270414v1
+HSCHRUN_RANDOM_119	unplaced-scaffold	na	na	KI270417.1	<>	na	Primary Assembly	2043	chrUn_KI270417v1
+HSCHRUN_RANDOM_116	unplaced-scaffold	na	na	KI270418.1	<>	na	Primary Assembly	2145	chrUn_KI270418v1
+HSCHRUN_RANDOM_115	unplaced-scaffold	na	na	KI270419.1	<>	na	Primary Assembly	1029	chrUn_KI270419v1
+HSCHRUN_RANDOM_117	unplaced-scaffold	na	na	KI270420.1	<>	na	Primary Assembly	2321	chrUn_KI270420v1
+HSCHRUN_RANDOM_120	unplaced-scaffold	na	na	KI270422.1	<>	na	Primary Assembly	1445	chrUn_KI270422v1
+HSCHRUN_RANDOM_121	unplaced-scaffold	na	na	KI270423.1	<>	na	Primary Assembly	981	chrUn_KI270423v1
+HSCHRUN_RANDOM_118	unplaced-scaffold	na	na	KI270424.1	<>	na	Primary Assembly	2140	chrUn_KI270424v1
+HSCHRUN_RANDOM_122	unplaced-scaffold	na	na	KI270425.1	<>	na	Primary Assembly	1884	chrUn_KI270425v1
+HSCHRUN_RANDOM_123	unplaced-scaffold	na	na	KI270429.1	<>	na	Primary Assembly	1361	chrUn_KI270429v1
+HSCHRUN_RANDOM_128	unplaced-scaffold	na	na	KI270435.1	<>	na	Primary Assembly	92983	chrUn_KI270435v1
+HSCHRUN_RANDOM_129	unplaced-scaffold	na	na	KI270438.1	<>	na	Primary Assembly	112505	chrUn_KI270438v1
+HSCHRUN_RANDOM_124	unplaced-scaffold	na	na	KI270442.1	<>	na	Primary Assembly	392061	chrUn_KI270442v1
+HSCHRUN_RANDOM_203	unplaced-scaffold	na	na	KI270448.1	<>	na	Primary Assembly	7992	chrUn_KI270448v1
+HSCHRUN_RANDOM_126	unplaced-scaffold	na	na	KI270465.1	<>	na	Primary Assembly	1774	chrUn_KI270465v1
+HSCHRUN_RANDOM_125	unplaced-scaffold	na	na	KI270466.1	<>	na	Primary Assembly	1233	chrUn_KI270466v1
+HSCHRUN_RANDOM_127	unplaced-scaffold	na	na	KI270467.1	<>	na	Primary Assembly	3920	chrUn_KI270467v1
+HSCHRUN_RANDOM_130	unplaced-scaffold	na	na	KI270468.1	<>	na	Primary Assembly	4055	chrUn_KI270468v1
+HSCHRUN_RANDOM_141	unplaced-scaffold	na	na	KI270507.1	<>	na	Primary Assembly	5353	chrUn_KI270507v1
+HSCHRUN_RANDOM_134	unplaced-scaffold	na	na	KI270508.1	<>	na	Primary Assembly	1951	chrUn_KI270508v1
+HSCHRUN_RANDOM_132	unplaced-scaffold	na	na	KI270509.1	<>	na	Primary Assembly	2318	chrUn_KI270509v1
+HSCHRUN_RANDOM_131	unplaced-scaffold	na	na	KI270510.1	<>	na	Primary Assembly	2415	chrUn_KI270510v1
+HSCHRUN_RANDOM_139	unplaced-scaffold	na	na	KI270511.1	<>	na	Primary Assembly	8127	chrUn_KI270511v1
+HSCHRUN_RANDOM_136	unplaced-scaffold	na	na	KI270512.1	<>	na	Primary Assembly	22689	chrUn_KI270512v1
+HSCHRUN_RANDOM_140	unplaced-scaffold	na	na	KI270515.1	<>	na	Primary Assembly	6361	chrUn_KI270515v1
+HSCHRUN_RANDOM_135	unplaced-scaffold	na	na	KI270516.1	<>	na	Primary Assembly	1300	chrUn_KI270516v1
+HSCHRUN_RANDOM_142	unplaced-scaffold	na	na	KI270517.1	<>	na	Primary Assembly	3253	chrUn_KI270517v1
+HSCHRUN_RANDOM_133	unplaced-scaffold	na	na	KI270518.1	<>	na	Primary Assembly	2186	chrUn_KI270518v1
+HSCHRUN_RANDOM_137	unplaced-scaffold	na	na	KI270519.1	<>	na	Primary Assembly	138126	chrUn_KI270519v1
+HSCHRUN_RANDOM_204	unplaced-scaffold	na	na	KI270521.1	<>	na	Primary Assembly	7642	chrUn_KI270521v1
+HSCHRUN_RANDOM_138	unplaced-scaffold	na	na	KI270522.1	<>	na	Primary Assembly	5674	chrUn_KI270522v1
+HSCHRUN_RANDOM_144	unplaced-scaffold	na	na	KI270528.1	<>	na	Primary Assembly	2983	chrUn_KI270528v1
+HSCHRUN_RANDOM_143	unplaced-scaffold	na	na	KI270529.1	<>	na	Primary Assembly	1899	chrUn_KI270529v1
+HSCHRUN_RANDOM_145	unplaced-scaffold	na	na	KI270530.1	<>	na	Primary Assembly	2168	chrUn_KI270530v1
+HSCHRUN_RANDOM_147	unplaced-scaffold	na	na	KI270538.1	<>	na	Primary Assembly	91309	chrUn_KI270538v1
+HSCHRUN_RANDOM_146	unplaced-scaffold	na	na	KI270539.1	<>	na	Primary Assembly	993	chrUn_KI270539v1
+HSCHRUN_RANDOM_148	unplaced-scaffold	na	na	KI270544.1	<>	na	Primary Assembly	1202	chrUn_KI270544v1
+HSCHRUN_RANDOM_149	unplaced-scaffold	na	na	KI270548.1	<>	na	Primary Assembly	1599	chrUn_KI270548v1
+HSCHRUN_RANDOM_158	unplaced-scaffold	na	na	KI270579.1	<>	na	Primary Assembly	31033	chrUn_KI270579v1
+HSCHRUN_RANDOM_156	unplaced-scaffold	na	na	KI270580.1	<>	na	Primary Assembly	1553	chrUn_KI270580v1
+HSCHRUN_RANDOM_157	unplaced-scaffold	na	na	KI270581.1	<>	na	Primary Assembly	7046	chrUn_KI270581v1
+HSCHRUN_RANDOM_162	unplaced-scaffold	na	na	KI270582.1	<>	na	Primary Assembly	6504	chrUn_KI270582v1
+HSCHRUN_RANDOM_154	unplaced-scaffold	na	na	KI270583.1	<>	na	Primary Assembly	1400	chrUn_KI270583v1
+HSCHRUN_RANDOM_161	unplaced-scaffold	na	na	KI270584.1	<>	na	Primary Assembly	4513	chrUn_KI270584v1
+HSCHRUN_RANDOM_155	unplaced-scaffold	na	na	KI270587.1	<>	na	Primary Assembly	2969	chrUn_KI270587v1
+HSCHRUN_RANDOM_163	unplaced-scaffold	na	na	KI270588.1	<>	na	Primary Assembly	6158	chrUn_KI270588v1
+HSCHRUN_RANDOM_159	unplaced-scaffold	na	na	KI270589.1	<>	na	Primary Assembly	44474	chrUn_KI270589v1
+HSCHRUN_RANDOM_160	unplaced-scaffold	na	na	KI270590.1	<>	na	Primary Assembly	4685	chrUn_KI270590v1
+HSCHRUN_RANDOM_165	unplaced-scaffold	na	na	KI270591.1	<>	na	Primary Assembly	5796	chrUn_KI270591v1
+HSCHRUN_RANDOM_164	unplaced-scaffold	na	na	KI270593.1	<>	na	Primary Assembly	3041	chrUn_KI270593v1
+HSCHRUN_RANDOM_CTG17	unplaced-scaffold	na	na	KI270741.1	<>	na	Primary Assembly	157432	chrUn_KI270741v1
+HSCHRUN_RANDOM_CTG42	unplaced-scaffold	na	na	KI270742.1	<>	na	Primary Assembly	186739	chrUn_KI270742v1
+HSCHRUN_RANDOM_CTG20	unplaced-scaffold	na	na	KI270743.1	<>	na	Primary Assembly	210658	chrUn_KI270743v1
+HSCHRUN_RANDOM_CTG21	unplaced-scaffold	na	na	KI270744.1	<>	na	Primary Assembly	168472	chrUn_KI270744v1
+HSCHRUN_RANDOM_CTG22	unplaced-scaffold	na	na	KI270745.1	<>	na	Primary Assembly	41891	chrUn_KI270745v1
+HSCHRUN_RANDOM_CTG23	unplaced-scaffold	na	na	KI270746.1	<>	na	Primary Assembly	66486	chrUn_KI270746v1
+HSCHRUN_RANDOM_CTG24	unplaced-scaffold	na	na	KI270747.1	<>	na	Primary Assembly	198735	chrUn_KI270747v1
+HSCHRUN_RANDOM_CTG25	unplaced-scaffold	na	na	KI270748.1	<>	na	Primary Assembly	93321	chrUn_KI270748v1
+HSCHRUN_RANDOM_CTG26	unplaced-scaffold	na	na	KI270749.1	<>	na	Primary Assembly	158759	chrUn_KI270749v1
+HSCHRUN_RANDOM_CTG27	unplaced-scaffold	na	na	KI270750.1	<>	na	Primary Assembly	148850	chrUn_KI270750v1
+HSCHRUN_RANDOM_CTG28	unplaced-scaffold	na	na	KI270751.1	<>	na	Primary Assembly	150742	chrUn_KI270751v1
+HSCHRUN_RANDOM_CTG29	unplaced-scaffold	na	na	KI270752.1	<>	na	Primary Assembly	27745	chrUn_KI270752v1
+HSCHRUN_RANDOM_CTG30	unplaced-scaffold	na	na	KI270753.1	<>	na	Primary Assembly	62944	chrUn_KI270753v1
+HSCHRUN_RANDOM_CTG33	unplaced-scaffold	na	na	KI270754.1	<>	na	Primary Assembly	40191	chrUn_KI270754v1
+HSCHRUN_RANDOM_CTG34	unplaced-scaffold	na	na	KI270755.1	<>	na	Primary Assembly	36723	chrUn_KI270755v1
+HSCHRUN_RANDOM_CTG35	unplaced-scaffold	na	na	KI270756.1	<>	na	Primary Assembly	79590	chrUn_KI270756v1
+HSCHRUN_RANDOM_CTG36	unplaced-scaffold	na	na	KI270757.1	<>	na	Primary Assembly	71251	chrUn_KI270757v1
+HG986_PATCH	fix-patch	1	Chromosome	KN196472.1	<>	na	PATCHES	186494	na
+HG2058_PATCH	fix-patch	1	Chromosome	KN196473.1	<>	na	PATCHES	166200	na
+HG2104_PATCH	fix-patch	1	Chromosome	KN196474.1	<>	na	PATCHES	122022	na
+HG1832_PATCH	fix-patch	1	Chromosome	KN538360.1	<>	na	PATCHES	460100	na
+HG2095_PATCH	fix-patch	1	Chromosome	KN538361.1	<>	na	PATCHES	305542	na
+HG1342_HG2282_PATCH	fix-patch	1	Chromosome	KQ031383.1	<>	na	PATCHES	467143	na
+HG2002_PATCH	fix-patch	1	Chromosome	KZ208906.1	<>	na	PATCHES	330031	na
+HG460_PATCH	fix-patch	1	Chromosome	KZ559100.1	<>	na	PATCHES	44955	na
+HG1343_HG173_HG459_PATCH	fix-patch	1	Chromosome	MU273333.1	<>	na	PATCHES	1572686	na
+HG2571_PATCH	fix-patch	1	Chromosome	MU273334.1	<>	na	PATCHES	210426	na
+HG2515_PATCH	fix-patch	1	Chromosome	MU273335.1	<>	na	PATCHES	211934	na
+HG2577_PATCH	fix-patch	1	Chromosome	MU273336.1	<>	na	PATCHES	250447	na
+HSCHR1_3_CTG3	novel-patch	1	Chromosome	KQ458382.1	<>	na	PATCHES	141019	na
+HSCHR1_4_CTG3	novel-patch	1	Chromosome	KQ458383.1	<>	na	PATCHES	349938	na
+HSCHR1_5_CTG32_1	novel-patch	1	Chromosome	KQ458384.1	<>	na	PATCHES	212205	na
+HSCHR1_5_CTG3	novel-patch	1	Chromosome	KQ983255.1	<>	na	PATCHES	278659	na
+HSCHR1_6_CTG3	novel-patch	1	Chromosome	KV880763.1	<>	na	PATCHES	551020	na
+HSCHR1_8_CTG3	novel-patch	1	Chromosome	KZ208904.1	<>	na	PATCHES	166136	na
+HSCHR1_9_CTG3	novel-patch	1	Chromosome	KZ208905.1	<>	na	PATCHES	140355	na
+HSCHR1_12_CTG3	novel-patch	1	Chromosome	MU273330.1	<>	na	PATCHES	516764	na
+HSCHR1_5_CTG31	novel-patch	1	Chromosome	MU273331.1	<>	na	PATCHES	847441	na
+HSCHR1_6_CTG31	novel-patch	1	Chromosome	MU273332.1	<>	na	PATCHES	335159	na
+HG2233_PATCH	fix-patch	2	Chromosome	KN538362.1	<>	na	PATCHES	208149	na
+HG2232_PATCH	fix-patch	2	Chromosome	KN538363.1	<>	na	PATCHES	365499	na
+HG2290_PATCH	fix-patch	2	Chromosome	KQ031384.1	<>	na	PATCHES	481245	na
+HG721_PATCH	fix-patch	2	Chromosome	ML143341.1	<>	na	PATCHES	145975	na
+HG1384_PATCH	fix-patch	2	Chromosome	ML143342.1	<>	na	PATCHES	84043	na
+HG2494_PATCH	fix-patch	2	Chromosome	MU273341.1	<>	na	PATCHES	120381	na
+HG2275_PATCH	fix-patch	2	Chromosome	MU273342.1	<>	na	PATCHES	955087	na
+HG2052_PATCH	fix-patch	2	Chromosome	MU273343.1	<>	na	PATCHES	489404	na
+HG2231_HG2496_PATCH	fix-patch	2	Chromosome	MU273344.1	<>	na	PATCHES	244725	na
+HG2140_PATCH	fix-patch	2	Chromosome	MU273345.1	<>	na	PATCHES	174385	na
+HSCHR2_6_CTG7_2	novel-patch	2	Chromosome	KQ983256.1	<>	na	PATCHES	535088	na
+HSCHR2_7_CTG7_2	novel-patch	2	Chromosome	KZ208907.1	<>	na	PATCHES	181658	na
+HSCHR2_8_CTG7_2	novel-patch	2	Chromosome	KZ208908.1	<>	na	PATCHES	140361	na
+HSCHR2_10_CTG7_2	novel-patch	2	Chromosome	MU273337.1	<>	na	PATCHES	431782	na
+HSCHR2_11_CTG7_2	novel-patch	2	Chromosome	MU273338.1	<>	na	PATCHES	535251	na
+HSCHR2_12_CTG7_2	novel-patch	2	Chromosome	MU273339.1	<>	na	PATCHES	500581	na
+HSCHR2_6_CTG1	novel-patch	2	Chromosome	MU273340.1	<>	na	PATCHES	284971	na
+HG2066_PATCH	fix-patch	3	Chromosome	KN196475.1	<>	na	PATCHES	451168	na
+HG2022_PATCH	fix-patch	3	Chromosome	KN196476.1	<>	na	PATCHES	305979	na
+HG126_PATCH	fix-patch	3	Chromosome	KN538364.1	<>	na	PATCHES	415308	na
+HG2235_PATCH	fix-patch	3	Chromosome	KQ031385.1	<>	na	PATCHES	373699	na
+HG2237_PATCH	fix-patch	3	Chromosome	KQ031386.1	<>	na	PATCHES	165718	na
+HG2236_PATCH	fix-patch	3	Chromosome	KV766192.1	<>	na	PATCHES	411654	na
+HG2133_PATCH	fix-patch	3	Chromosome	KZ559104.1	<>	na	PATCHES	105527	na
+HG2264_PATCH	fix-patch	3	Chromosome	MU273346.1	<>	na	PATCHES	469342	na
+HG2077_PATCH	fix-patch	3	Chromosome	MU273347.1	<>	na	PATCHES	301310	na
+HG2069_PATCH	fix-patch	3	Chromosome	MU273348.1	<>	na	PATCHES	475876	na
+HSCHR3_4_CTG1	novel-patch	3	Chromosome	KZ208909.1	<>	na	PATCHES	175849	na
+HSCHR3_7_CTG2_1	novel-patch	3	Chromosome	KZ559101.1	<>	na	PATCHES	164041	na
+HSCHR3_8_CTG2_1	novel-patch	3	Chromosome	KZ559102.1	<>	na	PATCHES	197752	na
+HSCHR3_9_CTG2_1	novel-patch	3	Chromosome	KZ559103.1	<>	na	PATCHES	302885	na
+HSCHR3_6_CTG2_1	novel-patch	3	Chromosome	KZ559105.1	<>	na	PATCHES	195063	na
+HSCHR3_5_CTG1	novel-patch	3	Chromosome	ML143343.1	<>	na	PATCHES	215443	na
+HG2023_PATCH	fix-patch	4	Chromosome	KQ983257.1	<>	na	PATCHES	230434	na
+HG699_PATCH	fix-patch	4	Chromosome	ML143344.1	<>	na	PATCHES	235734	na
+HG2525_PATCH	fix-patch	4	Chromosome	ML143345.1	<>	na	PATCHES	341066	na
+HG1299_PATCH	fix-patch	4	Chromosome	ML143346.1	<>	na	PATCHES	53476	na
+HG1298_PATCH	fix-patch	4	Chromosome	ML143347.1	<>	na	PATCHES	176674	na
+HG1296_PATCH	fix-patch	4	Chromosome	ML143348.1	<>	na	PATCHES	125549	na
+HG705_PATCH	fix-patch	4	Chromosome	ML143349.1	<>	na	PATCHES	276109	na
+HG2155_PATCH	fix-patch	4	Chromosome	MU273350.1	<>	na	PATCHES	113364	na
+HG287_PATCH	fix-patch	4	Chromosome	MU273351.1	<>	na	PATCHES	205691	na
+HSCHR4_2_CTG4	novel-patch	4	Chromosome	KQ090013.1	<>	na	PATCHES	90922	na
+HSCHR4_8_CTG12	novel-patch	4	Chromosome	KQ090014.1	<>	na	PATCHES	163749	na
+HSCHR4_9_CTG12	novel-patch	4	Chromosome	KQ090015.1	<>	na	PATCHES	236512	na
+HSCHR4_11_CTG12	novel-patch	4	Chromosome	KQ983258.1	<>	na	PATCHES	205407	na
+HSCHR4_12_CTG12	novel-patch	4	Chromosome	KV766193.1	<>	na	PATCHES	420675	na
+HSCHR4_2_CTG8_1	novel-patch	4	Chromosome	MU273349.1	<>	na	PATCHES	308682	na
+HG30_PATCH	fix-patch	5	Chromosome	KV575244.1	<>	na	PATCHES	673059	na
+HG1395_PATCH	fix-patch	5	Chromosome	ML143350.1	<>	na	PATCHES	89956	na
+HG1046_PATCH	fix-patch	5	Chromosome	MU273352.1	<>	na	PATCHES	34400	na
+HG2476_PATCH	fix-patch	5	Chromosome	MU273353.1	<>	na	PATCHES	208405	na
+HG2405_PATCH	fix-patch	5	Chromosome	MU273354.1	<>	na	PATCHES	2101585	na
+HG2308_PATCH	fix-patch	5	Chromosome	MU273355.1	<>	na	PATCHES	508332	na
+HSCHR5_7_CTG1	novel-patch	5	Chromosome	KN196477.1	<>	na	PATCHES	139087	na
+HSCHR5_8_CTG1	novel-patch	5	Chromosome	KV575243.1	<>	na	PATCHES	362221	na
+HSCHR5_9_CTG1	novel-patch	5	Chromosome	KZ208910.1	<>	na	PATCHES	135987	na
+HSCHR5_10_CTG1	novel-patch	5	Chromosome	MU273356.1	<>	na	PATCHES	302485	na
+HG2128_PATCH	fix-patch	6	Chromosome	KN196478.1	<>	na	PATCHES	268330	na
+HG1651_PATCH	fix-patch	6	Chromosome	KQ031387.1	<>	na	PATCHES	320750	na
+HG2072_PATCH	fix-patch	6	Chromosome	KQ090016.1	<>	na	PATCHES	245716	na
+HG2121_PATCH	fix-patch	6	Chromosome	KV766194.1	<>	na	PATCHES	139427	na
+HG2057_PATCH	fix-patch	6	Chromosome	KZ208911.1	<>	na	PATCHES	242796	na
+HG563_PATCH	fix-patch	6	Chromosome	ML143351.1	<>	na	PATCHES	73265	na
+HSCHR6_1_CTG10	novel-patch	6	Chromosome	KQ090017.1	<>	na	PATCHES	82315	na
+HSCHR6_1_CTG1	novel-patch	6	Chromosome	MU273357.1	<>	na	PATCHES	383128	na
+HG2239_PATCH	fix-patch	7	Chromosome	KQ031388.1	<>	na	PATCHES	179932	na
+HG2088_PATCH	fix-patch	7	Chromosome	KV880764.1	<>	na	PATCHES	142129	na
+HG2266_PATCH	fix-patch	7	Chromosome	KV880765.1	<>	na	PATCHES	468267	na
+HG708_PATCH	fix-patch	7	Chromosome	KZ208912.1	<>	na	PATCHES	589656	na
+HG1309_PATCH	fix-patch	7	Chromosome	ML143352.1	<>	na	PATCHES	254759	na
+HSCHR7_3_CTG4_4	novel-patch	7	Chromosome	KZ208913.1	<>	na	PATCHES	680662	na
+HSCHR7_3_CTG1	novel-patch	7	Chromosome	KZ559106.1	<>	na	PATCHES	172555	na
+HSCHR7_4_CTG1	novel-patch	7	Chromosome	MU273358.1	<>	na	PATCHES	464417	na
+HG2067_PATCH	fix-patch	8	Chromosome	KV880766.1	<>	na	PATCHES	156998	na
+HG2068_PATCH	fix-patch	8	Chromosome	KV880767.1	<>	na	PATCHES	265876	na
+HG2419_PATCH	fix-patch	8	Chromosome	KZ208914.1	<>	na	PATCHES	165120	na
+HG76_PATCH	fix-patch	8	Chromosome	KZ208915.1	<>	na	PATCHES	6367528	na
+HG2176_PATCH	fix-patch	8	Chromosome	MU273359.1	<>	na	PATCHES	150302	na
+HG1047_PATCH	fix-patch	8	Chromosome	MU273360.1	<>	na	PATCHES	39290	na
+HG2408_PATCH	fix-patch	8	Chromosome	MU273361.1	<>	na	PATCHES	106905	na
+HG2267_PATCH	fix-patch	8	Chromosome	MU273362.1	<>	na	PATCHES	429744	na
+HG2031_PATCH	fix-patch	8	Chromosome	MU273363.1	<>	na	PATCHES	207371	na
+HSCHR8_7_CTG7	novel-patch	8	Chromosome	KZ559107.1	<>	na	PATCHES	103072	na
+HG2030_PATCH	fix-patch	9	Chromosome	KN196479.1	<>	na	PATCHES	330164	na
+HG613_PATCH	fix-patch	9	Chromosome	ML143353.1	<>	na	PATCHES	25408	na
+HG2158_PATCH	fix-patch	9	Chromosome	MU273364.1	<>	na	PATCHES	340717	na
+HG1012_PATCH	fix-patch	9	Chromosome	MU273365.1	<>	na	PATCHES	482250	na
+HG1206_PATCH	fix-patch	9	Chromosome	MU273366.1	<>	na	PATCHES	569668	na
+HSCHR9_1_CTG6	novel-patch	9	Chromosome	KQ090018.1	<>	na	PATCHES	163882	na
+HSCHR9_1_CTG7	novel-patch	9	Chromosome	KQ090019.1	<>	na	PATCHES	134099	na
+HG2191_PATCH	fix-patch	10	Chromosome	KN196480.1	<>	na	PATCHES	277797	na
+HG2241_PATCH	fix-patch	10	Chromosome	KN538365.1	<>	na	PATCHES	14347	na
+HG2242_HG2243_PATCH	fix-patch	10	Chromosome	KN538366.1	<>	na	PATCHES	85284	na
+HG2244_HG2245_PATCH	fix-patch	10	Chromosome	KN538367.1	<>	na	PATCHES	420164	na
+HG2334_PATCH	fix-patch	10	Chromosome	KQ090021.1	<>	na	PATCHES	264545	na
+HG545_PATCH	fix-patch	10	Chromosome	ML143354.1	<>	na	PATCHES	454963	na
+HG1277_PATCH	fix-patch	10	Chromosome	ML143355.1	<>	na	PATCHES	292944	na
+HG2576_PATCH	fix-patch	10	Chromosome	MU273367.1	<>	na	PATCHES	196262	na
+HSCHR10_1_CTG6	novel-patch	10	Chromosome	KQ090020.1	<>	na	PATCHES	185507	na
+HG2217_PATCH	fix-patch	11	Chromosome	KN196481.1	<>	na	PATCHES	108875	na
+HG2116_PATCH	fix-patch	11	Chromosome	KQ090022.1	<>	na	PATCHES	181958	na
+HG107_HG2565_PATCH	fix-patch	11	Chromosome	KQ759759.2	<>	na	PATCHES	204999	na
+HG1708_PATCH	fix-patch	11	Chromosome	KV766195.1	<>	na	PATCHES	140877	na
+HG2060_PATCH	fix-patch	11	Chromosome	KZ559108.1	<>	na	PATCHES	305244	na
+HG2114_PATCH	fix-patch	11	Chromosome	KZ559109.1	<>	na	PATCHES	279644	na
+HG1521_PATCH	fix-patch	11	Chromosome	ML143356.1	<>	na	PATCHES	45257	na
+HG1445_PATCH	fix-patch	11	Chromosome	ML143357.1	<>	na	PATCHES	165419	na
+HG28_PATCH	fix-patch	11	Chromosome	ML143358.1	<>	na	PATCHES	270122	na
+HG2115_PATCH	fix-patch	11	Chromosome	ML143359.1	<>	na	PATCHES	217075	na
+HG2111_PATCH	fix-patch	11	Chromosome	ML143360.1	<>	na	PATCHES	170928	na
+HG152_PATCH	fix-patch	11	Chromosome	MU273369.1	<>	na	PATCHES	434831	na
+HG2568_PATCH	fix-patch	11	Chromosome	MU273370.1	<>	na	PATCHES	344606	na
+HG2578_PATCH	fix-patch	11	Chromosome	MU273371.1	<>	na	PATCHES	122722	na
+HSCHR11_1_CTG1_2	novel-patch	11	Chromosome	KN538368.1	<>	na	PATCHES	203552	na
+HSCHR11_2_CTG8	novel-patch	11	Chromosome	KZ559110.1	<>	na	PATCHES	301637	na
+HSCHR11_1_CTG3_1	novel-patch	11	Chromosome	KZ559111.1	<>	na	PATCHES	181167	na
+HSCHR11_2_CTG3_1	novel-patch	11	Chromosome	MU273368.1	<>	na	PATCHES	261194	na
+HG23_PATCH	fix-patch	12	Chromosome	KN196482.1	<>	na	PATCHES	211377	na
+HG1362_PATCH	fix-patch	12	Chromosome	KN538369.1	<>	na	PATCHES	541038	na
+HG2247_PATCH	fix-patch	12	Chromosome	KN538370.1	<>	na	PATCHES	86533	na
+HG2063_PATCH	fix-patch	12	Chromosome	KQ759760.1	<>	na	PATCHES	315610	na
+HG1815_PATCH	fix-patch	12	Chromosome	KZ208916.1	<>	na	PATCHES	1046838	na
+HG2047_PATCH	fix-patch	12	Chromosome	KZ208917.1	<>	na	PATCHES	64689	na
+HG2246_HG2248_HG2276_PATCH	fix-patch	12	Chromosome	ML143361.1	<>	na	PATCHES	297568	na
+HG1398_PATCH	fix-patch	12	Chromosome	ML143362.1	<>	na	PATCHES	192531	na
+HG2554_PATCH	fix-patch	12	Chromosome	MU273372.1	<>	na	PATCHES	104537	na
+HSCHR12_2_CTG1	novel-patch	12	Chromosome	KQ090023.1	<>	na	PATCHES	109323	na
+HSCHR12_8_CTG2_1	novel-patch	12	Chromosome	KZ208918.1	<>	na	PATCHES	174808	na
+HSCHR12_9_CTG2_1	novel-patch	12	Chromosome	KZ559112.1	<>	na	PATCHES	154139	na
+HG2216_PATCH	fix-patch	13	Chromosome	KN196483.1	<>	na	PATCHES	35455	na
+HG2288_HG2289_PATCH	fix-patch	13	Chromosome	KN538371.1	<>	na	PATCHES	206320	na
+HG2291_PATCH	fix-patch	13	Chromosome	KN538372.1	<>	na	PATCHES	356766	na
+HG2249_PATCH	fix-patch	13	Chromosome	KN538373.1	<>	na	PATCHES	148762	na
+HG1817_1_PATCH	fix-patch	13	Chromosome	ML143363.1	<>	na	PATCHES	7309	na
+HG1523_PATCH	fix-patch	13	Chromosome	ML143364.1	<>	na	PATCHES	158944	na
+HG1524_PATCH	fix-patch	13	Chromosome	ML143365.1	<>	na	PATCHES	65394	na
+HG2509_PATCH	fix-patch	13	Chromosome	ML143366.1	<>	na	PATCHES	409912	na
+HSCHR13_1_CTG7	novel-patch	13	Chromosome	KQ090024.1	<>	na	PATCHES	168146	na
+HSCHR13_1_CTG8	novel-patch	13	Chromosome	KQ090025.1	<>	na	PATCHES	123480	na
+HG1_PATCH	fix-patch	14	Chromosome	KZ208920.1	<>	na	PATCHES	690932	na
+HG2510_PATCH	fix-patch	14	Chromosome	ML143367.1	<>	na	PATCHES	399183	na
+HG2526_HG2573_PATCH	fix-patch	14	Chromosome	MU273373.1	<>	na	PATCHES	722645	na
+HSCHR14_8_CTG1	novel-patch	14	Chromosome	KZ208919.1	<>	na	PATCHES	171798	na
+HSCHR14_9_CTG1	novel-patch	14	Chromosome	ML143368.1	<>	na	PATCHES	264228	na
+HG2139_PATCH	fix-patch	15	Chromosome	KN538374.1	<>	na	PATCHES	4998962	na
+HG2499_PATCH	fix-patch	15	Chromosome	ML143369.1	<>	na	PATCHES	97763	na
+HG2198_PATCH	fix-patch	15	Chromosome	ML143370.1	<>	na	PATCHES	369264	na
+HG2365_PATCH	fix-patch	15	Chromosome	ML143371.1	<>	na	PATCHES	5500449	na
+HG2511_PATCH	fix-patch	15	Chromosome	ML143372.1	<>	na	PATCHES	396515	na
+HG2280_PATCH	fix-patch	15	Chromosome	MU273374.1	<>	na	PATCHES	1154574	na
+HSCHR15_6_CTG8	novel-patch	15	Chromosome	KQ031389.1	<>	na	PATCHES	2365364	na
+HSCHR15_9_CTG8	novel-patch	15	Chromosome	MU273375.1	<>	na	PATCHES	204007	na
+HG926_PATCH	fix-patch	16	Chromosome	KV880768.1	<>	na	PATCHES	1927115	na
+HG2263_PATCH	fix-patch	16	Chromosome	KZ559113.1	<>	na	PATCHES	480415	na
+HG2471_PATCH	fix-patch	16	Chromosome	ML143373.1	<>	na	PATCHES	270967	na
+HG401_PATCH	fix-patch	16	Chromosome	MU273376.1	<>	na	PATCHES	87715	na
+HG405_PATCH	fix-patch	16	Chromosome	MU273377.1	<>	na	PATCHES	334997	na
+HSCHR16_3_CTG3_1	novel-patch	16	Chromosome	KQ031390.1	<>	na	PATCHES	169136	na
+HSCHR16_5_CTG1	novel-patch	16	Chromosome	KQ090026.1	<>	na	PATCHES	59016	na
+HSCHR16_4_CTG3_1	novel-patch	16	Chromosome	KQ090027.1	<>	na	PATCHES	267463	na
+HSCHR16_5_CTG3_1	novel-patch	16	Chromosome	KZ208921.1	<>	na	PATCHES	78609	na
+HG2046_PATCH	fix-patch	17	Chromosome	KV575245.1	<>	na	PATCHES	154723	na
+HG2285_HG106_HG2252_PATCH	fix-patch	17	Chromosome	KV766196.1	<>	na	PATCHES	281919	na
+HG2087_PATCH	fix-patch	17	Chromosome	ML143374.1	<>	na	PATCHES	137908	na
+HG1320_PATCH	fix-patch	17	Chromosome	ML143375.1	<>	na	PATCHES	56695	na
+HG2118_PATCH	fix-patch	17	Chromosome	MU273379.1	<>	na	PATCHES	234878	na
+HG2407_PATCH	fix-patch	17	Chromosome	MU273380.1	<>	na	PATCHES	538541	na
+HG2251_PATCH	fix-patch	17	Chromosome	MU273381.1	<>	na	PATCHES	144689	na
+HG1369_PATCH	fix-patch	17	Chromosome	MU273382.1	<>	na	PATCHES	187626	na
+HG2580_PATCH	fix-patch	17	Chromosome	MU273383.1	<>	na	PATCHES	172609	na
+HSCHR17_11_CTG4	novel-patch	17	Chromosome	KV766197.1	<>	na	PATCHES	246895	na
+HSCHR17_3_CTG1	novel-patch	17	Chromosome	KV766198.1	<>	na	PATCHES	276292	na
+HSCHR17_12_CTG4	novel-patch	17	Chromosome	KZ559114.1	<>	na	PATCHES	116753	na
+HSCHR17_13_CTG4	novel-patch	17	Chromosome	MU273378.1	<>	na	PATCHES	372839	na
+HG2213_PATCH	fix-patch	18	Chromosome	KQ090028.1	<>	na	PATCHES	407387	na
+HG2442_PATCH	fix-patch	18	Chromosome	KZ208922.1	<>	na	PATCHES	93070	na
+HG2412_PATCH	fix-patch	18	Chromosome	KZ559115.1	<>	na	PATCHES	230843	na
+HSCHR18_5_CTG1_1	novel-patch	18	Chromosome	KQ458385.1	<>	na	PATCHES	205101	na
+HSCHR18_1_CTG1	novel-patch	18	Chromosome	KZ559116.1	<>	na	PATCHES	163186	na
+HG2021_PATCH	fix-patch	19	Chromosome	KN196484.1	<>	na	PATCHES	370917	na
+HG26_PATCH	fix-patch	19	Chromosome	KQ458386.1	<>	na	PATCHES	405389	na
+HG109_PATCH	fix-patch	19	Chromosome	ML143376.1	<>	na	PATCHES	493165	na
+HG2461_PATCH	fix-patch	19	Chromosome	MU273384.1	<>	na	PATCHES	333754	na
+HG2569_PATCH	fix-patch	19	Chromosome	MU273385.1	<>	na	PATCHES	137818	na
+HG2469_PATCH	fix-patch	19	Chromosome	MU273386.1	<>	na	PATCHES	226166	na
+HSCHR19KIR_0019-4656-A_CTG3_1	novel-patch	19	Chromosome	KV575246.1	<>	na	PATCHES	163926	na
+HSCHR19KIR_CA01-TA01_1_CTG3_1	novel-patch	19	Chromosome	KV575247.1	<>	na	PATCHES	170206	na
+HSCHR19KIR_CA01-TA01_2_CTG3_1	novel-patch	19	Chromosome	KV575248.1	<>	na	PATCHES	168131	na
+HSCHR19KIR_CA01-TB04_CTG3_1	novel-patch	19	Chromosome	KV575249.1	<>	na	PATCHES	293522	na
+HSCHR19KIR_CA01-TB01_CTG3_1	novel-patch	19	Chromosome	KV575250.1	<>	na	PATCHES	241058	na
+HSCHR19KIR_HG2394_CTG3_1	novel-patch	19	Chromosome	KV575251.1	<>	na	PATCHES	159285	na
+HSCHR19KIR_502960008-2_CTG3_1	novel-patch	19	Chromosome	KV575252.1	<>	na	PATCHES	178197	na
+HSCHR19KIR_502960008-1_CTG3_1	novel-patch	19	Chromosome	KV575253.1	<>	na	PATCHES	166713	na
+HSCHR19KIR_0010-5217-AB_CTG3_1	novel-patch	19	Chromosome	KV575254.1	<>	na	PATCHES	99845	na
+HSCHR19KIR_7191059-1_CTG3_1	novel-patch	19	Chromosome	KV575255.1	<>	na	PATCHES	161095	na
+HSCHR19KIR_0019-4656-B_CTG3_1	novel-patch	19	Chromosome	KV575256.1	<>	na	PATCHES	223118	na
+HSCHR19KIR_CA04_CTG3_1	novel-patch	19	Chromosome	KV575257.1	<>	na	PATCHES	100553	na
+HSCHR19KIR_HG2393_CTG3_1	novel-patch	19	Chromosome	KV575258.1	<>	na	PATCHES	156965	na
+HSCHR19KIR_7191059-2_CTG3_1	novel-patch	19	Chromosome	KV575259.1	<>	na	PATCHES	171263	na
+HSCHR19KIR_HG2396_CTG3_1	novel-patch	19	Chromosome	KV575260.1	<>	na	PATCHES	145691	na
+HSCHR19_6_CTG2	novel-patch	19	Chromosome	MU273387.1	<>	na	PATCHES	89211	na
+HG2225_PATCH	fix-patch	20	Chromosome	MU273388.1	<>	na	PATCHES	273725	na
+HG410_PATCH	fix-patch	20	Chromosome	MU273389.1	<>	na	PATCHES	355731	na
+HG2513_PATCH	fix-patch	21	Chromosome	ML143377.1	<>	na	PATCHES	519485	na
+HG2219_PATCH	fix-patch	21	Chromosome	MU273390.1	<>	na	PATCHES	336752	na
+HG2265_PATCH	fix-patch	21	Chromosome	MU273391.1	<>	na	PATCHES	1020778	na
+HG2521_PATCH	fix-patch	21	Chromosome	MU273392.1	<>	na	PATCHES	189707	na
+HG1311_HG2539_PATCH	fix-patch	22	Chromosome	KQ759762.2	<>	na	PATCHES	101040	na
+HG1485_PATCH	fix-patch	22	Chromosome	ML143378.1	<>	na	PATCHES	461303	na
+HG494_PATCH	fix-patch	22	Chromosome	ML143379.1	<>	na	PATCHES	12295	na
+HG2512_PATCH	fix-patch	22	Chromosome	ML143380.1	<>	na	PATCHES	412368	na
+HSCHR22_4_CTG1	novel-patch	22	Chromosome	KN196485.1	<>	na	PATCHES	156562	na
+HSCHR22_5_CTG1	novel-patch	22	Chromosome	KN196486.1	<>	na	PATCHES	153027	na
+HSCHR22_6_CTG1	novel-patch	22	Chromosome	KQ458387.1	<>	na	PATCHES	155930	na
+HSCHR22_7_CTG1	novel-patch	22	Chromosome	KQ458388.1	<>	na	PATCHES	174749	na
+HSCHR22_8_CTG1	novel-patch	22	Chromosome	KQ759761.1	<>	na	PATCHES	145162	na
+HG439_PATCH	fix-patch	X	Chromosome	ML143381.1	<>	na	PATCHES	403128	na
+HG1506_PATCH	fix-patch	X	Chromosome	ML143382.1	<>	na	PATCHES	28824	na
+HG1507_PATCH	fix-patch	X	Chromosome	ML143383.1	<>	na	PATCHES	68192	na
+HG1509_PATCH	fix-patch	X	Chromosome	ML143384.1	<>	na	PATCHES	14678	na
+HG1466_PATCH	fix-patch	X	Chromosome	ML143385.1	<>	na	PATCHES	17435	na
+HG2527_PATCH	fix-patch	X	Chromosome	MU273393.1	<>	na	PATCHES	68810	na
+HG2541_PATCH	fix-patch	X	Chromosome	MU273394.1	<>	na	PATCHES	140567	na
+HSCHRX_3_CTG7	novel-patch	X	Chromosome	KV766199.1	<>	na	PATCHES	188004	na
+HSCHRX_1_CTG14	novel-patch	X	Chromosome	MU273395.1	<>	na	PATCHES	619716	na
+HSCHRX_2_CTG14	novel-patch	X	Chromosome	MU273396.1	<>	na	PATCHES	294119	na
+HSCHRX_3_CTG3	novel-patch	X	Chromosome	MU273397.1	<>	na	PATCHES	330493	na
+HG2062_PATCH	fix-patch	Y	Chromosome	KN196487.1	<>	na	PATCHES	101150	na
+HG1531_PATCH	fix-patch	Y	Chromosome	KZ208923.1	<>	na	PATCHES	48370	na
+HG1535_PATCH	fix-patch	Y	Chromosome	KZ208924.1	<>	na	PATCHES	209722	na
+HG1532_PATCH	fix-patch	Y	Chromosome	MU273398.1	<>	na	PATCHES	865743	na
+HSCHR1_1_CTG31	alt-scaffold	1	Chromosome	GL383518.1	<>	na	ALT_REF_LOCI_1	182439	chr1_GL383518v1_alt
+HSCHR1_2_CTG31	alt-scaffold	1	Chromosome	GL383519.1	<>	na	ALT_REF_LOCI_1	110268	chr1_GL383519v1_alt
+HSCHR1_3_CTG31	alt-scaffold	1	Chromosome	GL383520.2	<>	na	ALT_REF_LOCI_1	366580	chr1_GL383520v2_alt
+HSCHR1_1_CTG32_1	alt-scaffold	1	Chromosome	KI270759.1	<>	na	ALT_REF_LOCI_1	425601	chr1_KI270759v1_alt
+HSCHR1_1_CTG11	alt-scaffold	1	Chromosome	KI270760.1	<>	na	ALT_REF_LOCI_1	109528	chr1_KI270760v1_alt
+HSCHR1_2_CTG32_1	alt-scaffold	1	Chromosome	KI270761.1	<>	na	ALT_REF_LOCI_1	165834	chr1_KI270761v1_alt
+HSCHR1_1_CTG3	alt-scaffold	1	Chromosome	KI270762.1	<>	na	ALT_REF_LOCI_1	354444	chr1_KI270762v1_alt
+HSCHR1_3_CTG32_1	alt-scaffold	1	Chromosome	KI270763.1	<>	na	ALT_REF_LOCI_1	911658	chr1_KI270763v1_alt
+HSCHR1_4_CTG32_1	alt-scaffold	1	Chromosome	KI270764.1	<>	na	ALT_REF_LOCI_1	50258	chr1_KI270764v1_alt
+HSCHR1_4_CTG31	alt-scaffold	1	Chromosome	KI270765.1	<>	na	ALT_REF_LOCI_1	185285	chr1_KI270765v1_alt
+HSCHR1_2_CTG3	alt-scaffold	1	Chromosome	KI270766.1	<>	na	ALT_REF_LOCI_1	256271	chr1_KI270766v1_alt
+HSCHR2_1_CTG5	alt-scaffold	2	Chromosome	GL383521.1	<>	na	ALT_REF_LOCI_1	143390	chr2_GL383521v1_alt
+HSCHR2_1_CTG7_2	alt-scaffold	2	Chromosome	GL383522.1	<>	na	ALT_REF_LOCI_1	123821	chr2_GL383522v1_alt
+HSCHR2_2_CTG7_2	alt-scaffold	2	Chromosome	GL582966.2	<>	na	ALT_REF_LOCI_1	96131	chr2_GL582966v2_alt
+HSCHR2_1_CTG15	alt-scaffold	2	Chromosome	KI270767.1	<>	na	ALT_REF_LOCI_1	161578	chr2_KI270767v1_alt
+HSCHR2_3_CTG7_2	alt-scaffold	2	Chromosome	KI270768.1	<>	na	ALT_REF_LOCI_1	110099	chr2_KI270768v1_alt
+HSCHR2_1_CTG1	alt-scaffold	2	Chromosome	KI270769.1	<>	na	ALT_REF_LOCI_1	120616	chr2_KI270769v1_alt
+HSCHR2_2_CTG1	alt-scaffold	2	Chromosome	KI270770.1	<>	na	ALT_REF_LOCI_1	136240	chr2_KI270770v1_alt
+HSCHR2_4_CTG7_2	alt-scaffold	2	Chromosome	KI270771.1	<>	na	ALT_REF_LOCI_1	110395	chr2_KI270771v1_alt
+HSCHR2_1_CTG7	alt-scaffold	2	Chromosome	KI270772.1	<>	na	ALT_REF_LOCI_1	133041	chr2_KI270772v1_alt
+HSCHR2_3_CTG1	alt-scaffold	2	Chromosome	KI270773.1	<>	na	ALT_REF_LOCI_1	70887	chr2_KI270773v1_alt
+HSCHR2_4_CTG1	alt-scaffold	2	Chromosome	KI270774.1	<>	na	ALT_REF_LOCI_1	223625	chr2_KI270774v1_alt
+HSCHR2_5_CTG7_2	alt-scaffold	2	Chromosome	KI270775.1	<>	na	ALT_REF_LOCI_1	138019	chr2_KI270775v1_alt
+HSCHR2_3_CTG15	alt-scaffold	2	Chromosome	KI270776.1	<>	na	ALT_REF_LOCI_1	174166	chr2_KI270776v1_alt
+HSCHR3_1_CTG2_1	alt-scaffold	3	Chromosome	GL383526.1	<>	na	ALT_REF_LOCI_1	180671	chr3_GL383526v1_alt
+HSCHR3_1_CTG1	alt-scaffold	3	Chromosome	JH636055.2	<>	na	ALT_REF_LOCI_1	173151	chr3_JH636055v2_alt
+HSCHR3_2_CTG2_1	alt-scaffold	3	Chromosome	KI270777.1	<>	na	ALT_REF_LOCI_1	173649	chr3_KI270777v1_alt
+HSCHR3_3_CTG2_1	alt-scaffold	3	Chromosome	KI270778.1	<>	na	ALT_REF_LOCI_1	248252	chr3_KI270778v1_alt
+HSCHR3_1_CTG3	alt-scaffold	3	Chromosome	KI270779.1	<>	na	ALT_REF_LOCI_1	205312	chr3_KI270779v1_alt
+HSCHR3_4_CTG2_1	alt-scaffold	3	Chromosome	KI270780.1	<>	na	ALT_REF_LOCI_1	224108	chr3_KI270780v1_alt
+HSCHR3_5_CTG2_1	alt-scaffold	3	Chromosome	KI270781.1	<>	na	ALT_REF_LOCI_1	113034	chr3_KI270781v1_alt
+HSCHR3_2_CTG3	alt-scaffold	3	Chromosome	KI270782.1	<>	na	ALT_REF_LOCI_1	162429	chr3_KI270782v1_alt
+HSCHR3_3_CTG1	alt-scaffold	3	Chromosome	KI270783.1	<>	na	ALT_REF_LOCI_1	109187	chr3_KI270783v1_alt
+HSCHR3_9_CTG3	alt-scaffold	3	Chromosome	KI270784.1	<>	na	ALT_REF_LOCI_1	184404	chr3_KI270784v1_alt
+HSCHR4_1_CTG9	alt-scaffold	4	Chromosome	GL000257.2	<>	na	ALT_REF_LOCI_1	586476	chr4_GL000257v2_alt
+HSCHR4_1_CTG12	alt-scaffold	4	Chromosome	GL383527.1	<>	na	ALT_REF_LOCI_1	164536	chr4_GL383527v1_alt
+HSCHR4_1_CTG6	alt-scaffold	4	Chromosome	GL383528.1	<>	na	ALT_REF_LOCI_1	376187	chr4_GL383528v1_alt
+HSCHR4_2_CTG12	alt-scaffold	4	Chromosome	KI270785.1	<>	na	ALT_REF_LOCI_1	119912	chr4_KI270785v1_alt
+HSCHR4_3_CTG12	alt-scaffold	4	Chromosome	KI270786.1	<>	na	ALT_REF_LOCI_1	244096	chr4_KI270786v1_alt
+HSCHR4_1_CTG8_1	alt-scaffold	4	Chromosome	KI270787.1	<>	na	ALT_REF_LOCI_1	111943	chr4_KI270787v1_alt
+HSCHR4_4_CTG12	alt-scaffold	4	Chromosome	KI270788.1	<>	na	ALT_REF_LOCI_1	158965	chr4_KI270788v1_alt
+HSCHR4_5_CTG12	alt-scaffold	4	Chromosome	KI270789.1	<>	na	ALT_REF_LOCI_1	205944	chr4_KI270789v1_alt
+HSCHR4_1_CTG4	alt-scaffold	4	Chromosome	KI270790.1	<>	na	ALT_REF_LOCI_1	220246	chr4_KI270790v1_alt
+HSCHR5_2_CTG1_1	alt-scaffold	5	Chromosome	GL339449.2	<>	na	ALT_REF_LOCI_1	1612928	chr5_GL339449v2_alt
+HSCHR5_3_CTG1_1	alt-scaffold	5	Chromosome	GL383530.1	<>	na	ALT_REF_LOCI_1	101241	chr5_GL383530v1_alt
+HSCHR5_1_CTG5	alt-scaffold	5	Chromosome	GL383531.1	<>	na	ALT_REF_LOCI_1	173459	chr5_GL383531v1_alt
+HSCHR5_1_CTG1	alt-scaffold	5	Chromosome	GL383532.1	<>	na	ALT_REF_LOCI_1	82728	chr5_GL383532v1_alt
+HSCHR5_2_CTG1	alt-scaffold	5	Chromosome	GL949742.1	<>	na	ALT_REF_LOCI_1	226852	chr5_GL949742v1_alt
+HSCHR5_3_CTG1	alt-scaffold	5	Chromosome	KI270791.1	<>	na	ALT_REF_LOCI_1	195710	chr5_KI270791v1_alt
+HSCHR5_4_CTG1	alt-scaffold	5	Chromosome	KI270792.1	<>	na	ALT_REF_LOCI_1	179043	chr5_KI270792v1_alt
+HSCHR5_5_CTG1	alt-scaffold	5	Chromosome	KI270793.1	<>	na	ALT_REF_LOCI_1	126136	chr5_KI270793v1_alt
+HSCHR5_6_CTG1	alt-scaffold	5	Chromosome	KI270794.1	<>	na	ALT_REF_LOCI_1	164558	chr5_KI270794v1_alt
+HSCHR5_2_CTG5	alt-scaffold	5	Chromosome	KI270795.1	<>	na	ALT_REF_LOCI_1	131892	chr5_KI270795v1_alt
+HSCHR5_4_CTG1_1	alt-scaffold	5	Chromosome	KI270796.1	<>	na	ALT_REF_LOCI_1	172708	chr5_KI270796v1_alt
+HSCHR6_MHC_APD_CTG1	alt-scaffold	6	Chromosome	GL000250.2	<>	na	ALT_REF_LOCI_1	4672374	chr6_GL000250v2_alt
+HSCHR6_1_CTG2	alt-scaffold	6	Chromosome	GL383533.1	<>	na	ALT_REF_LOCI_1	124736	chr6_GL383533v1_alt
+HSCHR6_1_CTG3	alt-scaffold	6	Chromosome	KB021644.2	<>	na	ALT_REF_LOCI_1	185823	chr6_KB021644v2_alt
+HSCHR6_1_CTG4	alt-scaffold	6	Chromosome	KI270797.1	<>	na	ALT_REF_LOCI_1	197536	chr6_KI270797v1_alt
+HSCHR6_1_CTG5	alt-scaffold	6	Chromosome	KI270798.1	<>	na	ALT_REF_LOCI_1	271782	chr6_KI270798v1_alt
+HSCHR6_1_CTG6	alt-scaffold	6	Chromosome	KI270799.1	<>	na	ALT_REF_LOCI_1	152148	chr6_KI270799v1_alt
+HSCHR6_1_CTG7	alt-scaffold	6	Chromosome	KI270800.1	<>	na	ALT_REF_LOCI_1	175808	chr6_KI270800v1_alt
+HSCHR6_1_CTG8	alt-scaffold	6	Chromosome	KI270801.1	<>	na	ALT_REF_LOCI_1	870480	chr6_KI270801v1_alt
+HSCHR6_1_CTG9	alt-scaffold	6	Chromosome	KI270802.1	<>	na	ALT_REF_LOCI_1	75005	chr6_KI270802v1_alt
+HSCHR7_1_CTG6	alt-scaffold	7	Chromosome	GL383534.2	<>	na	ALT_REF_LOCI_1	119183	chr7_GL383534v2_alt
+HSCHR7_2_CTG6	alt-scaffold	7	Chromosome	KI270803.1	<>	na	ALT_REF_LOCI_1	1111570	chr7_KI270803v1_alt
+HSCHR7_1_CTG1	alt-scaffold	7	Chromosome	KI270804.1	<>	na	ALT_REF_LOCI_1	157952	chr7_KI270804v1_alt
+HSCHR7_1_CTG7	alt-scaffold	7	Chromosome	KI270805.1	<>	na	ALT_REF_LOCI_1	209988	chr7_KI270805v1_alt
+HSCHR7_1_CTG4_4	alt-scaffold	7	Chromosome	KI270806.1	<>	na	ALT_REF_LOCI_1	158166	chr7_KI270806v1_alt
+HSCHR7_2_CTG7	alt-scaffold	7	Chromosome	KI270807.1	<>	na	ALT_REF_LOCI_1	126434	chr7_KI270807v1_alt
+HSCHR7_3_CTG6	alt-scaffold	7	Chromosome	KI270808.1	<>	na	ALT_REF_LOCI_1	271455	chr7_KI270808v1_alt
+HSCHR7_2_CTG4_4	alt-scaffold	7	Chromosome	KI270809.1	<>	na	ALT_REF_LOCI_1	209586	chr7_KI270809v1_alt
+HSCHR8_1_CTG7	alt-scaffold	8	Chromosome	KI270810.1	<>	na	ALT_REF_LOCI_1	374415	chr8_KI270810v1_alt
+HSCHR8_1_CTG1	alt-scaffold	8	Chromosome	KI270811.1	<>	na	ALT_REF_LOCI_1	292436	chr8_KI270811v1_alt
+HSCHR8_2_CTG1	alt-scaffold	8	Chromosome	KI270812.1	<>	na	ALT_REF_LOCI_1	282736	chr8_KI270812v1_alt
+HSCHR8_3_CTG1	alt-scaffold	8	Chromosome	KI270813.1	<>	na	ALT_REF_LOCI_1	300230	chr8_KI270813v1_alt
+HSCHR8_1_CTG6	alt-scaffold	8	Chromosome	KI270814.1	<>	na	ALT_REF_LOCI_1	141812	chr8_KI270814v1_alt
+HSCHR8_2_CTG7	alt-scaffold	8	Chromosome	KI270815.1	<>	na	ALT_REF_LOCI_1	132244	chr8_KI270815v1_alt
+HSCHR8_3_CTG7	alt-scaffold	8	Chromosome	KI270816.1	<>	na	ALT_REF_LOCI_1	305841	chr8_KI270816v1_alt
+HSCHR8_4_CTG7	alt-scaffold	8	Chromosome	KI270817.1	<>	na	ALT_REF_LOCI_1	158983	chr8_KI270817v1_alt
+HSCHR8_4_CTG1	alt-scaffold	8	Chromosome	KI270818.1	<>	na	ALT_REF_LOCI_1	145606	chr8_KI270818v1_alt
+HSCHR8_5_CTG7	alt-scaffold	8	Chromosome	KI270819.1	<>	na	ALT_REF_LOCI_1	133535	chr8_KI270819v1_alt
+HSCHR8_6_CTG7	alt-scaffold	8	Chromosome	KI270820.1	<>	na	ALT_REF_LOCI_1	36640	chr8_KI270820v1_alt
+HSCHR8_8_CTG1	alt-scaffold	8	Chromosome	KI270821.1	<>	na	ALT_REF_LOCI_1	985506	chr8_KI270821v1_alt
+HSCHR8_9_CTG1	alt-scaffold	8	Chromosome	KI270822.1	<>	na	ALT_REF_LOCI_1	624492	chr8_KI270822v1_alt
+HSCHR9_1_CTG1	alt-scaffold	9	Chromosome	GL383539.1	<>	na	ALT_REF_LOCI_1	162988	chr9_GL383539v1_alt
+HSCHR9_1_CTG2	alt-scaffold	9	Chromosome	GL383540.1	<>	na	ALT_REF_LOCI_1	71551	chr9_GL383540v1_alt
+HSCHR9_1_CTG3	alt-scaffold	9	Chromosome	GL383541.1	<>	na	ALT_REF_LOCI_1	171286	chr9_GL383541v1_alt
+HSCHR9_1_CTG4	alt-scaffold	9	Chromosome	GL383542.1	<>	na	ALT_REF_LOCI_1	60032	chr9_GL383542v1_alt
+HSCHR9_1_CTG5	alt-scaffold	9	Chromosome	KI270823.1	<>	na	ALT_REF_LOCI_1	439082	chr9_KI270823v1_alt
+HSCHR10_1_CTG1	alt-scaffold	10	Chromosome	GL383545.1	<>	na	ALT_REF_LOCI_1	179254	chr10_GL383545v1_alt
+HSCHR10_1_CTG2	alt-scaffold	10	Chromosome	GL383546.1	<>	na	ALT_REF_LOCI_1	309802	chr10_GL383546v1_alt
+HSCHR10_1_CTG3	alt-scaffold	10	Chromosome	KI270824.1	<>	na	ALT_REF_LOCI_1	181496	chr10_KI270824v1_alt
+HSCHR10_1_CTG4	alt-scaffold	10	Chromosome	KI270825.1	<>	na	ALT_REF_LOCI_1	188315	chr10_KI270825v1_alt
+HSCHR11_1_CTG1_1	alt-scaffold	11	Chromosome	GL383547.1	<>	na	ALT_REF_LOCI_1	154407	chr11_GL383547v1_alt
+HG142_HG150_NOVEL_TEST	alt-scaffold	11	Chromosome	JH159136.1	<>	na	ALT_REF_LOCI_1	200998	chr11_JH159136v1_alt
+HG151_NOVEL_TEST	alt-scaffold	11	Chromosome	JH159137.1	<>	na	ALT_REF_LOCI_1	191409	chr11_JH159137v1_alt
+HSCHR11_1_CTG2	alt-scaffold	11	Chromosome	KI270826.1	<>	na	ALT_REF_LOCI_1	186169	chr11_KI270826v1_alt
+HSCHR11_1_CTG3	alt-scaffold	11	Chromosome	KI270827.1	<>	na	ALT_REF_LOCI_1	67707	chr11_KI270827v1_alt
+HSCHR11_1_CTG5	alt-scaffold	11	Chromosome	KI270829.1	<>	na	ALT_REF_LOCI_1	204059	chr11_KI270829v1_alt
+HSCHR11_1_CTG6	alt-scaffold	11	Chromosome	KI270830.1	<>	na	ALT_REF_LOCI_1	177092	chr11_KI270830v1_alt
+HSCHR11_1_CTG7	alt-scaffold	11	Chromosome	KI270831.1	<>	na	ALT_REF_LOCI_1	296895	chr11_KI270831v1_alt
+HSCHR11_1_CTG8	alt-scaffold	11	Chromosome	KI270832.1	<>	na	ALT_REF_LOCI_1	210133	chr11_KI270832v1_alt
+HSCHR12_1_CTG2	alt-scaffold	12	Chromosome	GL383549.1	<>	na	ALT_REF_LOCI_1	120804	chr12_GL383549v1_alt
+HSCHR12_1_CTG2_1	alt-scaffold	12	Chromosome	GL383550.2	<>	na	ALT_REF_LOCI_1	169178	chr12_GL383550v2_alt
+HSCHR12_4_CTG2_1	alt-scaffold	12	Chromosome	GL383551.1	<>	na	ALT_REF_LOCI_1	184319	chr12_GL383551v1_alt
+HSCHR12_2_CTG2_1	alt-scaffold	12	Chromosome	GL383552.1	<>	na	ALT_REF_LOCI_1	138655	chr12_GL383552v1_alt
+HSCHR12_3_CTG2_1	alt-scaffold	12	Chromosome	GL383553.2	<>	na	ALT_REF_LOCI_1	152874	chr12_GL383553v2_alt
+HSCHR12_1_CTG1	alt-scaffold	12	Chromosome	GL877875.1	<>	na	ALT_REF_LOCI_1	167313	chr12_GL877875v1_alt
+HSCHR12_2_CTG2	alt-scaffold	12	Chromosome	GL877876.1	<>	na	ALT_REF_LOCI_1	408271	chr12_GL877876v1_alt
+HSCHR12_5_CTG2_1	alt-scaffold	12	Chromosome	KI270833.1	<>	na	ALT_REF_LOCI_1	76061	chr12_KI270833v1_alt
+HSCHR12_6_CTG2_1	alt-scaffold	12	Chromosome	KI270834.1	<>	na	ALT_REF_LOCI_1	119498	chr12_KI270834v1_alt
+HSCHR12_4_CTG2	alt-scaffold	12	Chromosome	KI270835.1	<>	na	ALT_REF_LOCI_1	238139	chr12_KI270835v1_alt
+HSCHR12_7_CTG2_1	alt-scaffold	12	Chromosome	KI270836.1	<>	na	ALT_REF_LOCI_1	56134	chr12_KI270836v1_alt
+HSCHR12_5_CTG2	alt-scaffold	12	Chromosome	KI270837.1	<>	na	ALT_REF_LOCI_1	40090	chr12_KI270837v1_alt
+HSCHR13_1_CTG1	alt-scaffold	13	Chromosome	KI270838.1	<>	na	ALT_REF_LOCI_1	306913	chr13_KI270838v1_alt
+HSCHR13_1_CTG2	alt-scaffold	13	Chromosome	KI270839.1	<>	na	ALT_REF_LOCI_1	180306	chr13_KI270839v1_alt
+HSCHR13_1_CTG3	alt-scaffold	13	Chromosome	KI270840.1	<>	na	ALT_REF_LOCI_1	191684	chr13_KI270840v1_alt
+HSCHR13_1_CTG4	alt-scaffold	13	Chromosome	KI270841.1	<>	na	ALT_REF_LOCI_1	169134	chr13_KI270841v1_alt
+HSCHR13_1_CTG5	alt-scaffold	13	Chromosome	KI270842.1	<>	na	ALT_REF_LOCI_1	37287	chr13_KI270842v1_alt
+HSCHR13_1_CTG6	alt-scaffold	13	Chromosome	KI270843.1	<>	na	ALT_REF_LOCI_1	103832	chr13_KI270843v1_alt
+HSCHR14_1_CTG1	alt-scaffold	14	Chromosome	KI270844.1	<>	na	ALT_REF_LOCI_1	322166	chr14_KI270844v1_alt
+HSCHR14_2_CTG1	alt-scaffold	14	Chromosome	KI270845.1	<>	na	ALT_REF_LOCI_1	180703	chr14_KI270845v1_alt
+HSCHR14_3_CTG1	alt-scaffold	14	Chromosome	KI270846.1	<>	na	ALT_REF_LOCI_1	1351393	chr14_KI270846v1_alt
+HSCHR14_7_CTG1	alt-scaffold	14	Chromosome	KI270847.1	<>	na	ALT_REF_LOCI_1	1511111	chr14_KI270847v1_alt
+HSCHR15_1_CTG8	alt-scaffold	15	Chromosome	GL383554.1	<>	na	ALT_REF_LOCI_1	296527	chr15_GL383554v1_alt
+HSCHR15_2_CTG8	alt-scaffold	15	Chromosome	GL383555.2	<>	na	ALT_REF_LOCI_1	388773	chr15_GL383555v2_alt
+HSCHR15_1_CTG3	alt-scaffold	15	Chromosome	KI270848.1	<>	na	ALT_REF_LOCI_1	327382	chr15_KI270848v1_alt
+HSCHR15_3_CTG8	alt-scaffold	15	Chromosome	KI270849.1	<>	na	ALT_REF_LOCI_1	244917	chr15_KI270849v1_alt
+HSCHR15_5_CTG8	alt-scaffold	15	Chromosome	KI270850.1	<>	na	ALT_REF_LOCI_1	430880	chr15_KI270850v1_alt
+HSCHR15_3_CTG3	alt-scaffold	15	Chromosome	KI270851.1	<>	na	ALT_REF_LOCI_1	263054	chr15_KI270851v1_alt
+HSCHR15_1_CTG1	alt-scaffold	15	Chromosome	KI270852.1	<>	na	ALT_REF_LOCI_1	478999	chr15_KI270852v1_alt
+HSCHR16_1_CTG3_1	alt-scaffold	16	Chromosome	GL383556.1	<>	na	ALT_REF_LOCI_1	192462	chr16_GL383556v1_alt
+HSCHR16_2_CTG3_1	alt-scaffold	16	Chromosome	GL383557.1	<>	na	ALT_REF_LOCI_1	89672	chr16_GL383557v1_alt
+HSCHR16_1_CTG1	alt-scaffold	16	Chromosome	KI270853.1	<>	na	ALT_REF_LOCI_1	2659700	chr16_KI270853v1_alt
+HSCHR16_CTG2	alt-scaffold	16	Chromosome	KI270854.1	<>	na	ALT_REF_LOCI_1	134193	chr16_KI270854v1_alt
+HSCHR16_3_CTG1	alt-scaffold	16	Chromosome	KI270855.1	<>	na	ALT_REF_LOCI_1	232857	chr16_KI270855v1_alt
+HSCHR16_4_CTG1	alt-scaffold	16	Chromosome	KI270856.1	<>	na	ALT_REF_LOCI_1	63982	chr16_KI270856v1_alt
+HSCHR17_1_CTG5	alt-scaffold	17	Chromosome	GL000258.2	<>	na	ALT_REF_LOCI_1	1821992	chr17_GL000258v2_alt
+HSCHR17_1_CTG1	alt-scaffold	17	Chromosome	GL383563.3	<>	na	ALT_REF_LOCI_1	375691	chr17_GL383563v3_alt
+HSCHR17_1_CTG4	alt-scaffold	17	Chromosome	GL383564.2	<>	na	ALT_REF_LOCI_1	133151	chr17_GL383564v2_alt
+HSCHR17_2_CTG4	alt-scaffold	17	Chromosome	GL383565.1	<>	na	ALT_REF_LOCI_1	223995	chr17_GL383565v1_alt
+HSCHR17_3_CTG4	alt-scaffold	17	Chromosome	GL383566.1	<>	na	ALT_REF_LOCI_1	90219	chr17_GL383566v1_alt
+HSCHR17_4_CTG4	alt-scaffold	17	Chromosome	JH159146.1	<>	na	ALT_REF_LOCI_1	278131	chr17_JH159146v1_alt
+HSCHR17_5_CTG4	alt-scaffold	17	Chromosome	JH159147.1	<>	na	ALT_REF_LOCI_1	70345	chr17_JH159147v1_alt
+HSCHR17_7_CTG4	alt-scaffold	17	Chromosome	KI270857.1	<>	na	ALT_REF_LOCI_1	2877074	chr17_KI270857v1_alt
+HSCHR17_8_CTG4	alt-scaffold	17	Chromosome	KI270858.1	<>	na	ALT_REF_LOCI_1	235827	chr17_KI270858v1_alt
+HSCHR17_9_CTG4	alt-scaffold	17	Chromosome	KI270859.1	<>	na	ALT_REF_LOCI_1	108763	chr17_KI270859v1_alt
+HSCHR17_1_CTG9	alt-scaffold	17	Chromosome	KI270860.1	<>	na	ALT_REF_LOCI_1	178921	chr17_KI270860v1_alt
+HSCHR17_1_CTG2	alt-scaffold	17	Chromosome	KI270861.1	<>	na	ALT_REF_LOCI_1	196688	chr17_KI270861v1_alt
+HSCHR17_2_CTG2	alt-scaffold	17	Chromosome	KI270862.1	<>	na	ALT_REF_LOCI_1	391357	chr17_KI270862v1_alt
+HSCHR18_1_CTG1_1	alt-scaffold	18	Chromosome	GL383567.1	<>	na	ALT_REF_LOCI_1	289831	chr18_GL383567v1_alt
+HSCHR18_1_CTG2	alt-scaffold	18	Chromosome	GL383568.1	<>	na	ALT_REF_LOCI_1	104552	chr18_GL383568v1_alt
+HSCHR18_1_CTG2_1	alt-scaffold	18	Chromosome	GL383569.1	<>	na	ALT_REF_LOCI_1	167950	chr18_GL383569v1_alt
+HSCHR18_2_CTG1_1	alt-scaffold	18	Chromosome	GL383570.1	<>	na	ALT_REF_LOCI_1	164789	chr18_GL383570v1_alt
+HSCHR18_2_CTG2	alt-scaffold	18	Chromosome	GL383571.1	<>	na	ALT_REF_LOCI_1	198278	chr18_GL383571v1_alt
+HSCHR18_2_CTG2_1	alt-scaffold	18	Chromosome	GL383572.1	<>	na	ALT_REF_LOCI_1	159547	chr18_GL383572v1_alt
+HSCHR18_3_CTG2_1	alt-scaffold	18	Chromosome	KI270863.1	<>	na	ALT_REF_LOCI_1	167999	chr18_KI270863v1_alt
+HSCHR18_4_CTG1_1	alt-scaffold	18	Chromosome	KI270864.1	<>	na	ALT_REF_LOCI_1	111737	chr18_KI270864v1_alt
+HSCHR19_1_CTG2	alt-scaffold	19	Chromosome	GL383573.1	<>	na	ALT_REF_LOCI_1	385657	chr19_GL383573v1_alt
+HSCHR19_1_CTG3_1	alt-scaffold	19	Chromosome	GL383574.1	<>	na	ALT_REF_LOCI_1	155864	chr19_GL383574v1_alt
+HSCHR19_2_CTG2	alt-scaffold	19	Chromosome	GL383575.2	<>	na	ALT_REF_LOCI_1	170222	chr19_GL383575v2_alt
+HSCHR19_3_CTG2	alt-scaffold	19	Chromosome	GL383576.1	<>	na	ALT_REF_LOCI_1	188024	chr19_GL383576v1_alt
+HSCHR19LRC_COX1_CTG3_1	alt-scaffold	19	Chromosome	GL949746.1	<>	na	ALT_REF_LOCI_1	987716	chr19_GL949746v1_alt
+HSCHR19_4_CTG2	alt-scaffold	19	Chromosome	KI270865.1	<>	na	ALT_REF_LOCI_1	52969	chr19_KI270865v1_alt
+HSCHR19_2_CTG3_1	alt-scaffold	19	Chromosome	KI270866.1	<>	na	ALT_REF_LOCI_1	43156	chr19_KI270866v1_alt
+HSCHR19_3_CTG3_1	alt-scaffold	19	Chromosome	KI270867.1	<>	na	ALT_REF_LOCI_1	233762	chr19_KI270867v1_alt
+HSCHR19_5_CTG2	alt-scaffold	19	Chromosome	KI270868.1	<>	na	ALT_REF_LOCI_1	61734	chr19_KI270868v1_alt
+HSCHR20_1_CTG1	alt-scaffold	20	Chromosome	GL383577.2	<>	na	ALT_REF_LOCI_1	128386	chr20_GL383577v2_alt
+HSCHR20_1_CTG2	alt-scaffold	20	Chromosome	KI270869.1	<>	na	ALT_REF_LOCI_1	118774	chr20_KI270869v1_alt
+HSCHR20_1_CTG3	alt-scaffold	20	Chromosome	KI270870.1	<>	na	ALT_REF_LOCI_1	183433	chr20_KI270870v1_alt
+HSCHR20_1_CTG4	alt-scaffold	20	Chromosome	KI270871.1	<>	na	ALT_REF_LOCI_1	58661	chr20_KI270871v1_alt
+HSCHR21_1_CTG1_1	alt-scaffold	21	Chromosome	GL383578.2	<>	na	ALT_REF_LOCI_1	63917	chr21_GL383578v2_alt
+HSCHR21_2_CTG1_1	alt-scaffold	21	Chromosome	GL383579.2	<>	na	ALT_REF_LOCI_1	201197	chr21_GL383579v2_alt
+HSCHR21_3_CTG1_1	alt-scaffold	21	Chromosome	GL383580.2	<>	na	ALT_REF_LOCI_1	74653	chr21_GL383580v2_alt
+HSCHR21_4_CTG1_1	alt-scaffold	21	Chromosome	GL383581.2	<>	na	ALT_REF_LOCI_1	116689	chr21_GL383581v2_alt
+HSCHR21_5_CTG2	alt-scaffold	21	Chromosome	KI270872.1	<>	na	ALT_REF_LOCI_1	82692	chr21_KI270872v1_alt
+HSCHR21_6_CTG1_1	alt-scaffold	21	Chromosome	KI270873.1	<>	na	ALT_REF_LOCI_1	143900	chr21_KI270873v1_alt
+HSCHR21_8_CTG1_1	alt-scaffold	21	Chromosome	KI270874.1	<>	na	ALT_REF_LOCI_1	166743	chr21_KI270874v1_alt
+HSCHR22_1_CTG1	alt-scaffold	22	Chromosome	GL383582.2	<>	na	ALT_REF_LOCI_1	162811	chr22_GL383582v2_alt
+HSCHR22_1_CTG2	alt-scaffold	22	Chromosome	GL383583.2	<>	na	ALT_REF_LOCI_1	96924	chr22_GL383583v2_alt
+HSCHR22_1_CTG3	alt-scaffold	22	Chromosome	KI270875.1	<>	na	ALT_REF_LOCI_1	259914	chr22_KI270875v1_alt
+HSCHR22_1_CTG4	alt-scaffold	22	Chromosome	KI270876.1	<>	na	ALT_REF_LOCI_1	263666	chr22_KI270876v1_alt
+HSCHR22_1_CTG5	alt-scaffold	22	Chromosome	KI270877.1	<>	na	ALT_REF_LOCI_1	101331	chr22_KI270877v1_alt
+HSCHR22_1_CTG6	alt-scaffold	22	Chromosome	KI270878.1	<>	na	ALT_REF_LOCI_1	186262	chr22_KI270878v1_alt
+HSCHR22_1_CTG7	alt-scaffold	22	Chromosome	KI270879.1	<>	na	ALT_REF_LOCI_1	304135	chr22_KI270879v1_alt
+HSCHRX_1_CTG3	alt-scaffold	X	Chromosome	KI270880.1	<>	na	ALT_REF_LOCI_1	284869	chrX_KI270880v1_alt
+HSCHRX_2_CTG12	alt-scaffold	X	Chromosome	KI270881.1	<>	na	ALT_REF_LOCI_1	144206	chrX_KI270881v1_alt
+HSCHR1_ALT2_1_CTG32_1	alt-scaffold	1	Chromosome	KI270892.1	<>	na	ALT_REF_LOCI_2	162212	chr1_KI270892v1_alt
+HSCHR2_2_CTG15	alt-scaffold	2	Chromosome	KI270893.1	<>	na	ALT_REF_LOCI_2	161218	chr2_KI270893v1_alt
+HSCHR2_2_CTG7	alt-scaffold	2	Chromosome	KI270894.1	<>	na	ALT_REF_LOCI_2	214158	chr2_KI270894v1_alt
+HSCHR3_3_CTG3	alt-scaffold	3	Chromosome	KI270895.1	<>	na	ALT_REF_LOCI_2	162896	chr3_KI270895v1_alt
+HSCHR4_6_CTG12	alt-scaffold	4	Chromosome	KI270896.1	<>	na	ALT_REF_LOCI_2	378547	chr4_KI270896v1_alt
+HSCHR5_1_CTG1_1	alt-scaffold	5	Chromosome	KI270897.1	<>	na	ALT_REF_LOCI_2	1144418	chr5_KI270897v1_alt
+HSCHR5_3_CTG5	alt-scaffold	5	Chromosome	KI270898.1	<>	na	ALT_REF_LOCI_2	130957	chr5_KI270898v1_alt
+HSCHR6_MHC_COX_CTG1	alt-scaffold	6	Chromosome	GL000251.2	<>	na	ALT_REF_LOCI_2	4795265	chr6_GL000251v2_alt
+HSCHR7_2_CTG1	alt-scaffold	7	Chromosome	KI270899.1	<>	na	ALT_REF_LOCI_2	190869	chr7_KI270899v1_alt
+HSCHR8_5_CTG1	alt-scaffold	8	Chromosome	KI270900.1	<>	na	ALT_REF_LOCI_2	318687	chr8_KI270900v1_alt
+HSCHR8_6_CTG1	alt-scaffold	8	Chromosome	KI270901.1	<>	na	ALT_REF_LOCI_2	136959	chr8_KI270901v1_alt
+HSCHR11_2_CTG1	alt-scaffold	11	Chromosome	KI270902.1	<>	na	ALT_REF_LOCI_2	106711	chr11_KI270902v1_alt
+HSCHR11_2_CTG1_1	alt-scaffold	11	Chromosome	KI270903.1	<>	na	ALT_REF_LOCI_2	214625	chr11_KI270903v1_alt
+HSCHR12_3_CTG2	alt-scaffold	12	Chromosome	KI270904.1	<>	na	ALT_REF_LOCI_2	572349	chr12_KI270904v1_alt
+HSCHR15_4_CTG8	alt-scaffold	15	Chromosome	KI270905.1	<>	na	ALT_REF_LOCI_2	5161414	chr15_KI270905v1_alt
+HSCHR15_2_CTG3	alt-scaffold	15	Chromosome	KI270906.1	<>	na	ALT_REF_LOCI_2	196384	chr15_KI270906v1_alt
+HSCHR17_6_CTG4	alt-scaffold	17	Chromosome	JH159148.1	<>	na	ALT_REF_LOCI_2	88070	chr17_JH159148v1_alt
+HSCHR17_2_CTG1	alt-scaffold	17	Chromosome	KI270907.1	<>	na	ALT_REF_LOCI_2	137721	chr17_KI270907v1_alt
+HSCHR17_2_CTG5	alt-scaffold	17	Chromosome	KI270908.1	<>	na	ALT_REF_LOCI_2	1423190	chr17_KI270908v1_alt
+HSCHR17_10_CTG4	alt-scaffold	17	Chromosome	KI270909.1	<>	na	ALT_REF_LOCI_2	325800	chr17_KI270909v1_alt
+HSCHR17_3_CTG2	alt-scaffold	17	Chromosome	KI270910.1	<>	na	ALT_REF_LOCI_2	157099	chr17_KI270910v1_alt
+HSCHR18_ALT2_CTG2_1	alt-scaffold	18	Chromosome	KI270911.1	<>	na	ALT_REF_LOCI_2	157710	chr18_KI270911v1_alt
+HSCHR18_ALT21_CTG2_1	alt-scaffold	18	Chromosome	KI270912.1	<>	na	ALT_REF_LOCI_2	174061	chr18_KI270912v1_alt
+HSCHR19LRC_COX2_CTG3_1	alt-scaffold	19	Chromosome	GL949747.2	<>	na	ALT_REF_LOCI_2	729520	chr19_GL949747v2_alt
+HSCHR22_2_CTG1	alt-scaffold	22	Chromosome	KB663609.1	<>	na	ALT_REF_LOCI_2	74013	chr22_KB663609v1_alt
+HSCHRX_2_CTG3	alt-scaffold	X	Chromosome	KI270913.1	<>	na	ALT_REF_LOCI_2	274009	chrX_KI270913v1_alt
+HSCHR3_4_CTG3	alt-scaffold	3	Chromosome	KI270924.1	<>	na	ALT_REF_LOCI_3	166540	chr3_KI270924v1_alt
+HSCHR4_7_CTG12	alt-scaffold	4	Chromosome	KI270925.1	<>	na	ALT_REF_LOCI_3	555799	chr4_KI270925v1_alt
+HSCHR6_MHC_DBB_CTG1	alt-scaffold	6	Chromosome	GL000252.2	<>	na	ALT_REF_LOCI_3	4604811	chr6_GL000252v2_alt
+HSCHR8_7_CTG1	alt-scaffold	8	Chromosome	KI270926.1	<>	na	ALT_REF_LOCI_3	229282	chr8_KI270926v1_alt
+HSCHR11_3_CTG1	alt-scaffold	11	Chromosome	KI270927.1	<>	na	ALT_REF_LOCI_3	218612	chr11_KI270927v1_alt
+HSCHR19LRC_LRC_I_CTG3_1	alt-scaffold	19	Chromosome	GL949748.2	<>	na	ALT_REF_LOCI_3	1064304	chr19_GL949748v2_alt
+HSCHR22_3_CTG1	alt-scaffold	22	Chromosome	KI270928.1	<>	na	ALT_REF_LOCI_3	176103	chr22_KI270928v1_alt
+HSCHR3_5_CTG3	alt-scaffold	3	Chromosome	KI270934.1	<>	na	ALT_REF_LOCI_4	163458	chr3_KI270934v1_alt
+HSCHR6_MHC_MANN_CTG1	alt-scaffold	6	Chromosome	GL000253.2	<>	na	ALT_REF_LOCI_4	4677643	chr6_GL000253v2_alt
+HSCHR19LRC_LRC_J_CTG3_1	alt-scaffold	19	Chromosome	GL949749.2	<>	na	ALT_REF_LOCI_4	1091841	chr19_GL949749v2_alt
+HSCHR3_6_CTG3	alt-scaffold	3	Chromosome	KI270935.1	<>	na	ALT_REF_LOCI_5	197351	chr3_KI270935v1_alt
+HSCHR6_MHC_MCF_CTG1	alt-scaffold	6	Chromosome	GL000254.2	<>	na	ALT_REF_LOCI_5	4827813	chr6_GL000254v2_alt
+HSCHR19LRC_LRC_S_CTG3_1	alt-scaffold	19	Chromosome	GL949750.2	<>	na	ALT_REF_LOCI_5	1066390	chr19_GL949750v2_alt
+HSCHR3_7_CTG3	alt-scaffold	3	Chromosome	KI270936.1	<>	na	ALT_REF_LOCI_6	164170	chr3_KI270936v1_alt
+HSCHR6_MHC_QBL_CTG1	alt-scaffold	6	Chromosome	GL000255.2	<>	na	ALT_REF_LOCI_6	4606388	chr6_GL000255v2_alt
+HSCHR19LRC_LRC_T_CTG3_1	alt-scaffold	19	Chromosome	GL949751.2	<>	na	ALT_REF_LOCI_6	1002683	chr19_GL949751v2_alt
+HSCHR3_8_CTG3	alt-scaffold	3	Chromosome	KI270937.1	<>	na	ALT_REF_LOCI_7	165607	chr3_KI270937v1_alt
+HSCHR6_MHC_SSTO_CTG1	alt-scaffold	6	Chromosome	GL000256.2	<>	na	ALT_REF_LOCI_7	4929269	chr6_GL000256v2_alt
+HSCHR19LRC_PGF1_CTG3_1	alt-scaffold	19	Chromosome	GL949752.1	<>	na	ALT_REF_LOCI_7	987100	chr19_GL949752v1_alt
+HSCHR6_8_CTG1	alt-scaffold	6	Chromosome	KI270758.1	<>	na	ALT_REF_LOCI_8	76752	chr6_KI270758v1_alt
+HSCHR19LRC_PGF2_CTG3_1	alt-scaffold	19	Chromosome	GL949753.2	<>	na	ALT_REF_LOCI_8	796479	chr19_GL949753v2_alt
+HSCHR19_4_CTG3_1	alt-scaffold	19	Chromosome	KI270938.1	<>	na	ALT_REF_LOCI_9	1066800	chr19_KI270938v1_alt
+HSCHR19KIR_FH15_B_HAP_CTG3_1	alt-scaffold	19	Chromosome	KI270882.1	<>	na	ALT_REF_LOCI_10	248807	chr19_KI270882v1_alt
+HSCHR19KIR_G085_A_HAP_CTG3_1	alt-scaffold	19	Chromosome	KI270883.1	<>	na	ALT_REF_LOCI_11	170399	chr19_KI270883v1_alt
+HSCHR19KIR_G085_BA1_HAP_CTG3_1	alt-scaffold	19	Chromosome	KI270884.1	<>	na	ALT_REF_LOCI_12	157053	chr19_KI270884v1_alt
+HSCHR19KIR_G248_A_HAP_CTG3_1	alt-scaffold	19	Chromosome	KI270885.1	<>	na	ALT_REF_LOCI_13	171027	chr19_KI270885v1_alt
+HSCHR19KIR_G248_BA2_HAP_CTG3_1	alt-scaffold	19	Chromosome	KI270886.1	<>	na	ALT_REF_LOCI_14	204239	chr19_KI270886v1_alt
+HSCHR19KIR_GRC212_AB_HAP_CTG3_1	alt-scaffold	19	Chromosome	KI270887.1	<>	na	ALT_REF_LOCI_15	209512	chr19_KI270887v1_alt
+HSCHR19KIR_GRC212_BA1_HAP_CTG3_1	alt-scaffold	19	Chromosome	KI270888.1	<>	na	ALT_REF_LOCI_16	155532	chr19_KI270888v1_alt
+HSCHR19KIR_LUCE_A_HAP_CTG3_1	alt-scaffold	19	Chromosome	KI270889.1	<>	na	ALT_REF_LOCI_17	170698	chr19_KI270889v1_alt
+HSCHR19KIR_LUCE_BDEL_HAP_CTG3_1	alt-scaffold	19	Chromosome	KI270890.1	<>	na	ALT_REF_LOCI_18	184499	chr19_KI270890v1_alt
+HSCHR19KIR_RSH_A_HAP_CTG3_1	alt-scaffold	19	Chromosome	KI270891.1	<>	na	ALT_REF_LOCI_19	170680	chr19_KI270891v1_alt
+HSCHR19KIR_RSH_BA2_HAP_CTG3_1	alt-scaffold	19	Chromosome	KI270914.1	<>	na	ALT_REF_LOCI_20	205194	chr19_KI270914v1_alt
+HSCHR19KIR_T7526_A_HAP_CTG3_1	alt-scaffold	19	Chromosome	KI270915.1	<>	na	ALT_REF_LOCI_21	170665	chr19_KI270915v1_alt
+HSCHR19KIR_T7526_BDEL_HAP_CTG3_1	alt-scaffold	19	Chromosome	KI270916.1	<>	na	ALT_REF_LOCI_22	184516	chr19_KI270916v1_alt
+HSCHR19KIR_ABC08_A1_HAP_CTG3_1	alt-scaffold	19	Chromosome	KI270917.1	<>	na	ALT_REF_LOCI_23	190932	chr19_KI270917v1_alt
+HSCHR19KIR_ABC08_AB_HAP_C_P_CTG3_1	alt-scaffold	19	Chromosome	KI270918.1	<>	na	ALT_REF_LOCI_24	123111	chr19_KI270918v1_alt
+HSCHR19KIR_ABC08_AB_HAP_T_P_CTG3_1	alt-scaffold	19	Chromosome	KI270919.1	<>	na	ALT_REF_LOCI_25	170701	chr19_KI270919v1_alt
+HSCHR19KIR_FH05_A_HAP_CTG3_1	alt-scaffold	19	Chromosome	KI270920.1	<>	na	ALT_REF_LOCI_26	198005	chr19_KI270920v1_alt
+HSCHR19KIR_FH05_B_HAP_CTG3_1	alt-scaffold	19	Chromosome	KI270921.1	<>	na	ALT_REF_LOCI_27	282224	chr19_KI270921v1_alt
+HSCHR19KIR_FH06_A_HAP_CTG3_1	alt-scaffold	19	Chromosome	KI270922.1	<>	na	ALT_REF_LOCI_28	187935	chr19_KI270922v1_alt
+HSCHR19KIR_FH06_BA1_HAP_CTG3_1	alt-scaffold	19	Chromosome	KI270923.1	<>	na	ALT_REF_LOCI_29	189352	chr19_KI270923v1_alt
+HSCHR19KIR_FH08_A_HAP_CTG3_1	alt-scaffold	19	Chromosome	KI270929.1	<>	na	ALT_REF_LOCI_30	186203	chr19_KI270929v1_alt
+HSCHR19KIR_FH08_BAX_HAP_CTG3_1	alt-scaffold	19	Chromosome	KI270930.1	<>	na	ALT_REF_LOCI_31	200773	chr19_KI270930v1_alt
+HSCHR19KIR_FH13_A_HAP_CTG3_1	alt-scaffold	19	Chromosome	KI270931.1	<>	na	ALT_REF_LOCI_32	170148	chr19_KI270931v1_alt
+HSCHR19KIR_FH13_BA2_HAP_CTG3_1	alt-scaffold	19	Chromosome	KI270932.1	<>	na	ALT_REF_LOCI_33	215732	chr19_KI270932v1_alt
+HSCHR19KIR_FH15_A_HAP_CTG3_1	alt-scaffold	19	Chromosome	KI270933.1	<>	na	ALT_REF_LOCI_34	170537	chr19_KI270933v1_alt
+HSCHR19KIR_RP5_B_HAP_CTG3_1	alt-scaffold	19	Chromosome	GL000209.2	<>	na	ALT_REF_LOCI_35	177381	chr19_GL000209v2_alt
+MT	assembled-molecule	MT	Mitochondrion	J01415.2	<>	na	non-nuclear	16569	chrM
