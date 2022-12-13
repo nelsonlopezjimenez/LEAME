@@ -1,0 +1,212 @@
+===========
+
+Ensembl Release 108 Databases.
+
+THE ENSEMBL FTP SITE
+====================
+
+The latest data is always available via a directory prefixed "current_".
+For example "current_fasta" will always point to the latest data files in FASTA format.
+
+The FTP directory has the following basic structure, although not all information is available for each species.
+
+|-- assembly_chain 	Chain files for mapping between species assemblies
+|    |
+|    |-- <species>
+|
+|-- bamcov  BAM and bigWig files derived by aligning RNASeq data to the genome
+|    |
+|    |-- <species>
+|         |
+|         |-- genebuild
+|
+|-- bed  GERP constrained element data in BED format
+|    |
+|    |-- ensembl_compara
+|         |
+|         |-- <multiple sequence alignment>
+|
+|-- blat  2bit DNA files for use with BLAT
+|    |
+|    |-- dna
+|
+|-- compara  TreeFam HMM families
+|    |
+|    |-- conservation_scores  GERP constrained element data in BED format
+|    |    |
+|    |    |-- <multiple sequence alignment>
+|    |
+|    |-- species_trees  Newick tree format files that underlie comparative analyses
+|
+|-- data_files  Alignment data files from a variety of sources
+|    |
+|    |-- <species>
+|         |
+|         |-- <assembly>
+|              |
+|              |-- external_feature_file
+|              |
+|              |-- funcgen
+|              |
+|              |-- rnaseq
+|
+|-- embl  Annotations on genomic DNA in EMBL format
+|    |
+|    |-- <species>
+|
+|-- emf  Alignments in EMF format
+|    |
+|    |-- ensembl_compara
+|         |
+|         |-- homologies  Gene trees and protein alignments underlying othology and paralogy
+|         |
+|         |-- multiple_alignments  Whole genome multiple alignments with conservation scores
+|              |
+|              |-- <multiple sequence alignment>
+|   
+|-- fasta  Sequences and annotations in FASTA format
+|    |
+|    |-- ancestral alleles  Predictions of ancestral alleles (coordinates correspond to each extant species)   
+|    |
+|    |-- <species>
+|         |
+|         |-- cdna       Transcript sequences (protein-coding and pseudogene)
+|	        |-- cds        Coding sequences
+|         |-- dna        Genomic DNA
+|         |-- dna_index  Genomic DNA, compressed using bgzip, with an HTSLib index
+|         |-- ncrna      Transcript sequences (non-coding RNA)
+|         |-- pep        Translation (peptide) sequences
+|
+|-- genbank  Annotations on genomic DNA in GenBank format
+|    |
+|    |-- <species>
+|
+|-- gff3  Gene annotation in GFF3 format
+|    |
+|    |-- <species>
+|
+|-- gtf  Gene annotation in GTF format
+|    |
+|    |-- <species>
+|
+|-- json  Genome and annotation data in JSON format
+|    |
+|    |-- <species>
+|
+|-- maf  Alignment dumps in MAF format
+|    |
+|    |-- ensembl-compara
+|         |
+|         |-- multiple_alignments  EPO and Pecan alignments
+|         |    |
+|         |    |-- <multiple sequence alignment>
+|         |
+|         |-- pairwise_alignments  LastZ pairwise alignments
+|              |
+|              |-- <pairwise alignment>
+|
+|-- mysql  MySQL database per-table text files
+|    |
+|    |-- <core database>  General genome and annotation information
+|    |
+|    |-- <cdna database>  cDNA to genome alignments
+|    |
+|    |-- <otherfeatures database>  Supplementary annotation information
+|    |
+|    |-- <rnaseq database>  RNASeq alignments and gene models
+|    |
+|    |-- <funcgen database>  Probe-mapping and regulatory data
+|    |
+|    |-- <variation database>  Variation data
+|    |
+|    |-- ensembl_accounts  Schema-only copy of the database used to manage Ensembl user accounts
+|    |
+|    |-- ensembl_ancestral_<release>  Predictions of ancestral alleles
+|    |
+|    |-- ensembl_archive_<release>  Data on historical Ensembl releases
+|    |
+|    |-- ensembl_compara_<release>  Comparative genomics: Homology, protein families, whole genome alignments, synteny
+|    |
+|    |-- ensembl_metadata_<release>  Genome and assembly data
+|    |
+|    |-- ensembl_ontology_<release>  Ontologies used in Ensembl
+|    |
+|    |-- ensembl_production_<release>  Controlled vocabularies for Ensembl databases
+|    |
+|    |-- ensembl_stable_ids_<release>  Stable ID lookups, used in search
+|    |
+|    |-- ensembl_website_<release>  Information used to build Ensembl websites
+|    |
+|    |-- ensembl_mart_<release>  BioMart database for genes
+|    |
+|    |-- genomic_features_mart_<release>  BioMart database for genomic annotations
+|    |
+|    |-- ontology_mart_<release>  BioMart database for ontologies
+|    |
+|    |-- regulation_mart_<release>  BioMart database for regulatory data
+|    |
+|    |-- sequence_mart_<release>  BioMart database for DNA and amino acid sequences
+|    |
+|    |-- snp_mart_<release>  BioMart database for variation data (including structural variation)
+|
+|-- ncbi_blast
+|    |
+|    |-- genes
+|    |
+|    |-- genomic
+|
+|-- new_genomes.txt  Summary of new genome assemblies in this release
+|
+|-- rdf	 Ensembl genes and external references in RDF format
+|    |
+|    |-- <species>
+|
+|-- regulation  Files relating to the Ensembl Regulatory build (human and mouse only)
+|    |
+|    |-- <species>
+|
+|-- removed_genomes.txt  Summary of removed genome assemblies in this release
+|
+|-- renamed_genomes.txt  Summary of renamed genome assemblies in this release
+|
+|-- species_EnsemblVertebrates.txt  Summary of all genome assemblies in this release
+|
+|-- species_metadata_EnsemblVertebrates.json  Summary of removed genome assemblies in this release
+|
+|-- species_metadata_EnsemblVertebrates.xml  Summary of removed genome assemblies in this release
+|
+|-- summary.txt  Genome assembly counts for this release
+|
+|-- tsv  Cross references from Ensembl genes, transcripts and translations to ENA, RefSeq, and UniProt
+|    |
+|    |-- <species>
+|
+|-- uniprot_report_EnsemblVertebrates.txt  Summary of UniProt coverage for all genome assemblies
+|
+|-- updated_annotations.txt  Summary of existing genome assemblies which have new gene annotations in this release
+|
+|-- updated_assemblies.txt  Summary of existing genomes which have new assemblies in this release
+|
+|-- variation  Variation data and VEP cache files
+|    |
+|    |-- gvf  Variations in GVF format
+|    |    |
+|    |    |-- <species>
+|    |
+|    |-- indexed_vep_cache  Cache files for use with VEP, compressed using bgzip
+|    |
+|    |-- vcf  Variations in VCF format
+|    |    |
+|    |    |-- <species>
+|    |
+|    |-- vep  Cache files for use with VEP, compressed using gzip
+|
+|-- virtual machine  Ensembl virtual machine
+|
+|-- xml  Gene tree and orthology files in PhyloXML and OrthoXML formats
+     |
+     |-- ensembl-compara
+          |
+          |-- homologies  Gene trees and protein alignments underlying othology and paralogy
+
+
