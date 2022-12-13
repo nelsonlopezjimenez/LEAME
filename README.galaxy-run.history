@@ -1,0 +1,222 @@
+    1  cd /c/Users/Public/
+    2  ls
+    3  cd From-TRU-canvas/
+    4  ls
+    5  cd 2021-cis242-cs115-some-videostru-export.imscc-partial/
+    6  ls
+    7  cd 14e-VIDEOS-partial/
+    8  ls
+    9  diff 2020-Lab1g.movv_Captions_English\ \(United\ States\).txt 2020-Lab1g.movv_Captions_English\ \(United\ States\)default.txt 
+   10  ls
+   11  rm example.nel-9.30.2022/
+   12  rm RAW-VIDEOS.zip 
+   13  pwd
+   14  cd 
+   15  pwd
+   16  gzip --help
+   17  ls -rt
+   18  cd ../javascript/change-source/
+   19  ls -rt
+   20  node converEnsembtFastaProtToJSONobj.js 
+   21  ls -rt
+   22  node hash-generate-from-all-pep-json.js 
+   23  ls
+   24  ls HO*
+   25  ls Ho*
+   26  cat Homo_sapiens.GRCh38.pep.all.modif.sha1.json | grep 09ab42c37bceb41bf6fa216134f6856c4dae696a
+   27  wc Homo_sapiens.GRCh38.pep.all.modif.sha1.json 
+   28  wc gbpri1.fsa_aa.out.sha1.json 
+   29  node map-reduce-find-duplicates.js 
+   30  node map-reduce-find-duplicates.js 
+   31  node map-reduce-find-duplicates.js 
+   32  cat gbpri1.fsa_aa | grep '>' | wc -l
+   33  cat gbpri1.fsa_aa | grep 'Homo' | wc -l
+   34  cat gbpri1.fsa_aa | grep 'macaca' | wc -l
+   35  cat gbpri1.fsa_aa | grep 'Macaca' | wc -l
+   36  cat gbpri1.fsa_aa | grep 'Pan' | wc -l
+   37  node hash-generate-from-all-pep-json.js 
+   38  sort gbpri1.fsa_aa.out.seqHash-to-label.flat > sorted
+   39  node hash-generate-from-all-pep-json.js 
+   40  node hash-generate-from-all-pep-json.js 
+   41  ls -rt
+   42  wc Homo_sapiens.GRCh38.pep.all.hash2label.flat 
+   43  wc Homo_sapiens.GRCh38.pep.all.label-seq.out.sha1.json 
+   44  wc Homo_sapiens.GRCh38.pep.all.seqHash-labelHash-seqLength.flat 
+   45  head Homo_sapiens.GRCh38.pep.all.hash2label.flat 
+   46  ls -rt
+   47  sort Homo_sapiens.GRCh38.pep.all.hash2label.flat > Homo_sapiens.GRCh38.pep.all.hash2label.sorted.flat 
+   48  ls -rt
+   49  sort gbpri1.fsa_aa.label-seq.hash2label.flat > gbpri1.fsa_aa.label-seq.hash2label.sorted.flat 
+   50  gzip -l Homo_sapiens.GRCh38.107.chromosome.22.dat.gz 
+   51  gzip -d Homo_sapiens.GRCh38.107.chromosome.22.dat.gz 
+   52  ls -rt
+   53  wc Homo_sapiens.GRCh38.107.chromosome.22.dat 
+   54  head Homo_sapiens.GRCh38.107.chromosome.22.dat 
+   55  ls
+   56  head gbpri1.fsa_aa 
+   57  wc gbpri1.fsa_aa 
+   58  cat gbpri1.fsa_aa | grep '>' | wc -l
+   59  less gbpri1.fsa_aa 
+   60  tail -30 gbpri1.fsa_aa 
+   61  gzip -l gbpri1.seq.gz 
+   62  gzip --help
+   63  ls
+   64  cd FORMATS-aso-seq/
+   65  ls
+   66  gzip -d gbpri1.aso.gz 
+   67  wc gbpri1.aso 
+   68  head gbpri1.aso 
+   69  gzip --help
+   70  gzip -l gbpri1.aso.gz 
+   71  tar -tf gbpri1.aso.gz 
+   72  gzip --hep
+   73  gzip --help
+   74  wc exome.alignment.index.txt 
+   75  wc -l exome.alignment.index.txt 
+   76  tail exome.alignment.index.txt 
+   77  tail exome.alignment.index.txt 
+   78  tail exome.alignment.index.txt 
+   79  ls -rt
+   80  head current.tree.ftp.vol1.ebi.uk.txt 
+   81  head current.tree.ftp.vol1.ebi.uk.txt 
+   82  ls -rt
+   83  head NA19648.alt_bwamem_GRCh38DH.20150826.MXL.exome.bam.bas 
+   84  zcat ALL.chr22.shapeit2_integrated_v1a.GRCh38.20181129.phased.vcf.gz | head
+   85  zcat ALL.chr22.shapeit2_integrated_v1a.GRCh38.20181129.phased.vcf.gz | more
+   86  zcat ALL.chr22.shapeit2_integrated_v1a.GRCh38.20181129.phased.vcf.gz | less
+   87  ls -rt
+   88  head NA19648.alt_bwamem_GRCh38DH.20150826.MXL.exome.bam.bas 
+   89  ls -rt
+   90  mv Unconfirmed\ 146499.crdownload tmp
+   91  ls -rt
+   92  ls
+   93  head -1 HG00096.chrom20.ILLUMINA.bwa.GBR.low_coverage.20120522.bam
+   94  head HG00096.chrom20.ILLUMINA.bwa.GBR.low_coverage.20120522.bam.bai
+   95  clear
+   96  head HG00096.chrom20.ILLUMINA.bwa.GBR.low_coverage.20120522.bam | hexdump -C
+   97  hexdump -C HG00096.chrom20.ILLUMINA.bwa.GBR.low_coverage.20120522.bam
+   98  gzip samtools-1.16.1.tar.bz2 
+   99  ls
+  100  unzip samtools-1.16.1.tar.bz2.gz 
+  101  gzip -h
+  102  ls
+  103  bgzip -d samtools-1.16.1.tar.bz2
+  104  gzip -d samtools-1.16.1.tar.bz2
+  105  gzip -h
+  106  gzip -d samtools-1.16.1.tar.bz2
+  107  bgzip
+  108  bgzip
+  109  tar xvfz samtools-1.16.1.tar.bz2
+  110  unzip samtools-1.16.1.tar.bz2
+  111  tar xvfz samtools-1.16.1.tar.bz2
+  112  tar -h
+  113  tar --usage
+  114  tar xvf samtools-1.16.1.tar.bz2
+  115  ls -rt
+  116  cd samtools-1.16.1
+  117  ls
+  118  cat README 
+  119  cat INSTALL
+  120  ./configure
+  121  ls -rt
+  122  node recursiveExtractTreePath-for-file-hashing.js 
+  123  node recursiveExtractTreePath-for-file-hashing.js 
+  124  node recursiveExtractTreePath-for-file-hashing.js 
+  125  node recursiveExtractTreePath-for-file-hashing.js 
+  126  cat out70.txt 
+  127  node recursiveExtractTreePath-for-file-hashing.js 
+  128  wc out70.txt
+  129  wc -l out70.txt
+  130  cd ..
+  131  ls
+  132  mkdir line-by-line
+  133  cd line-by-line/
+  134  git clone https://github.com/geshan/nodejs-readfile-line-by-line.git
+  135  ls
+  136  cd nodejs-readfile-line-by-line/
+  137  ls
+  138  cat package.json 
+  139  ls
+  140  more readfilesync.js 
+  141  less readfilesync.js 
+  142  cag readfilesync.js 
+  143  cat readfilesync.js 
+  144  ls
+  145  cat n-readlines.js 
+  146  node n-readlines.js 
+  147  ls
+  148  ls -alih
+  149  cat n-readlines.js 
+  150  node n-readlines.js 
+  151  npm install n-readlines
+  152  ls
+  153  ls node_modules/
+  154  node n-readlines.js 
+  155  cat n-readlines.js 
+  156  cp n-readlines.js n-readlines.js.bak
+  157  vi n-readlines.js
+  158  node n-readlines.js
+  159  ls
+  160  cp line-reader.js line-reader.js.bak
+  161  vi line-reader.js
+  162  ls -rt
+  163  node line-reader.js
+  164  ls
+  165  ls  node_modules/
+  166  cat line-reader.js
+  167  ls
+  168  cat line-reader.js.bak 
+  169  ls
+  170  cat n-readlines.js.bak 
+  171  ipconfig
+  172  ipconfig
+  173  ipconfig
+  174  ipconfig
+  175  ipconfig
+  176  ls
+  177  tar xvf chr22.fna.gz 
+  178  gzip -d chr22.fna.gz 
+  179  ls
+  180  head chr22.fna
+  181  wc chr22.fna
+  182  ls -rt
+  183  less chr22.fna
+  184  tail chr22.fna
+  185  head chr22.fna
+  186  ls
+  187  gzip -d homo_sapiens_clinically_associated.gvf.gz 
+  188  ls
+  189  head homo_sapiens_clinically_associated.gvf 
+  190  less homo_sapiens_clinically_associated.gvf 
+  191  cd ..
+  192  ls
+  193  less Galaxy2-\[Samtools_view_on_data_1__filtered_alignments\].sam 
+  194  ls -rt
+  195  head Galaxy3-\[Samtools_view_on_data_1__filtered_alignments\].sam 
+  196  less Galaxy3-\[Samtools_view_on_data_1__filtered_alignments\].sam 
+  197  wc- l Galaxy3-\[Samtools_view_on_data_1__filtered_alignments\].sam 
+  198  wc -l Galaxy3-\[Samtools_view_on_data_1__filtered_alignments\].sam 
+  199  ls -rt
+  200  less Galaxy5-\[data_4_converted_to_fasta\].fasta 
+  201  wc -l Galaxy5-\[data_4_converted_to_fasta\].fasta 
+  202  ls -rt
+  203  ls
+  204  ls -rt
+  205  head Galaxy18-\[Convert\,_Merge\,_Randomize_on_data_11\].pileup 
+  206  less Galaxy18-\[Convert\,_Merge\,_Randomize_on_data_11\].pileup 
+  207  ls -rt
+  208  less Galaxy20-\[bcftools_consensus_on_data_19__consensus_fasta\].fasta 
+  209  more Galaxy20-\[bcftools_consensus_on_data_19__consensus_fasta\].fasta 
+  210  wc Galaxy20-\[bcftools_consensus_on_data_19__consensus_fasta\].fasta 
+  211  tail Galaxy20-\[bcftools_consensus_on_data_19__consensus_fasta\].fasta 
+  212  head Galaxy20-\[bcftools_consensus_on_data_19__consensus_fasta\].fasta 
+  213  cat Galaxy20-\[bcftools_consensus_on_data_19__consensus_fasta\].fasta | grep '>'
+  214  cat Galaxy20-\[bcftools_consensus_on_data_19__consensus_fasta\].fasta | grep '>chr20'
+  215  cat Galaxy20-\[bcftools_consensus_on_data_19__consensus_fasta\].fasta | grep -A 5 '>chr20'
+  216  ls
+  217  less Galaxy20-\[bcftools_consensus_on_data_19__consensus_fasta\].fasta 
+  218  less -N Galaxy20-\[bcftools_consensus_on_data_19__consensus_fasta\].fasta 
+  219  less -N Galaxy20-\[bcftools_consensus_on_data_19__consensus_fasta\].fasta 
+  220  ls -laih
+  221  history | tail
+  222  history > /c/Users/Public/2023/README.galaxy-run.history
