@@ -1,0 +1,65 @@
+total 6.3G
+4785074604397531 drwxr-xr-x 1 gammastudent 197121    0 Dec 13 12:22 ./
+2814749767422938 drwxr-xr-x 1 gammastudent 197121    0 Dec 13 12:17 ../
+1688849860580353 -rw-r--r-- 1 gammastudent 197121 285K Dec  2 12:08 Binary_BCF_versus_VCF_format.png
+1688849860580352 -rw-r--r-- 1 gammastudent 197121 345K Dec  2 11:51 Galaxy10-[Samtools_phase_on_data_1].txt
+1688849860580358 -rw-r--r-- 1 gammastudent 197121  86K Dec  2 11:51 Galaxy11-[Samtools_phase_on_data_1__Phase-0_reads].bai
+1970324837291001 -rw-r--r-- 1 gammastudent 197121  57M Dec  2 11:51 Galaxy11-[Samtools_phase_on_data_1__Phase-0_reads].bam
+1688849860580356 -rw-r--r-- 1 gammastudent 197121  87K Dec  2 11:52 Galaxy12-[Samtools_phase_on_data_1__Phase-1_reads].bai
+1970324837291003 -rw-r--r-- 1 gammastudent 197121  57M Dec  2 11:52 Galaxy12-[Samtools_phase_on_data_1__Phase-1_reads].bam
+1688849860580364 -rw-r--r-- 1 gammastudent 197121  704 Dec  2 11:52 Galaxy13-[Samtools_phase_on_data_1__Chimeric_reads].bai
+1688849860580362 -rw-r--r-- 1 gammastudent 197121 4.9K Dec  2 11:52 Galaxy13-[Samtools_phase_on_data_1__Chimeric_reads].bam
+1970324837291000 -rw-r--r-- 1 gammastudent 197121  65M Dec  2 11:56 Galaxy14-[Convert,_Merge,_Randomize_on_data_11].fasta
+1970324837290997 -rw-r--r-- 1 gammastudent 197121 444M Dec  2 11:58 Galaxy15-[Convert,_Merge,_Randomize_on_data_11].json.txt
+1970324837290998 -rw-r--r-- 1 gammastudent 197121 236M Dec  2 12:00 Galaxy16-[Convert,_Merge,_Randomize_on_data_11].sam
+1970324837291005 -rw-r--r-- 1 gammastudent 197121  24M Dec  2 12:02 Galaxy17-[Convert,_Merge,_Randomize_on_data_11].bed
+1970324837291006 -rw-r--r-- 1 gammastudent 197121 441K Dec  2 12:38 Galaxy18-[Convert,_Merge,_Randomize_on_data_11].pileup
+6473924464411486 -rw-r--r-- 1 gammastudent 197121 1.2G Dec  2 12:51 Galaxy19-[bcftools_mpileup_on_data_1].vcf
+1688849860580359 -rw-r--r-- 1 gammastudent 197121  20K Dec  2 11:07 Galaxy2-[Samtools_view_on_data_1__filtered_alignments].sam
+2251799814001648 -rw-r--r-- 1 gammastudent 197121 3.1G Dec  2 13:18 Galaxy20-[bcftools_consensus_on_data_19__consensus_fasta].fasta
+2533274790712308 -rw-r--r-- 1 gammastudent 197121 498M Dec  2 11:12 Galaxy3-[Samtools_view_on_data_1__filtered_alignments].sam
+3096224744133618 -rw-r--r-- 1 gammastudent 197121 498M Dec  2 11:17 Galaxy4-[BAM-to-SAM_on_data_1__converted_SAM].sam
+1970324837290999 -rw-r--r-- 1 gammastudent 197121 139M Dec  2 11:23 Galaxy5-[data_4_converted_to_fasta].fasta
+1688849860580351 -rw-r--r-- 1 gammastudent 197121 345K Dec  2 11:42 Galaxy6-[Samtools_phase_on_data_4].txt
+1688849860580357 -rw-r--r-- 1 gammastudent 197121  86K Dec  2 11:43 Galaxy7-[Samtools_phase_on_data_4__Phase-0_reads].bai
+1970324837291002 -rw-r--r-- 1 gammastudent 197121  57M Dec  2 11:43 Galaxy7-[Samtools_phase_on_data_4__Phase-0_reads].bam
+1688849860580355 -rw-r--r-- 1 gammastudent 197121  87K Dec  2 11:43 Galaxy8-[Samtools_phase_on_data_4__Phase-1_reads].bai
+1970324837291004 -rw-r--r-- 1 gammastudent 197121  57M Dec  2 11:43 Galaxy8-[Samtools_phase_on_data_4__Phase-1_reads].bam
+1688849860580363 -rw-r--r-- 1 gammastudent 197121  704 Dec  2 11:43 Galaxy9-[Samtools_phase_on_data_4__Chimeric_reads].bai
+1688849860580361 -rw-r--r-- 1 gammastudent 197121 5.0K Dec  2 11:43 Galaxy9-[Samtools_phase_on_data_4__Chimeric_reads].bam
+2533274790712335 -rw-r--r-- 1 gammastudent 197121    0 Dec 13 12:23 README.listDir
+1688849860580365 drwxr-xr-x 1 gammastudent 197121    0 Dec 13 12:21 alignment/
+1688849860580360 -rw-r--r-- 1 gammastudent 197121 8.9K Dec  4 08:39 cat-GALAXY20-grep-greaterthan.txt
+1688849860580369 drwxr-xr-x 1 gammastudent 197121    0 Dec 13 12:21 exome_alignment/
+1688849860580373 drwxr-xr-x 1 gammastudent 197121    0 Dec  1 13:00 sequence_read/
+Binary_BCF_versus_VCF_format.png
+Galaxy10-[Samtools_phase_on_data_1].txt
+Galaxy11-[Samtools_phase_on_data_1__Phase-0_reads].bai
+Galaxy11-[Samtools_phase_on_data_1__Phase-0_reads].bam
+Galaxy12-[Samtools_phase_on_data_1__Phase-1_reads].bai
+Galaxy12-[Samtools_phase_on_data_1__Phase-1_reads].bam
+Galaxy13-[Samtools_phase_on_data_1__Chimeric_reads].bai
+Galaxy13-[Samtools_phase_on_data_1__Chimeric_reads].bam
+Galaxy14-[Convert,_Merge,_Randomize_on_data_11].fasta
+Galaxy15-[Convert,_Merge,_Randomize_on_data_11].json.txt
+Galaxy16-[Convert,_Merge,_Randomize_on_data_11].sam
+Galaxy17-[Convert,_Merge,_Randomize_on_data_11].bed
+Galaxy18-[Convert,_Merge,_Randomize_on_data_11].pileup
+Galaxy19-[bcftools_mpileup_on_data_1].vcf
+Galaxy2-[Samtools_view_on_data_1__filtered_alignments].sam
+Galaxy20-[bcftools_consensus_on_data_19__consensus_fasta].fasta
+Galaxy3-[Samtools_view_on_data_1__filtered_alignments].sam
+Galaxy4-[BAM-to-SAM_on_data_1__converted_SAM].sam
+Galaxy5-[data_4_converted_to_fasta].fasta
+Galaxy6-[Samtools_phase_on_data_4].txt
+Galaxy7-[Samtools_phase_on_data_4__Phase-0_reads].bai
+Galaxy7-[Samtools_phase_on_data_4__Phase-0_reads].bam
+Galaxy8-[Samtools_phase_on_data_4__Phase-1_reads].bai
+Galaxy8-[Samtools_phase_on_data_4__Phase-1_reads].bam
+Galaxy9-[Samtools_phase_on_data_4__Chimeric_reads].bai
+Galaxy9-[Samtools_phase_on_data_4__Chimeric_reads].bam
+README.listDir
+alignment/
+cat-GALAXY20-grep-greaterthan.txt
+exome_alignment/
+sequence_read/
