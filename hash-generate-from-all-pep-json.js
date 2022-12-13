@@ -81,7 +81,7 @@ readContentFile(fullPath).then( jsonObjString => { // it is read as a  string
   })
   writeFile(fullPath + '-seqHash-labelHash-seqLength.flat', buildFlatHashFile, error => {
     if (error) console.log(error + ' line102');
-    else console.log('flat file writfullPath');
+    else console.log('flat file withfullPath');
   })
 
 

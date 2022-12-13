@@ -1,0 +1,31 @@
+gammastudent@counter-top MINGW64 ~/Documents/2022-FALL/javascript/change-source/DATA (master)
+$ head gbpri1.fsa_aa.label-seq.out.json-seqHash-labelHash-seqLength.flat
+6373f4328237d098e235693be919aa45880c38a4        2b6f6b9c5e21e373073ab3c485f70e1c9b89b587        698
+dfd99c19a8b25622882afeb7743822d7971b45a2        427edb1b6c3606819794065cc5c5804f4e095277        188
+a543d2a4085f71ffffc0ded269ea97dc64eb5b1f        cb80365bd4d047d9dc002468bfffa421f4f5f34c        258
+cffb18439a54b0d2c9df6449929ceb13ab8f698b        d0e067c0eae32246eb8326d6e398f01d69feb9ae        54
+510d51d84f067e0ba04b868341111a8f06bda984        42bf234ef7692edd2b73ca02e90f0511e5070eb3        350
+bf542af4426cc0520d00932ca211c82d4ad1c145        7d6a1402d40da8871ca8c5f684a2fb3da3a436dd        254
+7806d1f004a3287917479b5d7f8ddacb08bfb36f        9a49d74f414b38edb2bc5b47e2462b53c88e2703        725
+b5db07225e0dab2ce3c69ed4237816fe1784ddc9        ba99d501c194ff65d638bcd9d810a4af76540a31        326
+bd784d093a95f4886d34d185faba53821bd6eb01        3ae96885c334467f771254f808d7a5454d4f7a98        148
+18bd7ec65165b8fd3c8d472535d76e159df9b3e4        b5d7f3503218e0329ecc891a246bb8649dde54d1        362
+
+gammastudent@counter-top MINGW64 ~/Documents/2022-FALL/javascript/change-source/DATA (master)
+$ head gbpri1.fsa_aa.label-seq.out.json.hash2label.flat
+6373f4328237d098e235693be919aa45880c38a4        >AAB42216.1 partial CDS, human putative tumor suppressor (U23946) [Homo sapiens]        698
+dfd99c19a8b25622882afeb7743822d7971b45a2        >AAB46353.1 EGF repeat containing protein; HUMTDGF1A Human (clone CR) teratocarcinoma-derived growth factor 1 (TDGF1) gene P13385; coded for by human cDNAs M96956 (NID:g339432), X14253 (NID:g30220) and M96955 (NID:g339430) [Homo sapiens]      188
+a543d2a4085f71ffffc0ded269ea97dc64eb5b1f        >AAB46354.1 coded for by human cDNAs R76043 (NID:g850725), R65857 (NID:g838495) and H12868 (NID:g877688) [Homo sapiens]    258
+cffb18439a54b0d2c9df6449929ceb13ab8f698b        >AAB46355.1 coded for by human cDNA N49626 (NID:g1190792) [Homo sapiens]        54
+510d51d84f067e0ba04b868341111a8f06bda984        >AAB54048.1 Rod transducin (alpha-1 subunit) [Homo sapiens]     350
+bf542af4426cc0520d00932ca211c82d4ad1c145        >AAB63305.1 MHC class II DRA [Macaca mulatta]   254
+7806d1f004a3287917479b5d7f8ddacb08bfb36f        >AAC03107.1 PCF11p homolog [Homo sapiens]       725
+b5db07225e0dab2ce3c69ed4237816fe1784ddc9        >AAB95634.1 unknown function; 60% similar to Z50177 (PID:g927403) (PID:g927402) [Homo sapiens]  326
+bd784d093a95f4886d34d185faba53821bd6eb01        >AAB95635.1 Phosphatidylcholine 2-acylhydrolase [Homo sapiens]  148
+18bd7ec65165b8fd3c8d472535d76e159df9b3e4        >AAB95636.1 similar to murine RNA-binding protein; 99% similar to D49654 (PID:g1434857) [Homo sapiens]  362
+
+
+gammastudent@counter-top MINGW64 ~/Documents/2022-FALL/javascript/change-source/DATA (master)
+$ less gbpri1.fsa_aa.label-seq.out.json.hashed.json
+
+[{"labelHash":"2b6f6b9c5e21e373073ab3c485f70e1c9b89b587","seqHash":"6373f4328237d098e235693be919aa45880c38a4","seqLenght":698},{"labelHash":"427edb1b6c3606819794065cc5c5804f4e095277","seqHash":"dfd99c19a8b25622882afeb7743822d7971b45a2","seqLenght":188},{"labelHash":"cb80365bd4d047d9dc002468bfffa421f4f5f34c","seqHash":"a543d2a4085f71ffffc0ded269ea97dc64eb5b1f","seqLenght":258},{"labelHash":"d0e067c0eae32246eb8326d6e398f01d69feb9ae","seqHash":"cffb18439a54b0d2c9df6449929ceb13ab8f698b","seqLenght":54},{"labelHash":"42bf234ef7692edd2b73ca02e90f0511e5070eb3","seqHash":"510d51d84f067e0ba04b868341111a8f06bda984","seqLenght":350},{"labelHash":"7d6a1402d40da8871ca8c5f684a2fb3da3a436dd","seqHash":"bf542af4426cc0520d00932ca211c82d4ad1c145","seqLenght":254},{"labelHash":"9a49d74f414b38edb2bc5b47e2462b53c88e2703","seqHash":"7806d1f004a3287917479b5d7f8ddacb08bfb36f","seqLenght":725},{"labelHash":"ba99d501c194ff65d638bcd9d810a4af76540a31","seqHash":"b5db07225e0dab2ce3c69ed4237816fe1784ddc9","seqLenght":326},{"labelHash":"3ae96885c334467f771254f808d7a5454d4f7a98","seqHash":"bd784d093a95f4886d34d185faba53821bd6eb01","seqLenght":148},{"labelHash":"b5d7f3503218e0329ecc891a246bb8649dde54d1","seqHash":"18bd7ec65165b8fd3c8d472535d76e159df9b3e4","seqLenght":362},{"labelHash":"ae6a94cc8fe66e93f9e0f95ee4e01a619b9c7f8d","seqHash":"f3e5b39e536666b835a95da08a4501af26eb68cf","seqLenght":275},{"labelHash":"2a6a82b60c2eadabc3d8b4ec464fdce23066f7a2","seqHash":"6d7f6976279730160c8fbc5f605a089ef056a45d","seqLenght":309},{"labelHash":"51a27810c15f1d47f29354fb6043ede1951bbbeb","seqHash":"bd8b9a9351c9284c826cecd5d2204e6c8b0ca0e4","seqLenght":130},{"labelHash":"d0788774ecb7e9a434d8cf0170e79e946b61a954","seqHash":"376ff19ede13647966c9a3710aaf679fea022b39","seqLenght":56},{"labelHash":"7d9c73f717c4210575f3159e1f296f46140fa6d0","seqHash":"a1fcfeb7c5a46a80202b4e5738c141ec3bd79929","seqLenght":131},{"labelHash":"bab24077e481fea8ed2685e8695b129403568d6a","seqHash":"f828511c880167e75bf6b6783e12b3edc87369ee","seqLenght":255},{"labelHash":"86c09b651ab8944603ce39bd1c538b780ef5e977","seqHash":"e0c7458c5f80d6a3b427a9dcdf08b62e4322319d","seqLenght":313},{"labelHash":"be4b8dc27a8c72a356455814ca21f2081d40d1ee","seqHash":"2c7011d9ad761008d10c0194810e37c9d79482a0","seqLenght":120},{"labelHash":"4be2124752b986a6e4eba614ec6ddba2678a5887","seqHash":"64c17b6e3c53695b746facc80960f47605d51037","seqLenght":159}, ...{},  ... ]
