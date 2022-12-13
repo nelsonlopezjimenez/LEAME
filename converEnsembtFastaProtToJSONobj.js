@@ -9,6 +9,7 @@ let fullPath = "C:/Users/gammastudent/Documents/2022-FALL/javascript/change-sour
 let dirName = 'DATA/'
 let fileName = 'out20.txt';
 fileName = './gbpri1.fsa_aa';
+fileName = './Homo_sapiens.GRCh38.pep.all'; // test windows shortcut and mklink symlink
 
 fullPath += dirName + fileName;
 

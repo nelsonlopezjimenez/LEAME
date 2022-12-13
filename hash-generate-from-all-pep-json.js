@@ -13,6 +13,7 @@ let fullPath = "C:/Users/gammastudent/Documents/2022-FALL/javascript/change-sour
 let dirName = './DATA/'
 let fileName = './Homo_sapiens.GRCh38.pep.all.json';
 fileName = 'gbpri1.fsa_aa.label-seq.out.json'; //'.label-seq.out.json' 
+fileName = 'Homo_sapiens.GRCh38.pep.all.label-seq.out.json';
 
 fullPath += dirName + fileName;
 
@@ -63,8 +64,8 @@ readContentFile(fullPath).then( jsonObjString => { // it is read as a  string
     buildFlatHashFile += `${seqHash}\t${labelHash}\t${seqLenght}\n`
   }
 
-  console.log(seqObjHashArray.length + " line90");
-  console.log(seqHashToLabelArray.length + ' line91 seqHashToLabelArray.length')
+  console.log(seqObjHashArray.length + " line67");
+  console.log(seqHashToLabelArray.length + ' line68 seqHashToLabelArray.length')
   // for (let i = seqObjHashArray.length - numOfRecords; i < numOfRecords; i++){
   //   console.log(jsonObj[i])
   //   console.log(seqObjHashArray[i]);
@@ -76,11 +77,11 @@ readContentFile(fullPath).then( jsonObjString => { // it is read as a  string
     else console.log('success sha1 json')
   })
   writeFile(fullPath + '.hash2label.flat', buildFlatHashToLabel, error => {
-    if (error) console.log(error + 'line88');
+    if (error) console.log(error + 'line80');
     else console.log('writen sequence hash to label FLAT')
   })
   writeFile(fullPath + '-seqHash-labelHash-seqLength.flat', buildFlatHashFile, error => {
-    if (error) console.log(error + ' line102');
+    if (error) console.log(error + ' line84');
     else console.log('flat file withfullPath');
   })
 
