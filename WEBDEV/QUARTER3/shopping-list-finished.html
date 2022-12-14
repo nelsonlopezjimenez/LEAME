@@ -1,60 +1,71 @@
-[200~<!DOCTYPE html>
+
+<!DOCTYPE html>
 <html lang="en-us">
-	  <head>
-		      <meta charset="utf-8">
-		          <meta name="viewport" content="width=device-width, initial-scale=1.0">
-			      <title>Shopping list example</title>
-			          <style>
-      li {
-	              margin-bottom: 10px;
-		            }
 
-            li button {
-		            font-size: 12px;
-			            margin-left: 20px;
-				            color: #666;
-					          }
-	        </style>
-		  </head>
-		    <body>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Shopping list example</title>
+	<style>
+		li {
+			margin-bottom: 10px;
+		}
 
-			        <h1>My shopping list</h1>
+		li button {
+			font-size: 12px;
+			margin-left: 20px;
+			color: #666;
+		}
+	</style>
+</head>
 
-				    <div>
-					          <label for="item">Enter a new item:</label>
-						        <input type="text" name="item" id="item">
-							      <button>Add item</button>
-							          </div>
+<body>
 
-								      <ul>
+	<h1>My shopping list</h1>
 
-									          </ul>
+	<div>
+		<label for="item">Enter a new item:</label>
+		<input type="text" name="item" id="item">
+		<button>Add item</button>
+	</div>
 
-										      <script>
-											            const list = document.querySelector('ul');
-											            const input = document.querySelector('input');
-											            const button = document.querySelector('button');
+	<ul>
 
-											            button.addEventListener('click', () => {
-																									          const myItem = input.value;
-																									          input.value = '';
+	</ul>
+	<ul id="demo"></ul>
+	<script>
+		const list = document.querySelector('ul');
+		const input = document.querySelector('input');
+		const button = document.querySelector('button');
+		let build = "";
 
-																									          const listItem = document.createElement('li');
-																									          const listText = document.createElement('span');
-																									          const listBtn = document.createElement('button');
+		button.addEventListener('click', () => {
+			const myItem = input.value;
+			input.value = '';
 
-																									          listItem.appendChild(listText);
-																									          listText.textContent = myItem;
-																									          listItem.appendChild(listBtn);
-																									          listBtn.textContent = 'Delete';
-																									          list.appendChild(listItem);
+			const listItem = document.createElement('li');
+			const listText = document.createElement('span');
+			const listBtn = document.createElement('button');
+			build += `<li><span>${myItem}</span><button>Delete</button></li>`
 
-																									          listBtn.addEventListener('click', () => {
-																																							          list.removeChild(listItem);
-																																							        });
+			listItem.appendChild(listText);
+			listText.textContent = myItem;
+			listItem.appendChild(listBtn);
+			listBtn.textContent = 'Delete';
+			list.appendChild(listItem);
 
-																									          input.focus();
-																									        });
-											          </script>
-												    </body>
+			listBtn.addEventListener('click', () => {
+				list.removeChild(listItem);
+			});
+			let myButton = document.querySelectorAll('button');
+			myButton[1].addEventListener('click', () => alert())
+			console.log(myButton);
+			input.focus();
+
+			let demo = document.querySelector('#demo');
+			demo.innerHTML = build;
+		});
+	</script>
+</body>
+
 </html>

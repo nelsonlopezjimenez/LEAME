@@ -1,3 +1,8 @@
+#binary files
+*.bam
+*.bai 
+*.gz
+
 # Logs
 logs
 *.log
