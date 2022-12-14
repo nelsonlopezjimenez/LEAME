@@ -1,7 +1,9 @@
-#binary files
+# genomics formats
 *.bam
 *.bai 
 *.gz
+*.sam
+*.vcf
 
 # Logs
 logs
