@@ -32,12 +32,11 @@
 	<ul>
 
 	</ul>
-	<ul id="demo"></ul>
+	
 	<script>
 		const list = document.querySelector('ul');
 		const input = document.querySelector('input');
 		const button = document.querySelector('button');
-		let build = "";
 
 		button.addEventListener('click', () => {
 			const myItem = input.value;
@@ -46,7 +45,6 @@
 			const listItem = document.createElement('li');
 			const listText = document.createElement('span');
 			const listBtn = document.createElement('button');
-			build += `<li><span>${myItem}</span><button>Delete</button></li>`
 
 			listItem.appendChild(listText);
 			listText.textContent = myItem;
@@ -57,13 +55,8 @@
 			listBtn.addEventListener('click', () => {
 				list.removeChild(listItem);
 			});
-			let myButton = document.querySelectorAll('button');
-			myButton[1].addEventListener('click', () => alert())
-			console.log(myButton);
-			input.focus();
 
-			let demo = document.querySelector('#demo');
-			demo.innerHTML = build;
+			input.focus();
 		});
 	</script>
 </body>
