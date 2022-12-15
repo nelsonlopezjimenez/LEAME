@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-us">
-
+    <!-- https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_building_practice -->
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
@@ -100,6 +100,28 @@
 
 
         }
+        class Homunc  {
+            constructor(Ball1, Ball2){
+                this.head = Ball1;
+                this.body = Ball2;
+            }
+            draw() {
+                this.head.draw();
+                this.body.draw();
+            }
+            update(){
+                this.head.update();
+                this.body.update();
+            }
+        }
+        let xdis = 50, ydis = 100, boddis = xdis+50, bodydis = ydis+110;
+        let head = new Ball(50,100,10,240,'red',50);
+        let body = new Ball(50, 210, 10, 240, 'green', 65);
+        head = new Ball(xdis,ydis,110,40,'red',50);
+        body = new Ball(boddis, bodydis, 110, 40, 'green', 65);
+        
+        let one = new Homunc(head, body);
+        
         const testBall = new Ball(50, 100, 4, 4, "blue", 10);
         const balls = [];
 
@@ -120,7 +142,7 @@
         }
         function loop() {
             ctx.fillStyle = "rgba(0, 0, 0, 0.25)";
-            // ctx.fillRect(0, 0, width, height);
+            ctx.fillRect(0, 0, width, height);
 
             for (const ball of balls) {
                 ball.draw();
@@ -128,6 +150,12 @@
             }
 
             requestAnimationFrame(loop);
+        }
+        function loopHom (){
+            for (i of 'aa'){
+                one.draw();
+                one.update();
+            }
         }
 
 
