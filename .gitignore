@@ -5,6 +5,12 @@
 *.sam
 *.vcf
 
+# big file formats
+*.mp4
+*.mov
+*.webm
+*.m4a
+
 # Logs
 logs
 *.log
