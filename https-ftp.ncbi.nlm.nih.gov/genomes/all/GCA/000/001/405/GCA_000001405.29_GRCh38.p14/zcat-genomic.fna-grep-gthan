@@ -1,0 +1,709 @@
+>CM000663.2 Homo sapiens chromosome 1, GRCh38 reference primary assembly
+>KI270706.1 Homo sapiens chromosome 1 unlocalized genomic contig, GRCh38 reference primary assembly
+>KI270707.1 Homo sapiens chromosome 1 unlocalized genomic contig, GRCh38 reference primary assembly
+>KI270708.1 Homo sapiens chromosome 1 unlocalized genomic contig, GRCh38 reference primary assembly
+>KI270709.1 Homo sapiens chromosome 1 unlocalized genomic contig, GRCh38 reference primary assembly
+>KI270710.1 Homo sapiens chromosome 1 unlocalized genomic contig, GRCh38 reference primary assembly
+>KI270711.1 Homo sapiens chromosome 1 unlocalized genomic contig, GRCh38 reference primary assembly
+>KI270712.1 Homo sapiens chromosome 1 unlocalized genomic contig, GRCh38 reference primary assembly
+>KI270713.1 Homo sapiens chromosome 1 unlocalized genomic contig, GRCh38 reference primary assembly
+>KI270714.1 Homo sapiens chromosome 1 unlocalized genomic contig, GRCh38 reference primary assembly
+>CM000664.2 Homo sapiens chromosome 2, GRCh38 reference primary assembly
+>KI270715.1 Homo sapiens chromosome 2 unlocalized genomic contig, GRCh38 reference primary assembly
+>KI270716.1 Homo sapiens chromosome 2 unlocalized genomic contig, GRCh38 reference primary assembly
+>CM000665.2 Homo sapiens chromosome 3, GRCh38 reference primary assembly
+>GL000221.1 Homo sapiens chromosome 3 unlocalized genomic contig, GRCh38 reference primary assembly
+>CM000666.2 Homo sapiens chromosome 4, GRCh38 reference primary assembly
+>GL000008.2 Homo sapiens chromosome 4 unlocalized genomic contig, GRCh38 reference primary assembly
+>CM000667.2 Homo sapiens chromosome 5, GRCh38 reference primary assembly
+>GL000208.1 Homo sapiens chromosome 5 unlocalized genomic contig, GRCh38 reference primary assembly
+>CM000668.2 Homo sapiens chromosome 6, GRCh38 reference primary assembly
+>CM000669.2 Homo sapiens chromosome 7, GRCh38 reference primary assembly
+>CM000670.2 Homo sapiens chromosome 8, GRCh38 reference primary assembly
+>CM000671.2 Homo sapiens chromosome 9, GRCh38 reference primary assembly
+>KI270717.1 Homo sapiens chromosome 9 unlocalized genomic contig, GRCh38 reference primary assembly
+>KI270718.1 Homo sapiens chromosome 9 unlocalized genomic contig, GRCh38 reference primary assembly
+>KI270719.1 Homo sapiens chromosome 9 unlocalized genomic contig, GRCh38 reference primary assembly
+>KI270720.1 Homo sapiens chromosome 9 unlocalized genomic contig, GRCh38 reference primary assembly
+>CM000672.2 Homo sapiens chromosome 10, GRCh38 reference primary assembly
+>CM000673.2 Homo sapiens chromosome 11, GRCh38 reference primary assembly
+>KI270721.1 Homo sapiens chromosome 11 unlocalized genomic contig, GRCh38 reference primary assembly
+>CM000674.2 Homo sapiens chromosome 12, GRCh38 reference primary assembly
+>CM000675.2 Homo sapiens chromosome 13, GRCh38 reference primary assembly
+>CM000676.2 Homo sapiens chromosome 14, GRCh38 reference primary assembly
+>GL000009.2 Homo sapiens chromosome 14 unlocalized genomic contig, GRCh38 reference primary assembly
+>GL000225.1 Homo sapiens chromosome 14 unlocalized genomic contig, GRCh38 reference primary assembly
+>KI270722.1 Homo sapiens chromosome 14 unlocalized genomic contig, GRCh38 reference primary assembly
+>GL000194.1 Homo sapiens chromosome 14 unlocalized genomic contig, GRCh38 reference primary assembly
+>KI270723.1 Homo sapiens chromosome 14 unlocalized genomic contig, GRCh38 reference primary assembly
+>KI270724.1 Homo sapiens chromosome 14 unlocalized genomic contig, GRCh38 reference primary assembly
+>KI270725.1 Homo sapiens chromosome 14 unlocalized genomic contig, GRCh38 reference primary assembly
+>KI270726.1 Homo sapiens chromosome 14 unlocalized genomic contig, GRCh38 reference primary assembly
+>CM000677.2 Homo sapiens chromosome 15, GRCh38 reference primary assembly
+>KI270727.1 Homo sapiens chromosome 15 unlocalized genomic contig, GRCh38 reference primary assembly
+>CM000678.2 Homo sapiens chromosome 16, GRCh38 reference primary assembly
+>KI270728.1 Homo sapiens chromosome 16 unlocalized genomic contig, GRCh38 reference primary assembly
+>CM000679.2 Homo sapiens chromosome 17, GRCh38 reference primary assembly
+>GL000205.2 Homo sapiens chromosome 17 unlocalized genomic contig, GRCh38 reference primary assembly
+>KI270729.1 Homo sapiens chromosome 17 unlocalized genomic contig, GRCh38 reference primary assembly
+>KI270730.1 Homo sapiens chromosome 17 unlocalized genomic contig, GRCh38 reference primary assembly
+>CM000680.2 Homo sapiens chromosome 18, GRCh38 reference primary assembly
+>CM000681.2 Homo sapiens chromosome 19, GRCh38 reference primary assembly
+>CM000682.2 Homo sapiens chromosome 20, GRCh38 reference primary assembly
+>CM000683.2 Homo sapiens chromosome 21, GRCh38 reference primary assembly
+>CM000684.2 Homo sapiens chromosome 22, GRCh38 reference primary assembly
+>KI270731.1 Homo sapiens chromosome 22 unlocalized genomic contig, GRCh38 reference primary assembly
+>KI270732.1 Homo sapiens chromosome 22 unlocalized genomic contig, GRCh38 reference primary assembly
+>KI270733.1 Homo sapiens chromosome 22 unlocalized genomic contig, GRCh38 reference primary assembly
+>KI270734.1 Homo sapiens chromosome 22 unlocalized genomic contig, GRCh38 reference primary assembly
+>KI270735.1 Homo sapiens chromosome 22 unlocalized genomic contig, GRCh38 reference primary assembly
+>KI270736.1 Homo sapiens chromosome 22 unlocalized genomic contig, GRCh38 reference primary assembly
+>KI270737.1 Homo sapiens chromosome 22 unlocalized genomic contig, GRCh38 reference primary assembly
+>KI270738.1 Homo sapiens chromosome 22 unlocalized genomic contig, GRCh38 reference primary assembly
+>KI270739.1 Homo sapiens chromosome 22 unlocalized genomic contig, GRCh38 reference primary assembly
+>CM000685.2 Homo sapiens chromosome X, GRCh38 reference primary assembly
+>CM000686.2 Homo sapiens chromosome Y, GRCh38 reference primary assembly
+>KI270740.1 Homo sapiens chromosome Y unlocalized genomic contig, GRCh38 reference primary assembly
+>KI270302.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270304.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270303.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270305.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270322.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270320.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270310.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270316.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270315.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270312.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270311.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270317.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270412.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270411.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270414.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270419.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270418.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270420.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270424.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270417.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270422.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270423.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270425.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270429.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270442.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270466.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270465.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270467.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270435.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270438.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270468.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270510.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270509.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270518.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270508.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270516.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270512.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270519.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270522.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270511.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270515.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270507.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270517.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270529.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270528.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270530.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270539.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270538.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270544.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270548.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270583.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270587.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270580.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270581.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270579.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270589.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270590.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270584.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270582.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270588.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270593.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270591.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270330.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270329.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270334.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270333.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270335.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270338.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270340.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270336.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270337.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270363.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270364.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270362.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270366.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270378.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270379.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270389.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270390.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270387.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270395.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270396.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270388.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270394.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270386.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270391.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270383.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270393.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270384.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270392.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270381.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270385.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270382.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270376.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270374.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270372.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270373.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270375.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270371.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270448.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270521.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>GL000195.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>GL000219.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>GL000220.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>GL000224.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270741.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>GL000226.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>GL000213.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270743.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270744.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270745.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270746.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270747.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270748.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270749.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270750.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270751.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270752.1 UNVERIFIED_ORG: Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270753.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270754.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270755.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270756.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270757.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>GL000214.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KI270742.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>GL000216.2 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>GL000218.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly
+>KQ031383.1 Homo sapiens chromosome 1 genomic contig HG1342_HG2282_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KQ983255.1 Homo sapiens chromosome 1 genomic contig HSCHR1_5_CTG3, GRC reference assembly NOVEL PATCH for GRCh38
+>MU273333.1 Homo sapiens chromosome 1 genomic contig HG1343_HG173_HG459_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KN538361.1 Homo sapiens chromosome 1 genomic contig HG2095_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KQ458383.1 Homo sapiens chromosome 1 genomic contig HSCHR1_4_CTG3, GRC reference assembly NOVEL PATCH for GRCh38
+>KN196473.1 Homo sapiens chromosome 1 genomic contig HG2058_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KZ208904.1 Homo sapiens chromosome 1 genomic contig HSCHR1_8_CTG3, GRC reference assembly NOVEL PATCH for GRCh38
+>KZ559100.1 Homo sapiens chromosome 1 genomic contig HG460_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KN196472.1 Homo sapiens chromosome 1 genomic contig HG986_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KZ208905.1 Homo sapiens chromosome 1 genomic contig HSCHR1_9_CTG3, GRC reference assembly NOVEL PATCH for GRCh38
+>KQ458382.1 Homo sapiens chromosome 1 genomic contig HSCHR1_3_CTG3, GRC reference assembly NOVEL PATCH for GRCh38
+>KV880763.1 Homo sapiens chromosome 1 genomic contig HSCHR1_6_CTG3, GRC reference assembly NOVEL PATCH for GRCh38
+>KN196474.1 Homo sapiens chromosome 1 genomic contig HG2104_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273330.1 Homo sapiens chromosome 1 genomic contig HSCHR1_12_CTG3, GRC reference assembly NOVEL PATCH for GRCh38
+>MU273335.1 Homo sapiens chromosome 1 genomic contig HG2515_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273336.1 Homo sapiens chromosome 1 genomic contig HG2577_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273331.1 Homo sapiens chromosome 1 genomic contig HSCHR1_5_CTG31, GRC reference assembly NOVEL PATCH for GRCh38
+>KN538360.1 Homo sapiens chromosome 1 genomic contig HG1832_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KZ208906.1 Homo sapiens chromosome 1 genomic contig HG2002_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KQ458384.1 Homo sapiens chromosome 1 genomic contig HSCHR1_5_CTG32_1, GRC reference assembly NOVEL PATCH for GRCh38
+>MU273334.1 Homo sapiens chromosome 1 genomic contig HG2571_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273332.1 Homo sapiens chromosome 1 genomic contig HSCHR1_6_CTG31, GRC reference assembly NOVEL PATCH for GRCh38
+>ML143342.1 Homo sapiens chromosome 2 genomic contig HG1384_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273344.1 Homo sapiens chromosome 2 genomic contig HG2231_HG2496_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273345.1 Homo sapiens chromosome 2 genomic contig HG2140_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273343.1 Homo sapiens chromosome 2 genomic contig HG2052_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273340.1 Homo sapiens chromosome 2 genomic contig HSCHR2_6_CTG1, GRC reference assembly NOVEL PATCH for GRCh38
+>KQ031384.1 Homo sapiens chromosome 2 genomic contig HG2290_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273337.1 Homo sapiens chromosome 2 genomic contig HSCHR2_10_CTG7_2, GRC reference assembly NOVEL PATCH for GRCh38
+>MU273342.1 Homo sapiens chromosome 2 genomic contig HG2275_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KZ208907.1 Homo sapiens chromosome 2 genomic contig HSCHR2_7_CTG7_2, GRC reference assembly NOVEL PATCH for GRCh38
+>MU273339.1 Homo sapiens chromosome 2 genomic contig HSCHR2_12_CTG7_2, GRC reference assembly NOVEL PATCH for GRCh38
+>MU273338.1 Homo sapiens chromosome 2 genomic contig HSCHR2_11_CTG7_2, GRC reference assembly NOVEL PATCH for GRCh38
+>MU273341.1 Homo sapiens chromosome 2 genomic contig HG2494_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KQ983256.1 Homo sapiens chromosome 2 genomic contig HSCHR2_6_CTG7_2, GRC reference assembly NOVEL PATCH for GRCh38
+>KZ208908.1 Homo sapiens chromosome 2 genomic contig HSCHR2_8_CTG7_2, GRC reference assembly NOVEL PATCH for GRCh38
+>KN538363.1 Homo sapiens chromosome 2 genomic contig HG2232_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>ML143341.1 Homo sapiens chromosome 2 genomic contig HG721_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KN538362.1 Homo sapiens chromosome 2 genomic contig HG2233_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KV766192.1 Homo sapiens chromosome 3 genomic contig HG2236_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273347.1 Homo sapiens chromosome 3 genomic contig HG2077_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273348.1 Homo sapiens chromosome 3 genomic contig HG2069_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KN196475.1 Homo sapiens chromosome 3 genomic contig HG2066_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KQ031385.1 Homo sapiens chromosome 3 genomic contig HG2235_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KN538364.1 Homo sapiens chromosome 3 genomic contig HG126_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>ML143343.1 Homo sapiens chromosome 3 genomic contig HSCHR3_5_CTG1, GRC reference assembly NOVEL PATCH for GRCh38
+>KZ208909.1 Homo sapiens chromosome 3 genomic contig HSCHR3_4_CTG1, GRC reference assembly NOVEL PATCH for GRCh38
+>KQ031386.1 Homo sapiens chromosome 3 genomic contig HG2237_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KN196476.1 Homo sapiens chromosome 3 genomic contig HG2022_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KZ559104.1 Homo sapiens chromosome 3 genomic contig HG2133_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KZ559105.1 Homo sapiens chromosome 3 genomic contig HSCHR3_6_CTG2_1, GRC reference assembly NOVEL PATCH for GRCh38
+>KZ559103.1 Homo sapiens chromosome 3 genomic contig HSCHR3_9_CTG2_1, GRC reference assembly NOVEL PATCH for GRCh38
+>KZ559102.1 Homo sapiens chromosome 3 genomic contig HSCHR3_8_CTG2_1, GRC reference assembly NOVEL PATCH for GRCh38
+>KZ559101.1 Homo sapiens chromosome 3 genomic contig HSCHR3_7_CTG2_1, GRC reference assembly NOVEL PATCH for GRCh38
+>MU273346.1 Homo sapiens chromosome 3 genomic contig HG2264_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>ML143344.1 Homo sapiens chromosome 4 genomic contig HG699_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>ML143347.1 Homo sapiens chromosome 4 genomic contig HG1298_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KQ090013.1 Homo sapiens chromosome 4 genomic contig HSCHR4_2_CTG4, GRC reference assembly NOVEL PATCH for GRCh38
+>MU273351.1 Homo sapiens chromosome 4 genomic contig HG287_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>ML143346.1 Homo sapiens chromosome 4 genomic contig HG1299_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>ML143348.1 Homo sapiens chromosome 4 genomic contig HG1296_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>ML143345.1 Homo sapiens chromosome 4 genomic contig HG2525_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>ML143349.1 Homo sapiens chromosome 4 genomic contig HG705_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KQ090014.1 Homo sapiens chromosome 4 genomic contig HSCHR4_8_CTG12, GRC reference assembly NOVEL PATCH for GRCh38
+>KQ090015.1 Homo sapiens chromosome 4 genomic contig HSCHR4_9_CTG12, GRC reference assembly NOVEL PATCH for GRCh38
+>MU273349.1 Homo sapiens chromosome 4 genomic contig HSCHR4_2_CTG8_1, GRC reference assembly NOVEL PATCH for GRCh38
+>KV766193.1 Homo sapiens chromosome 4 genomic contig HSCHR4_12_CTG12, GRC reference assembly NOVEL PATCH for GRCh38
+>MU273350.1 Homo sapiens chromosome 4 genomic contig HG2155_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KQ983258.1 Homo sapiens chromosome 4 genomic contig HSCHR4_11_CTG12, GRC reference assembly NOVEL PATCH for GRCh38
+>KQ983257.1 Homo sapiens chromosome 4 genomic contig HG2023_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273354.1 Homo sapiens chromosome 5 genomic contig HG2405_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KZ208910.1 Homo sapiens chromosome 5 genomic contig HSCHR5_9_CTG1, GRC reference assembly NOVEL PATCH for GRCh38
+>MU273353.1 Homo sapiens chromosome 5 genomic contig HG2476_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KN196477.1 Homo sapiens chromosome 5 genomic contig HSCHR5_7_CTG1, GRC reference assembly NOVEL PATCH for GRCh38
+>KV575243.1 Homo sapiens chromosome 5 genomic contig HSCHR5_8_CTG1, GRC reference assembly NOVEL PATCH for GRCh38
+>MU273356.1 Homo sapiens chromosome 5 genomic contig HSCHR5_10_CTG1, GRC reference assembly NOVEL PATCH for GRCh38
+>ML143350.1 Homo sapiens chromosome 5 genomic contig HG1395_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273355.1 Homo sapiens chromosome 5 genomic contig HG2308_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KV575244.1 Homo sapiens chromosome 5 genomic contig HG30_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273352.1 Homo sapiens chromosome 5 genomic contig HG1046_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KZ208911.1 Homo sapiens chromosome 6 genomic contig HG2057_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KQ090017.1 Homo sapiens chromosome 6 genomic contig HSCHR6_1_CTG10, GRC reference assembly NOVEL PATCH for GRCh38
+>MU273357.1 Homo sapiens chromosome 6 genomic contig HSCHR6_1_CTG1, GRC reference assembly NOVEL PATCH for GRCh38
+>KQ031387.1 Homo sapiens chromosome 6 genomic contig HG1651_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KN196478.1 Homo sapiens chromosome 6 genomic contig HG2128_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KQ090016.1 Homo sapiens chromosome 6 genomic contig HG2072_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KV766194.1 Homo sapiens chromosome 6 genomic contig HG2121_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>ML143351.1 Homo sapiens chromosome 6 genomic contig HG563_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>ML143352.1 Homo sapiens chromosome 7 genomic contig HG1309_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KZ559106.1 Homo sapiens chromosome 7 genomic contig HSCHR7_3_CTG1, GRC reference assembly NOVEL PATCH for GRCh38
+>MU273358.1 Homo sapiens chromosome 7 genomic contig HSCHR7_4_CTG1, GRC reference assembly NOVEL PATCH for GRCh38
+>KV880764.1 Homo sapiens chromosome 7 genomic contig HG2088_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KV880765.1 Homo sapiens chromosome 7 genomic contig HG2266_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KZ208912.1 Homo sapiens chromosome 7 genomic contig HG708_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KZ208913.1 Homo sapiens chromosome 7 genomic contig HSCHR7_3_CTG4_4, GRC reference assembly NOVEL PATCH for GRCh38
+>KQ031388.1 Homo sapiens chromosome 7 genomic contig HG2239_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273362.1 Homo sapiens chromosome 8 genomic contig HG2267_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KZ208915.1 Homo sapiens chromosome 8 genomic contig HG76_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KV880767.1 Homo sapiens chromosome 8 genomic contig HG2068_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273359.1 Homo sapiens chromosome 8 genomic contig HG2176_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KV880766.1 Homo sapiens chromosome 8 genomic contig HG2067_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273361.1 Homo sapiens chromosome 8 genomic contig HG2408_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KZ559107.1 Homo sapiens chromosome 8 genomic contig HSCHR8_7_CTG7, GRC reference assembly NOVEL PATCH for GRCh38
+>MU273363.1 Homo sapiens chromosome 8 genomic contig HG2031_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KZ208914.1 Homo sapiens chromosome 8 genomic contig HG2419_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273360.1 Homo sapiens chromosome 8 genomic contig HG1047_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KQ090018.1 Homo sapiens chromosome 9 genomic contig HSCHR9_1_CTG6, GRC reference assembly NOVEL PATCH for GRCh38
+>KQ090019.1 Homo sapiens chromosome 9 genomic contig HSCHR9_1_CTG7, GRC reference assembly NOVEL PATCH for GRCh38
+>MU273366.1 Homo sapiens chromosome 9 genomic contig HG1206_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273364.1 Homo sapiens chromosome 9 genomic contig HG2158_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273365.1 Homo sapiens chromosome 9 genomic contig HG1012_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KN196479.1 Homo sapiens chromosome 9 genomic contig HG2030_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>ML143353.1 Homo sapiens chromosome 9 genomic contig HG613_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>ML143354.1 Homo sapiens chromosome 10 genomic contig HG545_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KN538367.1 Homo sapiens chromosome 10 genomic contig HG2244_HG2245_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>ML143355.1 Homo sapiens chromosome 10 genomic contig HG1277_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KQ090020.1 Homo sapiens chromosome 10 genomic contig HSCHR10_1_CTG6, GRC reference assembly NOVEL PATCH for GRCh38
+>KN196480.1 Homo sapiens chromosome 10 genomic contig HG2191_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KQ090021.1 Homo sapiens chromosome 10 genomic contig HG2334_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273367.1 Homo sapiens chromosome 10 genomic contig HG2576_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KN538366.1 Homo sapiens chromosome 10 genomic contig HG2242_HG2243_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KN538365.1 Homo sapiens chromosome 10 genomic contig HG2241_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KQ759759.2 Homo sapiens chromosome 11 genomic contig HG107_HG2565_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273369.1 Homo sapiens chromosome 11 genomic contig HG152_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>ML143358.1 Homo sapiens chromosome 11 genomic contig HG28_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273371.1 Homo sapiens chromosome 11 genomic contig HG2578_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KN538368.1 Homo sapiens chromosome 11 genomic contig HSCHR11_1_CTG1_2, GRC reference assembly NOVEL PATCH for GRCh38
+>ML143360.1 Homo sapiens chromosome 11 genomic contig HG2111_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KZ559109.1 Homo sapiens chromosome 11 genomic contig HG2114_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KZ559108.1 Homo sapiens chromosome 11 genomic contig HG2060_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KV766195.1 Homo sapiens chromosome 11 genomic contig HG1708_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273370.1 Homo sapiens chromosome 11 genomic contig HG2568_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KZ559111.1 Homo sapiens chromosome 11 genomic contig HSCHR11_1_CTG3_1, GRC reference assembly NOVEL PATCH for GRCh38
+>ML143359.1 Homo sapiens chromosome 11 genomic contig HG2115_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>ML143357.1 Homo sapiens chromosome 11 genomic contig HG1445_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KZ559110.1 Homo sapiens chromosome 11 genomic contig HSCHR11_2_CTG8, GRC reference assembly NOVEL PATCH for GRCh38
+>KQ090022.1 Homo sapiens chromosome 11 genomic contig HG2116_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>ML143356.1 Homo sapiens chromosome 11 genomic contig HG1521_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273368.1 Homo sapiens chromosome 11 genomic contig HSCHR11_2_CTG3_1, GRC reference assembly NOVEL PATCH for GRCh38
+>KN196481.1 Homo sapiens chromosome 11 genomic contig HG2217_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KQ090023.1 Homo sapiens chromosome 12 genomic contig HSCHR12_2_CTG1, GRC reference assembly NOVEL PATCH for GRCh38
+>KZ208916.1 Homo sapiens chromosome 12 genomic contig HG1815_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>ML143362.1 Homo sapiens chromosome 12 genomic contig HG1398_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KN538369.1 Homo sapiens chromosome 12 genomic contig HG1362_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KN196482.1 Homo sapiens chromosome 12 genomic contig HG23_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273372.1 Homo sapiens chromosome 12 genomic contig HG2554_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KZ208918.1 Homo sapiens chromosome 12 genomic contig HSCHR12_8_CTG2_1, GRC reference assembly NOVEL PATCH for GRCh38
+>KQ759760.1 Homo sapiens chromosome 12 genomic contig HG2063_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KZ208917.1 Homo sapiens chromosome 12 genomic contig HG2047_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KN538370.1 Homo sapiens chromosome 12 genomic contig HG2247_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KZ559112.1 Homo sapiens chromosome 12 genomic contig HSCHR12_9_CTG2_1, GRC reference assembly NOVEL PATCH for GRCh38
+>ML143361.1 Homo sapiens chromosome 12 genomic contig HG2246_HG2248_HG2276_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>ML143366.1 Homo sapiens chromosome 13 genomic contig HG2509_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KN538372.1 Homo sapiens chromosome 13 genomic contig HG2291_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KQ090024.1 Homo sapiens chromosome 13 genomic contig HSCHR13_1_CTG7, GRC reference assembly NOVEL PATCH for GRCh38
+>ML143363.1 Homo sapiens chromosome 13 genomic contig HG1817_1_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KN196483.1 Homo sapiens chromosome 13 genomic contig HG2216_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KN538373.1 Homo sapiens chromosome 13 genomic contig HG2249_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KQ090025.1 Homo sapiens chromosome 13 genomic contig HSCHR13_1_CTG8, GRC reference assembly NOVEL PATCH for GRCh38
+>ML143364.1 Homo sapiens chromosome 13 genomic contig HG1523_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>ML143365.1 Homo sapiens chromosome 13 genomic contig HG1524_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KN538371.1 Homo sapiens chromosome 13 genomic contig HG2288_HG2289_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>ML143367.1 Homo sapiens chromosome 14 genomic contig HG2510_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273373.1 Homo sapiens chromosome 14 genomic contig HG2526_HG2573_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KZ208920.1 Homo sapiens chromosome 14 genomic contig HG1_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>ML143368.1 Homo sapiens chromosome 14 genomic contig HSCHR14_9_CTG1, GRC reference assembly NOVEL PATCH for GRCh38
+>KZ208919.1 Homo sapiens chromosome 14 genomic contig HSCHR14_8_CTG1, GRC reference assembly NOVEL PATCH for GRCh38
+>KN538374.1 Homo sapiens chromosome 15 genomic contig HG2139_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>ML143372.1 Homo sapiens chromosome 15 genomic contig HG2511_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>ML143371.1 Homo sapiens chromosome 15 genomic contig HG2365_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KQ031389.1 Homo sapiens chromosome 15 genomic contig HSCHR15_6_CTG8, GRC reference assembly NOVEL PATCH for GRCh38
+>MU273375.1 Homo sapiens chromosome 15 genomic contig HSCHR15_9_CTG8, GRC reference assembly NOVEL PATCH for GRCh38
+>ML143370.1 Homo sapiens chromosome 15 genomic contig HG2198_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273374.1 Homo sapiens chromosome 15 genomic contig HG2280_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>ML143369.1 Homo sapiens chromosome 15 genomic contig HG2499_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273376.1 Homo sapiens chromosome 16 genomic contig HG401_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KQ090026.1 Homo sapiens chromosome 16 genomic contig HSCHR16_5_CTG1, GRC reference assembly NOVEL PATCH for GRCh38
+>KZ559113.1 Homo sapiens chromosome 16 genomic contig HG2263_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KV880768.1 Homo sapiens chromosome 16 genomic contig HG926_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>ML143373.1 Homo sapiens chromosome 16 genomic contig HG2471_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KQ090027.1 Homo sapiens chromosome 16 genomic contig HSCHR16_4_CTG3_1, GRC reference assembly NOVEL PATCH for GRCh38
+>KZ208921.1 Homo sapiens chromosome 16 genomic contig HSCHR16_5_CTG3_1, GRC reference assembly NOVEL PATCH for GRCh38
+>KQ031390.1 Homo sapiens chromosome 16 genomic contig HSCHR16_3_CTG3_1, GRC reference assembly NOVEL PATCH for GRCh38
+>MU273377.1 Homo sapiens chromosome 16 genomic contig HG405_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KV766196.1 Homo sapiens chromosome 17 genomic contig HG2285_HG106_HG2252_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>ML143374.1 Homo sapiens chromosome 17 genomic contig HG2087_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KV575245.1 Homo sapiens chromosome 17 genomic contig HG2046_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KV766198.1 Homo sapiens chromosome 17 genomic contig HSCHR17_3_CTG1, GRC reference assembly NOVEL PATCH for GRCh38
+>MU273380.1 Homo sapiens chromosome 17 genomic contig HG2407_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273378.1 Homo sapiens chromosome 17 genomic contig HSCHR17_13_CTG4, GRC reference assembly NOVEL PATCH for GRCh38
+>KV766197.1 Homo sapiens chromosome 17 genomic contig HSCHR17_11_CTG4, GRC reference assembly NOVEL PATCH for GRCh38
+>KZ559114.1 Homo sapiens chromosome 17 genomic contig HSCHR17_12_CTG4, GRC reference assembly NOVEL PATCH for GRCh38
+>MU273383.1 Homo sapiens chromosome 17 genomic contig HG2580_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273379.1 Homo sapiens chromosome 17 genomic contig HG2118_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273382.1 Homo sapiens chromosome 17 genomic contig HG1369_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>ML143375.1 Homo sapiens chromosome 17 genomic contig HG1320_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273381.1 Homo sapiens chromosome 17 genomic contig HG2251_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KZ559116.1 Homo sapiens chromosome 18 genomic contig HSCHR18_1_CTG1, GRC reference assembly NOVEL PATCH for GRCh38
+>KQ458385.1 Homo sapiens chromosome 18 genomic contig HSCHR18_5_CTG1_1, GRC reference assembly NOVEL PATCH for GRCh38
+>KZ559115.1 Homo sapiens chromosome 18 genomic contig HG2412_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KQ090028.1 Homo sapiens chromosome 18 genomic contig HG2213_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KZ208922.1 Homo sapiens chromosome 18 genomic contig HG2442_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273386.1 Homo sapiens chromosome 19 genomic contig HG2469_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273387.1 Homo sapiens chromosome 19 genomic contig HSCHR19_6_CTG2, GRC reference assembly NOVEL PATCH for GRCh38
+>MU273384.1 Homo sapiens chromosome 19 genomic contig HG2461_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>ML143376.1 Homo sapiens chromosome 19 genomic contig HG109_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KQ458386.1 Homo sapiens chromosome 19 genomic contig HG26_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273385.1 Homo sapiens chromosome 19 genomic contig HG2569_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KN196484.1 Homo sapiens chromosome 19 genomic contig HG2021_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KV575246.1 Homo sapiens chromosome 19 genomic contig HSCHR19KIR_0019-4656-A_CTG3_1, GRC reference assembly NOVEL PATCH for GRCh38
+>KV575247.1 Homo sapiens chromosome 19 genomic contig HSCHR19KIR_CA01-TA01_1_CTG3_1, GRC reference assembly NOVEL PATCH for GRCh38
+>KV575248.1 Homo sapiens chromosome 19 genomic contig HSCHR19KIR_CA01-TA01_2_CTG3_1, GRC reference assembly NOVEL PATCH for GRCh38
+>KV575249.1 Homo sapiens chromosome 19 genomic contig HSCHR19KIR_CA01-TB04_CTG3_1, GRC reference assembly NOVEL PATCH for GRCh38
+>KV575250.1 Homo sapiens chromosome 19 genomic contig HSCHR19KIR_CA01-TB01_CTG3_1, GRC reference assembly NOVEL PATCH for GRCh38
+>KV575251.1 Homo sapiens chromosome 19 genomic contig HSCHR19KIR_HG2394_CTG3_1, GRC reference assembly NOVEL PATCH for GRCh38
+>KV575252.1 Homo sapiens chromosome 19 genomic contig HSCHR19KIR_502960008-2_CTG3_1, GRC reference assembly NOVEL PATCH for GRCh38
+>KV575253.1 Homo sapiens chromosome 19 genomic contig HSCHR19KIR_502960008-1_CTG3_1, GRC reference assembly NOVEL PATCH for GRCh38
+>KV575254.1 Homo sapiens chromosome 19 genomic contig HSCHR19KIR_0010-5217-AB_CTG3_1, GRC reference assembly NOVEL PATCH for GRCh38
+>KV575255.1 Homo sapiens chromosome 19 genomic contig HSCHR19KIR_7191059-1_CTG3_1, GRC reference assembly NOVEL PATCH for GRCh38
+>KV575256.1 Homo sapiens chromosome 19 genomic contig HSCHR19KIR_0019-4656-B_CTG3_1, GRC reference assembly NOVEL PATCH for GRCh38
+>KV575257.1 Homo sapiens chromosome 19 genomic contig HSCHR19KIR_CA04_CTG3_1, GRC reference assembly NOVEL PATCH for GRCh38
+>KV575259.1 Homo sapiens chromosome 19 genomic contig HSCHR19KIR_7191059-2_CTG3_1, GRC reference assembly NOVEL PATCH for GRCh38
+>KV575260.1 Homo sapiens chromosome 19 genomic contig HSCHR19KIR_HG2396_CTG3_1, GRC reference assembly NOVEL PATCH for GRCh38
+>KV575258.1 Homo sapiens chromosome 19 genomic contig HSCHR19KIR_HG2393_CTG3_1, GRC reference assembly NOVEL PATCH for GRCh38
+>MU273388.1 Homo sapiens chromosome 20 genomic contig HG2225_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273389.1 Homo sapiens chromosome 20 genomic contig HG410_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>ML143377.1 Homo sapiens chromosome 21 genomic contig HG2513_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273390.1 Homo sapiens chromosome 21 genomic contig HG2219_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273391.1 Homo sapiens chromosome 21 genomic contig HG2265_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273392.1 Homo sapiens chromosome 21 genomic contig HG2521_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>ML143380.1 Homo sapiens chromosome 22 genomic contig HG2512_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>ML143378.1 Homo sapiens chromosome 22 genomic contig HG1485_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KN196485.1 Homo sapiens chromosome 22 genomic contig HSCHR22_4_CTG1, GRC reference assembly NOVEL PATCH for GRCh38
+>KQ458387.1 Homo sapiens chromosome 22 genomic contig HSCHR22_6_CTG1, GRC reference assembly NOVEL PATCH for GRCh38
+>KQ458388.1 Homo sapiens chromosome 22 genomic contig HSCHR22_7_CTG1, GRC reference assembly NOVEL PATCH for GRCh38
+>KN196486.1 Homo sapiens chromosome 22 genomic contig HSCHR22_5_CTG1, GRC reference assembly NOVEL PATCH for GRCh38
+>KQ759761.1 Homo sapiens chromosome 22 genomic contig HSCHR22_8_CTG1, GRC reference assembly NOVEL PATCH for GRCh38
+>ML143379.1 Homo sapiens chromosome 22 genomic contig HG494_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KQ759762.2 Homo sapiens chromosome 22 genomic contig HG1311_HG2539_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KV766199.1 Homo sapiens chromosome X genomic contig HSCHRX_3_CTG7, GRC reference assembly NOVEL PATCH for GRCh38
+>ML143385.1 Homo sapiens chromosome X genomic contig HG1466_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273397.1 Homo sapiens chromosome X genomic contig HSCHRX_3_CTG3, GRC reference assembly NOVEL PATCH for GRCh38
+>ML143382.1 Homo sapiens chromosome X genomic contig HG1506_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273393.1 Homo sapiens chromosome X genomic contig HG2527_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>ML143383.1 Homo sapiens chromosome X genomic contig HG1507_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273394.1 Homo sapiens chromosome X genomic contig HG2541_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>ML143381.1 Homo sapiens chromosome X genomic contig HG439_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273396.1 Homo sapiens chromosome X genomic contig HSCHRX_2_CTG14, GRC reference assembly NOVEL PATCH for GRCh38
+>ML143384.1 Homo sapiens chromosome X genomic contig HG1509_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273395.1 Homo sapiens chromosome X genomic contig HSCHRX_1_CTG14, GRC reference assembly NOVEL PATCH for GRCh38
+>KZ208923.1 Homo sapiens chromosome Y genomic contig HG1531_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>MU273398.1 Homo sapiens chromosome Y genomic contig HG1532_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KZ208924.1 Homo sapiens chromosome Y genomic contig HG1535_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KN196487.1 Homo sapiens chromosome Y genomic contig HG2062_PATCH, GRC reference assembly FIX PATCH for GRCh38
+>KI270762.1 Homo sapiens chromosome 1 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270766.1 Homo sapiens chromosome 1 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270760.1 Homo sapiens chromosome 1 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270765.1 Homo sapiens chromosome 1 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383518.1 Homo sapiens chromosome 1 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383519.1 Homo sapiens chromosome 1 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383520.2 Homo sapiens chromosome 1 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270764.1 Homo sapiens chromosome 1 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270763.1 Homo sapiens chromosome 1 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270759.1 Homo sapiens chromosome 1 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270761.1 Homo sapiens chromosome 1 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270770.1 Homo sapiens chromosome 2 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270773.1 Homo sapiens chromosome 2 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270774.1 Homo sapiens chromosome 2 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270769.1 Homo sapiens chromosome 2 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383521.1 Homo sapiens chromosome 2 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270772.1 Homo sapiens chromosome 2 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270775.1 Homo sapiens chromosome 2 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270771.1 Homo sapiens chromosome 2 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270768.1 Homo sapiens chromosome 2 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL582966.2 Homo sapiens chromosome 2 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383522.1 Homo sapiens chromosome 2 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270776.1 Homo sapiens chromosome 2 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270767.1 Homo sapiens chromosome 2 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>JH636055.2 Homo sapiens chromosome 3 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270783.1 Homo sapiens chromosome 3 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270780.1 Homo sapiens chromosome 3 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383526.1 Homo sapiens chromosome 3 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270777.1 Homo sapiens chromosome 3 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270778.1 Homo sapiens chromosome 3 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270781.1 Homo sapiens chromosome 3 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270779.1 Homo sapiens chromosome 3 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270782.1 Homo sapiens chromosome 3 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270784.1 Homo sapiens chromosome 3 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270790.1 Homo sapiens chromosome 4 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383528.1 Homo sapiens chromosome 4 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270787.1 Homo sapiens chromosome 4 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL000257.2 Homo sapiens chromosome 4 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270788.1 Homo sapiens chromosome 4 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383527.1 Homo sapiens chromosome 4 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270785.1 Homo sapiens chromosome 4 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270789.1 Homo sapiens chromosome 4 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270786.1 Homo sapiens chromosome 4 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270793.1 Homo sapiens chromosome 5 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270792.1 Homo sapiens chromosome 5 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270791.1 Homo sapiens chromosome 5 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383532.1 Homo sapiens chromosome 5 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL949742.1 Homo sapiens chromosome 5 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270794.1 Homo sapiens chromosome 5 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL339449.2 Homo sapiens chromosome 5 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383530.1 Homo sapiens chromosome 5 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270796.1 Homo sapiens chromosome 5 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383531.1 Homo sapiens chromosome 5 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270795.1 Homo sapiens chromosome 5 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL000250.2 Homo sapiens chromosome 6 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270800.1 Homo sapiens chromosome 6 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270799.1 Homo sapiens chromosome 6 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383533.1 Homo sapiens chromosome 6 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270801.1 Homo sapiens chromosome 6 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270802.1 Homo sapiens chromosome 6 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KB021644.2 Homo sapiens chromosome 6 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270797.1 Homo sapiens chromosome 6 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270798.1 Homo sapiens chromosome 6 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270804.1 Homo sapiens chromosome 7 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270809.1 Homo sapiens chromosome 7 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270806.1 Homo sapiens chromosome 7 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383534.2 Homo sapiens chromosome 7 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270803.1 Homo sapiens chromosome 7 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270808.1 Homo sapiens chromosome 7 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270807.1 Homo sapiens chromosome 7 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270805.1 Homo sapiens chromosome 7 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270818.1 Homo sapiens chromosome 8 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270812.1 Homo sapiens chromosome 8 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270811.1 Homo sapiens chromosome 8 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270821.1 Homo sapiens chromosome 8 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270813.1 Homo sapiens chromosome 8 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270822.1 Homo sapiens chromosome 8 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270814.1 Homo sapiens chromosome 8 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270810.1 Homo sapiens chromosome 8 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270819.1 Homo sapiens chromosome 8 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270820.1 Homo sapiens chromosome 8 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270817.1 Homo sapiens chromosome 8 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270816.1 Homo sapiens chromosome 8 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270815.1 Homo sapiens chromosome 8 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383539.1 Homo sapiens chromosome 9 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383540.1 Homo sapiens chromosome 9 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383541.1 Homo sapiens chromosome 9 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383542.1 Homo sapiens chromosome 9 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270823.1 Homo sapiens chromosome 9 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383545.1 Homo sapiens chromosome 10 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270824.1 Homo sapiens chromosome 10 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383546.1 Homo sapiens chromosome 10 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270825.1 UNVERIFIED_ORG: Homo sapiens chromosome 10 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270832.1 Homo sapiens chromosome 11 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270830.1 Homo sapiens chromosome 11 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270831.1 Homo sapiens chromosome 11 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270829.1 Homo sapiens chromosome 11 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383547.1 Homo sapiens chromosome 11 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>JH159136.1 Homo sapiens chromosome 11 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>JH159137.1 Homo sapiens chromosome 11 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270827.1 Homo sapiens chromosome 11 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270826.1 Homo sapiens chromosome 11 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL877875.1 Homo sapiens chromosome 12 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL877876.1 Homo sapiens chromosome 12 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270837.1 Homo sapiens chromosome 12 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383549.1 Homo sapiens chromosome 12 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270835.1 Homo sapiens chromosome 12 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383550.2 Homo sapiens chromosome 12 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383552.1 Homo sapiens chromosome 12 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383553.2 Homo sapiens chromosome 12 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270834.1 Homo sapiens chromosome 12 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383551.1 Homo sapiens chromosome 12 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270833.1 Homo sapiens chromosome 12 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270836.1 Homo sapiens chromosome 12 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270840.1 Homo sapiens chromosome 13 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270839.1 Homo sapiens chromosome 13 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270843.1 Homo sapiens chromosome 13 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270841.1 Homo sapiens chromosome 13 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270838.1 Homo sapiens chromosome 13 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270842.1 Homo sapiens chromosome 13 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270844.1 Homo sapiens chromosome 14 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270847.1 Homo sapiens chromosome 14 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270845.1 Homo sapiens chromosome 14 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270846.1 Homo sapiens chromosome 14 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270852.1 Homo sapiens chromosome 15 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270851.1 Homo sapiens chromosome 15 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270848.1 Homo sapiens chromosome 15 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383554.1 Homo sapiens chromosome 15 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270849.1 Homo sapiens chromosome 15 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383555.2 Homo sapiens chromosome 15 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270850.1 Homo sapiens chromosome 15 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270854.1 Homo sapiens chromosome 16 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270856.1 Homo sapiens chromosome 16 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270855.1 Homo sapiens chromosome 16 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270853.1 Homo sapiens chromosome 16 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383556.1 Homo sapiens chromosome 16 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383557.1 Homo sapiens chromosome 16 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383563.3 Homo sapiens chromosome 17 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270862.1 Homo sapiens chromosome 17 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270861.1 Homo sapiens chromosome 17 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270857.1 Homo sapiens chromosome 17 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>JH159146.1 Homo sapiens chromosome 17 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>JH159147.1 Homo sapiens chromosome 17 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383564.2 Homo sapiens chromosome 17 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL000258.2 Homo sapiens chromosome 17 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383565.1 Homo sapiens chromosome 17 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270858.1 Homo sapiens chromosome 17 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270859.1 Homo sapiens chromosome 17 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383566.1 Homo sapiens chromosome 17 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270860.1 Homo sapiens chromosome 17 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270864.1 Homo sapiens chromosome 18 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383567.1 Homo sapiens chromosome 18 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383570.1 Homo sapiens chromosome 18 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383571.1 Homo sapiens chromosome 18 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383568.1 Homo sapiens chromosome 18 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383569.1 Homo sapiens chromosome 18 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383572.1 Homo sapiens chromosome 18 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270863.1 Homo sapiens chromosome 18 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270868.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270865.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383573.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383575.2 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383576.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383574.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270866.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270867.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL949746.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383577.2 Homo sapiens chromosome 20 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270869.1 Homo sapiens chromosome 20 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270871.1 Homo sapiens chromosome 20 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270870.1 Homo sapiens chromosome 20 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383578.2 Homo sapiens chromosome 21 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270874.1 Homo sapiens chromosome 21 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270873.1 Homo sapiens chromosome 21 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383579.2 Homo sapiens chromosome 21 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383580.2 Homo sapiens chromosome 21 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383581.2 Homo sapiens chromosome 21 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270872.1 Homo sapiens chromosome 21 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270875.1 Homo sapiens chromosome 22 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270878.1 Homo sapiens chromosome 22 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270879.1 Homo sapiens chromosome 22 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270876.1 Homo sapiens chromosome 22 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270877.1 Homo sapiens chromosome 22 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383583.2 Homo sapiens chromosome 22 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>GL383582.2 Homo sapiens chromosome 22 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270880.1 Homo sapiens chromosome X genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270881.1 Homo sapiens chromosome X genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1
+>KI270892.1 Homo sapiens chromosome 1 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2
+>KI270894.1 Homo sapiens chromosome 2 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2
+>KI270893.1 Homo sapiens chromosome 2 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2
+>KI270895.1 Homo sapiens chromosome 3 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2
+>KI270896.1 Homo sapiens chromosome 4 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2
+>KI270897.1 Homo sapiens chromosome 5 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2
+>KI270898.1 Homo sapiens chromosome 5 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2
+>GL000251.2 Homo sapiens chromosome 6 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2
+>KI270899.1 Homo sapiens chromosome 7 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2
+>KI270901.1 Homo sapiens chromosome 8 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2
+>KI270900.1 Homo sapiens chromosome 8 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2
+>KI270902.1 Homo sapiens chromosome 11 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2
+>KI270903.1 Homo sapiens chromosome 11 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2
+>KI270904.1 Homo sapiens chromosome 12 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2
+>KI270906.1 Homo sapiens chromosome 15 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2
+>KI270905.1 Homo sapiens chromosome 15 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2
+>KI270907.1 Homo sapiens chromosome 17 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2
+>KI270910.1 Homo sapiens chromosome 17 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2
+>KI270909.1 Homo sapiens chromosome 17 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2
+>JH159148.1 Homo sapiens chromosome 17 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2
+>KI270908.1 Homo sapiens chromosome 17 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2
+>KI270912.1 Homo sapiens chromosome 18 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2
+>KI270911.1 Homo sapiens chromosome 18 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2
+>GL949747.2 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2
+>KB663609.1 Homo sapiens chromosome 22 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2
+>KI270913.1 Homo sapiens chromosome X genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2
+>KI270924.1 Homo sapiens chromosome 3 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_3
+>KI270925.1 Homo sapiens chromosome 4 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_3
+>GL000252.2 Homo sapiens chromosome 6 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_3
+>KI270926.1 Homo sapiens chromosome 8 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_3
+>KI270927.1 Homo sapiens chromosome 11 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_3
+>GL949748.2 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_3
+>KI270928.1 Homo sapiens chromosome 22 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_3
+>KI270934.1 Homo sapiens chromosome 3 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_4
+>GL000253.2 Homo sapiens chromosome 6 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_4
+>GL949749.2 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_4
+>KI270935.1 Homo sapiens chromosome 3 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_5
+>GL000254.2 Homo sapiens chromosome 6 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_5
+>GL949750.2 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_5
+>KI270936.1 Homo sapiens chromosome 3 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_6
+>GL000255.2 Homo sapiens chromosome 6 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_6
+>GL949751.2 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_6
+>KI270937.1 Homo sapiens chromosome 3 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_7
+>GL000256.2 Homo sapiens chromosome 6 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_7
+>GL949752.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_7
+>KI270758.1 Homo sapiens chromosome 6 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_8
+>GL949753.2 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_8
+>KI270938.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_9
+>KI270882.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_10
+>KI270883.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_11
+>KI270884.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_12
+>KI270885.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_13
+>KI270886.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_14
+>KI270887.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_15
+>KI270888.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_16
+>KI270889.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_17
+>KI270890.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_18
+>KI270891.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_19
+>KI270914.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_20
+>KI270915.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_21
+>KI270916.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_22
+>KI270917.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_23
+>KI270918.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_24
+>KI270919.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_25
+>KI270920.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_26
+>KI270921.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_27
+>KI270922.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_28
+>KI270923.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_29
+>KI270929.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_30
+>KI270930.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_31
+>KI270931.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_32
+>KI270932.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_33
+>KI270933.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_34
+>GL000209.2 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_35
+>J01415.2 Homo sapiens mitochondrion, complete genome

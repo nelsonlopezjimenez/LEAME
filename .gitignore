@@ -4,6 +4,10 @@
 *.gz
 *.sam
 *.vcf
+*.fasta
+*.json.txt
+*.fna.gz
+*.gbff.gz
 
 # big file formats
 *.mp4

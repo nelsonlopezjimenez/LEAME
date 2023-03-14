@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Subtle.crypto</title>
+</head>
+<body>
+    <p id='demo'></p>
+    <script>
+        /** found in reference.codeproject.com/dom/subtlecrypto/*/
+        function  shaXXX(str) {
+            // transform the string into an arraybuffer
+            let buffer = new TextEncoder('utf8').encode(str);
+            return crypto.subtle.digest('sha-1', buffer).then(function (hash) {
+                return hex(hash);
+            });
+        };
+        function hex(buffer) {
+            let hexCodes  = [];
+            let view  = new DataView(buffer);
+            for (let i = 0; i < view.byteLength; i += 4) {
+                let value = view.getUint32(i);
+                let stringValue = value.toString(16);
+                let padding = '00000000';
+                let paddedValue = (padding + stringValue).slice(-padding.length);
+                hexCodes.push(paddedValue);
+            }
+            return hexCodes.join("");
+        };
+        shaXXX("Colt's Code Camp Day 1-SF_Xl5TOGlY.mp4").then(function(digest) {
+            console.log(digest);
+        });   
+        // c3ab8......0c4f2
+        // 8843d7f92416211de9ebb963ff4ce28125932878   sha-1
+    </script>
+</body>
+</html>

@@ -1,0 +1,16 @@
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Howto
+
+Basic definitions:
+
+What is JavaScript?
+What is a variable?
+What are strings?
+What is an array?
+What is a loop?
+What is a function?
+What is an event?
+What is an object?
+What is JSON?
+What is a web API?
+What is the DOM?
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions#function_scope_and_conflicts

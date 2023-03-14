@@ -1,0 +1,47 @@
+E:\12.13.2020-from-usb-drives\12.14.2020-usb-non-protected\2021-imsc
+
+robocopy C:\source\folder\path\ D:\destination\folder\path\ /E /Z /ZB /R:5 /W:5 /TBD /NP /V /XD exclude-fold*
+
+robocopy /MIR source destination /XD node_modules*
+
+robocopy /MIR F:\12.14.2020-monroe-minicard E:\12.14.2020-monroe-minicard /XD *node_modules*
+=======================================
+
+  New File                   0        rebase_epoch
+2023/01/16 12:05:25 ERROR 87 (0x00000057) Changing File Attributes F:\12.13.2020-from-usb-drives\usb100-protected-12.15.2020\cygwin\var\cache\rebase\rebase_epoch
+The parameter is incorrect.
+Waiting 30 seconds... Retrying...
+=========================================
+2023/01/16 13:19:18 ERROR 87 (0x00000057) Time-Stamping Destination Directory E:\12.13.2020-from-usb-drives\usb2\e1\
+The parameter is incorrect.
+
+====================================
+       New File              959550        fulltext_Recursion_3d.pdf
+2023/01/16 13:35:15 ERROR 87 (0x00000057) Time-Stamping Destination Directory E:\12.13.2020-from-usb-drives\usb51-personal\
+The parameter is incorrect.
+Waiting 30 seconds...
+==================================
+2023/01/16 14:20:08 ERROR 87 (0x00000057) Time-Stamping Destination Directory E:\12.13.2020-from-usb-drives\usb6-march-2005\
+The parameter is incorrect.
+Waiting 30 seconds...
+============================
+2023/01/16 14:54:56 ERROR 87 (0x00000057) Time-Stamping Destination Directory E:\12.13.2020-from-usb-drives\usb64\
+The parameter is incorrect.
+Waiting 30 seconds... Retrying...
+2023/01/16 14:55:26 ERROR 87 (0x00000057) Time-Stamping Destination Directory E:\12.13.2020-from-usb-drives\usb64\
+The parameter is incorrect.
+Waiting 30 seconds... Retrying...
+2023/01/16 14:55:56 ERROR 87 (0x00000057) Time-Stamping Destination Directory E:\12.13.2020-from-usb-drives\usb64\
+The parameter is incorrect.
+Waiting 30 seconds...
+===================================
+he parameter is incorrect.
+Waiting 30 seconds... Retrying...
+2023/01/16 15:11:12 ERROR 87 (0x00000057) Time-Stamping Destination Directory E:\12.13.2020-from-usb-drives\usb9a-game-0f-thrones\
+The parameter is incorrect.
+Waiting 30 seconds... Retrying...
+2023/01/16 15:11:42 ERROR 87 (0x00000057) Time-Stamping Destination Directory E:\12.13.2020-from-usb-drives\usb9a-game-0f-thrones\
+The parameter is incorrect.
+Waiting 30 seconds.
+-================================
+robocopy /MIR F:\12.14.2020-monroe-minicard E:\12.14.2020-monroe-minicard /XD *node_modules*
