@@ -15,6 +15,9 @@
 *.webm
 *.m4a
 
+# Extracted files
+extracted_files
+
 # Logs
 logs
 *.log
