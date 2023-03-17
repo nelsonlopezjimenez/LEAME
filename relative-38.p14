@@ -1,1 +1,25 @@
 https-ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/001/405/GCA_000001405.29_GRCh38.p14
+https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/001/405/GCA_000001405.29_GRCh38.p14/
+
+Parent Directory                                                         -   
+GCA_000001405.29_GRCh38.p14_assembly_structure/     2022-06-22 14:04    -   
+GCA_000001405.29_GRCh38.p14_assembly_regions.txt    2022-06-22 14:01   41K  
+GCA_000001405.29_GRCh38.p14_assembly_report.txt     2022-06-22 14:01   67K  
+GCA_000001405.29_GRCh38.p14_assembly_stats.txt      2022-06-22 14:01   89K  
+GCA_000001405.29_GRCh38.p14_cds_from_genomic.fna.gz 2022-02-04 21:06  4.4K  
+GCA_000001405.29_GRCh38.p14_feature_count.txt.gz    2022-02-04 21:06  224   
+GCA_000001405.29_GRCh38.p14_feature_table.txt.gz    2022-02-04 21:06  1.4K  
+GCA_000001405.29_GRCh38.p14_genomic.fna.gz          2022-06-22 14:01  928M  
+GCA_000001405.29_GRCh38.p14_genomic.gbff.gz         2022-06-22 14:02  1.2G  
+GCA_000001405.29_GRCh38.p14_genomic.gff.gz          2022-06-22 14:02   72K  
+GCA_000001405.29_GRCh38.p14_genomic.gtf.gz          2022-02-04 21:07  2.9K  
+GCA_000001405.29_GRCh38.p14_genomic_gaps.txt.gz     2022-02-04 21:07   11K  
+GCA_000001405.29_GRCh38.p14_protein.faa.gz          2022-02-04 21:07  2.5K  
+GCA_000001405.29_GRCh38.p14_protein.gpff.gz         2022-02-04 21:07  8.9K  
+GCA_000001405.29_GRCh38.p14_rna_from_genomic.fna.gz 2022-02-04 21:07  2.2K  
+GCA_000001405.29_GRCh38.p14_translated_cds.faa.gz   2022-02-04 21:07  3.0K  
+README.txt                                          2020-09-02 16:26   43K  
+annotation_hashes.txt                               2022-06-22 14:07  411   
+assembly_status.txt                                 2023-03-16 07:44   14   
+md5checksums.txt                                    2022-06-22 14:07  195K  
+HHS Vulnerability Disclosure
